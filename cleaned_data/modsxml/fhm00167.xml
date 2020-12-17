@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00167</identifier>
+   <identifier>143BN13</identifier>
+   <titleInfo>
+      <title>143BN13 Bridges Site 12BN13, Benton Co., Tennessee. Feature 8, showing fire basin near stake block and burnt soil in foreground. Square 27R1. Direction west-northwest</title>
+   </titleInfo>
+   <abstract>Fire basin, burnt soil and associated evidence of a dwelling. Note pit in background left. This feature consists of a squarish fire basin, an area of burnt soil and a heap of burnt soil which has bits of baked mud in it that are clearly fragments of daubing. An exhaustive search located no postmolds. The fire basin is poorly made, roughly square in shape and has an uneven and not wholly burnt bottom. The sides are thinly burnt. The depth of the basin was about 0.2'. The basin was filled with clayey soil at top and ash and charcoal at the bottom.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>George A. Lidberg</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Dec 30, 1940</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1940-12-30</dateCreated>
+   </originInfo>
+   <note>Feature identifier(s): 8</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Fire basins</topic>
+   </subject>
+   <subject>
+      <temporal>Late Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1941</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79151191">
+      <geographic>Benton County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

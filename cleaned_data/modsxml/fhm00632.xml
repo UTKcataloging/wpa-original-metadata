@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00632</identifier>
+   <identifier>8-215</identifier>
+   <titleInfo>
+      <title>8-215 Richardson Farm Mound Site 13CP8, Campbell County, Tennessee. View of mound</title>
+   </titleInfo>
+   <abstract>Diameter approximately 65'. About 5' in height, originally said to have been 5' or 6' higher. Tertiary floor encountered 1' below apex, badly torn up by plow and impossible to follow. Secondary floor 14" below tertiary at apex; primary 34" below secondary. Topography of the surrounding country is in the nature of low rolling foothills. Site is situated on level plowed field which has been cultivated for a half century or more. It overlooks the confluence of the Clinch and Powell Rivers. Inspection of the area surrounding the mound failed to reveal evidence of long occupation. No midden was noticeable on the fields and the owner stated that so far as he could recall nothing of that nature had been plowed up.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <note>See also photograph 8-216 [fhm00633].</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85087721">
+      <topic>Mounds</topic>
+   </subject>
+   <subject>
+      <topic>General site and excavation</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1934</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83070885">
+      <geographic>Campbell County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">mcr00175</identifier>
+   <identifier>103BN25</identifier>
+   <titleInfo>
+      <title>103BN25 Ledbetter, Benton County, Tennessee. Burial 9BN35. Indeterminate infant in poor condition, head to south, deposited on back. Red ochre covering beigaben; finished bone awls, tools, ulna awls, quartz pebble, and other materials. All this with the red ochre. Square 20CA. Direction West</title>
+   </titleInfo>
+   <abstract>This infant burial lay in Stratum II. Above its head lay the assortment of stuff listed above. Oddly, none of the ochre came in contact with the skeleton. Workers disturbed some of the beigaben before it was discovered. Some of the material is so poorly preserved as to make identification difficult.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>George A. Lidberg</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Nov 2, 1940</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1940-11-02</dateCreated>
+   </originInfo>
+   <note>Observer illustration available through institution.</note>
+   <note>Field specimen identifier(s): 9BN35(1), 9BN35(2), 9BN35(3), 9BN35(4), 9BN35(5)</note>
+   <note>Burial identifier(s): 9BN35</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85018080">
+      <topic>Burial</topic>
+   </subject>
+   <subject>
+      <temporal>Archaic</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79151191">
+      <geographic>Benton County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Restricted Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

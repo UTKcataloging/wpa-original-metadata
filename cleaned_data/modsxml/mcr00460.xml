@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">mcr00460</identifier>
+   <identifier>146BY13</identifier>
+   <titleInfo>
+      <title>146BY13 Ledford Island, Bradley County, Tennessee. Burial 16BY74, indeterminate infant in pit in floor of Feature 9. Note potsherds (F.S. 1745, 1746, 1747, 1768) beneath skeleton. Square 4R5. Direction East</title>
+   </titleInfo>
+   <abstract>Indeterminat infant in good condition, extended on back with head to south. This burial was covered over with sherds from three pots and it seemed likely that at time of interment that these pots had been whole. The burial lay over a large number of sherds seemingly from one or two pots. It lay in a pit near the west side of Feature 9. It was complete except for the feet. It lay in a small pit on the bottom of the larger pit (see drawing). Matrix was dark clayey soil. Sherds under the burial lay outside up as well as did the sherds above the burial. Under the sherds below 16BY74 lay another infant burial 16BY79. The sherds below 16BY74 seem to be related to 16BY79 and not 16BY74, unless of course these are simultaneous burials, as they might be, although there is no positive evidence to support this (Also see burial 16BY75 for similarity--infant in some sort of pit with pottery associated).</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>George A. Lidberg</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Jun 27, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-06-27</dateCreated>
+   </originInfo>
+   <note>Observer illustration available on file.</note>
+   <note>Field specimen identifier(s): 1745, 1746, 1747, 1768</note>
+   <note>Burial identifier(s): 16BY74</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85018080">
+      <topic>Burial</topic>
+   </subject>
+   <subject>
+      <topic>Artifacts</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1938</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1939</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81024913">
+      <geographic>Bradley County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Restricted Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

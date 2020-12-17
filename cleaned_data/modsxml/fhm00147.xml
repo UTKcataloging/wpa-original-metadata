@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00147</identifier>
+   <identifier>243BN8</identifier>
+   <titleInfo>
+      <title>243BN8 Harmon Creek Site 8BN8, Benton Co., Tennessee. Feature 7, House 1. Feature 8, House 2. Square CA81L12. Direction north</title>
+   </titleInfo>
+   <abstract>Feature 7 (house 1) offset to east square wall trench and post mold pattern, open corner. Feature 8 offset to west, ditto as to type. All St. I bottom. 8.4 DD. Wall trench of Feature 8 at north has been destroyed by TTR. [Feature 7] Feature 7, (Hse 1), is almost directly beneath Feature 8, (Hse 2) and is precedent to the latter. The burned layer would logically be associated with the later structure; therefore I have associated the materials with them with Feature 8. The pit (pit 9) is cut by a wall trench of Feature 8, therefore, if if is associated with either of these houses is would be with the peceeding one Feature 7. Other than the small burned areas there is no architectural associated with either, House 1 or 2. No fire pit or true floor was found. This must mean that the floor level was well above the present plow line. Therefore, although these features were not worked out until we were down in the yellow clay-subsoil they may be logically said to originate at the plow line. Becuase of lack of floor or fire basin no reasonable estimate can be made as to post mold or wall trench depth. [Feature 8] Feature 8, house 2, is almost superimposed upon Feature 7, house 1, and is intrusive to it. This was obvious at the Southwest corner where the wall trench pattern showed best. I have, merely on the basis of logic, associated the burned area with Feature 8, house 2. Other than this there is no association. The same remarks concerning the origin of F. 7 House 1 may pertain to this structure. The Northern wall trench was partly destroyed by my test trench. Indications as to its placement were plentiful but I was unable to place the post holes within it.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Douglas Osborne</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Dec 21, 1940</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1940-12-21</dateCreated>
+   </originInfo>
+   <note>Feature identifier(s): 7, 8</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Late Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79151191">
+      <geographic>Benton County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

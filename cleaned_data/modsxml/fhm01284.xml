@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01284</identifier>
+   <identifier>296MG31</identifier>
+   <titleInfo>
+      <title>296MG31 Hiwassee Island Site 38MG31, Meigs County, Tennessee. 38MG31 - Village. Feature 64, Post mold, pattern of a structure. The post molds have been cut vertically to give a cross section view. Square 26R5. Direction east</title>
+   </titleInfo>
+   <abstract>This rectangular structure is delineated by a moderately regular post mold pattern--no wall trenches were dug in setting the posts. The corners were closed by a continuous row of posts and were slightly rounded. For the most part, there was no definite floor, although over a central section was some burnt clay and a slight amount of charred cane and saplings, none of which could be definitely outlined. It is from this area that the pottery was taken. A small centrally located fire basin 0.5' deep and 0.7' in diameter was found within the burnt area. It was not found until after the picture was taken due to the burnt material lying over it which looked as if it might have been floor. There was little or nothing that would cause one to think the building had been destroyed by fire since the burnt material on the floor was so sketchy. The posts were vertical in cross section, indicating vertical side walls. For the picture this structure was blocked out and a vertical approach was made to locate the post molds. The fire basin was level with the floor, having no raised section. It was well made of puddled clay with hard side walls and bottom.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Mar 30, 1939</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1939-03-30</dateCreated>
+   </originInfo>
+   <note>Observer illustration on file at the institution.</note>
+   <note>Feature identifier(s): 64</note>
+   <note>Field specimen identifier(s): 932, 933</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1937</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83030217">
+      <geographic>Meigs County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

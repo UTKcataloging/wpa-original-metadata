@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">uar00208</identifier>
+   <identifier>24Lu92</identifier>
+   <titleInfo>
+      <title>24Lu92 Koger's Island, Lauderdale County, Alabama. Shows relationship of various burials</title>
+   </titleInfo>
+   <abstract>Shows relationship of various burials. Burials #66 &amp; 67 show in the lower right hand corner. Flexed burial in immediate foreground is Burial #74. Headless flexed burial behind #74 is burial #75. Burial #72 is the extended burial in the foreground. The multiple burial directly behind #72 consists of Burial #s 30, 31, 32, 33, &amp; 34. To the right of these is Burial #71. The flexed burial behind these is Burial #26, with Burial #s 27, 28, 101, &amp; 102 in the same pit, but not visible. Directly left of # 26 is Burial #29. The most distant multiple burial consists of Burial #s 35, 36, 37, 38, &amp; 39. The extended burial beyond these is Burial #40.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>B. C. Refshauge</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>B. C. Refshauge</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Dec 15, 1937</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1937-12-15</dateCreated>
+   </originInfo>
+   <note>Burial identifier(s): 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 66, 67, 72, 74, 75, 101, 102</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85003087">
+      <topic>Alabama--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85018080">
+      <topic>Burial</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1937</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n50073808">
+      <name>
+         <namePart>Alabama Museum of Natural History</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79139264">
+      <name>
+         <namePart>University of Alabama</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81018587">
+      <geographic>Lauderdale County (Ala.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>University of Alabama Museums WPA/TVA Archaeological Restricted Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n96060488">University of Alabama. Museums</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

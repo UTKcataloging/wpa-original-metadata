@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01364</identifier>
+   <identifier>50MN3(A)</identifier>
+   <titleInfo>
+      <title>50MN3(A) Mouse Creek Site 4MN3, McMinn County, Tennessee. Feature 10, Small dwelling house floor pattern with depressed floor; two firebasins appear in center and an entryway in the left background. On shoulder of creek bank. [Same as 50MN3(B)]</title>
+   </titleInfo>
+   <abstract>A comparatively small, almost square pit-house. Pit outlines difficult to trace, but fairly accurate as scaled on the ground plans. One fairly large centrally disposed area of grass cane and wood impressed wattle 0.3'-0.4' thick lies above the floor - an intervening, thin layer of loose black organic fill separated the wattle from the floor. The floor of the house was an average of 1.5' below the surface. The thickness of the accumulation is probably due to the proximity of the house to the creek where the heavy vegetation would be more apt to produce and hold surface soil. The presence of many roots and stumps made it difficult to trace the house outlines in the heavy accumulation of humic soil. The organic soil immediately above the wattle and in the fill of the house was in general characteristically different containing numerous flecks of burned clay and charcoal. The average depth of the pit as excavated was 0.3' - 0.4' deep however, it may have been somewhat deeper originally. Basin I with the smoothed curbed rim shows two distinct stages of use and repair. The original basin was circular -- (2.1' internal diameter) and was more bowl shaped, that is the sides sloped more gently to merge with the bottom. The rim was a rounded curb rising a little over 0.1' above the floor of the house. The surface was very roughly finished and broken sections showed that the clay contained a heavy admixture of grass fibers. The second stage of construction amounts to relining the original basin - this was done with clay mixed with grass fibers. The top of the curling of the rim was raised bout -.1' and almost 0.2' added to the upper sides on the interior of the rim, and a very thin layer plastered over the bottom, and lower part of the sides. The surface of the curbing was carefully suggested, and the sides and bottom less so. More care expended however than on the original basin. The edges of the newly added clay overlapped onto the house floor on the exterior periphery of the curbing. The basin thus formed coincided exactly with the original basin, though the sides were steeper, the diameter less - about 1.8' and the sides formed more of an angle with the bottom. The basin appeared to be deeper in relation to the top of its rim, but actually the two basins were approximatly the same depth. The basin was filled with mixed organic soil, a few sherds and a small quantitly of dissembled ash and charcoal - broken fragments of wattle - ostensibly from the roof occupied the top of the fill. The soil beneath the bottom of the basin showed burning to a depth of 0.4'. A little less than 0.2' of this was the thickness of the clay lining. Basin II was merely a bowl shaped hole dug in the floor and lined with roughly smoothed puddled clay. Its top was flush with the clay floor. It showed less use and was burned to a thickness of 0.2' - 0.3' - though no evidence of such could be found -- it was filled with organic soil and some broken shell and sherds. Two cross trenches on the interior of the house and perpendicular to the entry trenches are anomalous -- seeming to be merely another variation on this type of entrance, however it is possible that they represent repair work on the entry way. Small centrally located area of compacted, burned floor - very rough. Three postmolds discernable below this. This floor as excavated is about 0.2' , relatively above the surrounding level at which post molds were discernable. The humic accumulation above the fill of the house contained quite a bit of historic white occupational material such as broken crockery, buttons, iron and nails - apparently there had been some sort of habitation there though there is no local account of it. None of the stuff was associated with Feature 10.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Stuart Neitzel</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>May 8, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-05-08</dateCreated>
+   </originInfo>
+   <note>See also photograph 50MN3(B) [fhm01365].</note>
+   <note>Feature identifier(s): 10</note>
+   <note>Field specimen identifier(s): 702, 703, 707, 733, 736, 738, 744, 750, 752, 759, 965, 768, 772, 793, 794, 808, 809, 654, 826, 848, 849, 977</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Fire basins</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81112582">
+      <geographic>McMinn County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

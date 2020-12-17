@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">mcr00465</identifier>
+   <identifier>155BY13</identifier>
+   <titleInfo>
+      <title>155BY13 Ledford Island, Bradley County, Tennessee. Burial 16BY96, extended child in center foreground; 16BY97, an adult female bundle burial at left; 16BY98, a juvenile bundle burial at right; 16BY100 is an extended child in background. Square 5R10. Direction NW</title>
+   </titleInfo>
+   <abstract>[16BY96] Indeterminate juvenile in good condition, extended on back with head to SW. This burial lay in between two bundle burials 16BY97 and 98. It was thought that these burials might have been previous to the 16BY96 interment. They all lay in the same long pit. The length of the pit would lead one to believe that it may have been a simultaneous burial. This burial lay on subsoil. [16BY97] Adult female in good condition, bones in a heap. This was a bundle burial at the feet of 16BY96 and in the same pit. It lay on subsoil as did 16BY96 and seems to have been buried simultaneously with 16BY96 and 16BY98 (see drawing for 16BY96). The pit was intrusive from the plowline and was filled with mixed humic soil, clay and detritus. The presence of these bundle burials (16BY97 and 16BY98) is unexplainable from any evidence from this pit. [16BY98] Indeterminate juvenile in good condition, bones in a heap. This bundle burial lay at the head of 16BY96 (see drawing). It lay a little below 16BY97 but on the subsoil as did 16BY96 and 16BY97. It consisted of a heap of long bones, etc. with the skull lying on top. It is perhaps simultaneous with 16BY96 and 16BY97. The fill of the pit was a mixed humic and clayey soil. [16BY100] Indeterminate child in poor condition, extended on back with head to NE. This burial lay in a pit intrusive from base of plow line. Matrix of pit was mixed humic soil and clay. The bones that were missing seemed to have disappeared because of deterioration and perhaps disturbing by rodents. It lay on subsoil and about 2.0' from pit of 16BY96, 97, 98, but is not associated. The pit, however, is parallel to the pit of 16BY96, 97, 98.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>George A. Lidberg</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Jul 6, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-07-06</dateCreated>
+   </originInfo>
+   <note>Observer illustrations available on file.</note>
+   <note>Field specimen identifier(s): 2084, 2162</note>
+   <note>Burial identifier(s): 16BY96, 16BY97, 16BY98, 16BY100</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85018080">
+      <topic>Burial</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1938</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1939</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81024913">
+      <geographic>Bradley County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Restricted Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

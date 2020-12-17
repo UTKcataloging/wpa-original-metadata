@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">mcr00422</identifier>
+   <identifier>86BY11</identifier>
+   <titleInfo>
+      <title>86BY11 Rymer, Bradley County, Tennessee. Group of burials containing 15BY139, 140, 141, 142, 143, 144, 145, 146, 147, and 148. Square 25L4. Direction NNE</title>
+   </titleInfo>
+   <abstract>[15BY139] Indeterminate juvenile in poor condition, extended on back with head to SW. Lower half has been disturbed by 15BY140 or 15BY141 and femora reburied with long bones of 15BY141 at right of 15BY140. [15BY140] Senile female in fair condition, extended on back with head to SW. Skeleton appears to be intrusive to 15BY139 and 15BY141; however, it is badly disturbed. Ribs, right pelvis, right leg, right arm, and scapulae still articulated--vertebrae, left pelvis, sacrum, left forearm, and left leg disarticulated and disturbed. [15BY141] Indeterminate adult in poor condition, extended on back with head to NE. Apparently disturbed when 15BY140 was let into pit. Long bones except left humerus bundled up with femora of 15BY139 and buried compactly alongside 15BY140. [15BY142] Adult male in fair condition, extended on back with head to NW. No remarks by observer. [15BY143] Adult in fair condition, extended on back with head to NW. Apparently last burial of a group of three--posthumous disturbance of left pelvis and ribs and vertebrae--skull turned base up. [15BY144] Adult male in fair condition, extended on back with head to north. Burial has been let into 15BY145 cutting across at right angles through the pelvis and femora. Right tibia, fibula, and foot have been posthumously disturbed. Left fibula posthumously shifted. [15BY145] Adult male in poor condition, extended on back with head to NW. Forearms, legs and pelvis have been bundled up and reburied alongside 15BY144--upper portions of torso only slightly disturbed. Thin strips of charred wood or bark or both lay crosswise beneath and above the thorax. [15BY146] Mature female in poor condition, extended on back with head to WSW. Torso and femora of 15BY146 cut through at right angles by extension of 15BY147 or 15BY148 or both. Torso and femora disturbed and removed. [15BY147] Adult female in fair condition, bundle burial. Either an original bundle burial intrusive to 15BY148 or a bundled reburial after having been disturbed by the interment of 15BY148. [15BY148] Mature female in poor condition, extended on back with head to NE. Intrusive through 15BY146 and possibly intrusive to 15BY147; the latter being subsequently bundled up and reburied on top of femora and pelves of 15BY148.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Stuart Neitzel</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Jan 20, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-01-20</dateCreated>
+   </originInfo>
+   <note>Observer illustration available on file.</note>
+   <note>Field specimen identifier(s): 1915, 1848, 1908, 1929, 1920, 1912, 1909, 1910, 1911, 1913, 1930, 1931, 1914</note>
+   <note>Burial identifier(s): 15BY139, 15BY140, 15BY141, 15BY142, 15BY143, 15BY144, 15BY145, 15BY146, 15BY147, 15BY148</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85018080">
+      <topic>Burial</topic>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1937</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81024913">
+      <geographic>Bradley County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Restricted Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

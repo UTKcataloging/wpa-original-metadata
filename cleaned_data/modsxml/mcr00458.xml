@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">mcr00458</identifier>
+   <identifier>144BY13</identifier>
+   <titleInfo>
+      <title>144BY13 Ledford Island, Bradley County, Tennessee. Burials 16BY61, 62, 63, 64, 65, 67, from right to left. Pot (F.S. 1542) at feet of 16BY67. Square 3-4R3. Direction West</title>
+   </titleInfo>
+   <abstract>[16BY61] Adult female in good condition, head to WNW. Pit from plowzone filled with fairly light mixed soil. Pit outlines not definable on north side. Bones lay directly over 16BY62 and in contact with them. 61 seems to be later and to have disturbed somewhat earlier burial. Right ulna missing. These do not seem to be simultaneous burials. Lumbar vertebrae slumped to left, to lie left of vertebrae of 62. Feet of 61 and 62 are piled together. [16BY62] Adult female in fair condition, extended on back with head to WNW. Pit seems to be same as 16BY61. Lay directly below and touching 16BY61. Skull and cervical vertebrae disturbed but seem to have been in articulation and pushed about 0.6' to WNW in line of body. Pelvis completely gone and all vertebrae but 3 lumbar. Ribs fair. This is, I believe, a burial very shortly before 16BY61, 61 disturbing it while still partly fleshed. [16BY63] Mature male in good condition, extended on back with head to WNW. Pit from plowzone filled with fairly dark soil, extends under 16BY61, 62, and over 16BY64. Burial not disturbed. Face and neck slightly bent left. Right wrist under right ilium. On seventh thoracic vertebrae on right side was a small, long, curved bone, apparently a pathological piece. All bones appear to be pathological. At top, pit ran into and merged with pit of 16BY64. Below pit was more rectangular and definitely subsequent to 16BY64. Bones lay on subsoil. Left side 0.1' lower than right--apparently slumping into pit of 16BY64. [16BY64] Adult male in poor condition, extended on back with head to WNW. Pit from plowzone filled with fairly light mixed soil. Bones on subsoil 0.6' below 16BY63. 16BY64 pit extends under pit and bones of 16BY63. Face partly to right. Right arm under right ilium. Left arm partly under left ilium. Right patella between knees. Feet together. Upper torso poorer preservation than legs. This burial definitely precedent to 16BY63, and so precedent to 16BY61, 62. [16BY65] Adult male in poor condition, extended on back with head to WNW. Pit from plowzone filled with mixed soil. Feet about 0.1' higher than skull. Bones lay on subsoil. Left ulna, part of radius and hand missing. Bones fair but very friable; skull poor and slightly twisted to left. Left leg slumped slightly to right. Left arm apparently disturbed by intrusive post mold. [16BY67] Mature female in poor condition, extended on back with head to NW. Pit from plowzone filled with yellow clay and small amounts of humus. Bones lay on subsoil; from 0.2' above bones to contact with the bones was a very thin (1/4") dark brown line. This appeared to be completely decayed wood covering. Seemed present under bones also. One metatarsal of left foot lay 0.3' to side but otherwise little or no posthumous shifting of bones. Pit was quite rectangular at level of bones.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Fairbanks</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Jun 22, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-06-22</dateCreated>
+   </originInfo>
+   <note>Observer illustrations available on file.</note>
+   <note>Field specimen identifier(s): 1390, 1560, 1641, 1573, 1542, 1543, 1549</note>
+   <note>Burial identifier(s): 16BY61, 16BY62, 16BY63, 16BY64, 16BY65, 16BY67</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85018080">
+      <topic>Burial</topic>
+   </subject>
+   <subject>
+      <topic>Artifacts</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1938</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1939</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81024913">
+      <geographic>Bradley County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Restricted Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

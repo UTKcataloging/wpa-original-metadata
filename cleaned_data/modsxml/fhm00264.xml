@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00264</identifier>
+   <identifier>167BY13</identifier>
+   <titleInfo>
+      <title>167BY13 Ledford Island, Bradley Co., TN. Feature 17, Profile. Between stake 2L2 and 2L4. Direction east</title>
+   </titleInfo>
+   <abstract>[Feature 17] Feature 17 is a large trench into subsoil, filled with humic dark soil. It is apparently a continuation of Feature 7 which stops at 5.0W 5.0N of 2R1. There is a gap of about twelve feet between the west end of Feature 7 and the last end of Feature 17. The side walls of Feature 17 are straight and lightly sloping inward. The bottom is very nearly flat. The regularity of wall and floor in profile of Feature 17 leads to the assuption that it is man made. It arises at the base of the thick occupational deposits below the plowzone. In the region of Feature 17 excavated, it was overlain by Feature 26 so that no adequate knowledge of its origin can be determined. However, the extreme eastern end did seem to be fill of Feature 26, and here the trench appeared to arise at the base of the humus zone. See Feature 27 (profile) for discussion of the humic zone above Feature 17. Feature 17 was filled with a homogenous dark grey fill. This appeared to be a true humus development. Very few lenses of disturbed earth were observed. At the bottom and extending up the sides a short distance a mottled and leached band was found. This was composed of two thin layer of disturbed yellow clay separated by a humic band.... The trench probably extends farther to the west but growing crops made it inadvisable to extend the excavations further. [Feature 26] Firebasin (probably with associated structure). Small oval firebasin. Walls and floor of baked puddled clay. Floor burned 0.2' and walls and floor not especially hard. Wall curves somwhat to flat, smooth floor. BAsin filled with light grey ash. This basin is let down into tip of Feature 17 (trench) and is definitely subsequent to it. See discussions of Feature 17 and 27 (profile). There seems to be a definite habitation level connected with the structure although no baked floor was found. This habitation level showed as a line 0.2' to 0.3' thick of greyish mixed earth. This may represent occupational detitus on the floor or it may represent the pit of a semi-subterranean structure. Along the north edge of Feature 17 a row of posts were found apparently intrusive to Feature 17. These presumably represent the north wall of the structure. This would indicate an E-W orientation for the Feature. At the top of the occupational zone of Feature 26 was a thin intermittant layer of water deposited sand. This apparently indicated water deposition after collapse of structure. No evidence of burning. The thick band of dark humic fill above Feature 26 appears to be eroded -- redeposited material, perhaps modern. See notebook p.101 and Features 17 and 27.... [Feature 27] Profile N-S across Features 26 and 17. See notebook p. 107. Profile shows plowzone (1); humic occupational level (2); Feature 26 (3); basic clay (4); Feature 17 (5); with weathering profile at base of Feature 17. Full description in notebook. See Features 26 and 17 Feature Data Sheets. The principle point of interest seems to be the interrelation of Features 17 and 26, and the significance of the thick humic -- occupational bank above Feature 26. Feature 26 is definitely subsequent to Feature 17 and is let down into it. The thick dark band (2) seems to be partly humus and partly occupational detritus. As this part of the site is lower than that to the north it is suggested that this may be, in part, due to wash subsequent to Feature 26. There is a very slight suggestion of countersink in connection with Feature 26 but evidently it is quite shallow. The presence of a thin, intermittant sand line over Feature 26 suggests that some wash has occured. If the layer (2) is caused by surface wash some of the erosion may well have occurred during aboriginal times. Feature 17 did not differ appreciably throughout its length from the profile here drawn....</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Fairbanks</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Jul 14, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-07-14</dateCreated>
+   </originInfo>
+   <note>Additional narrative information for Features 17, 26, and 27 is on file at the institution</note>
+   <note>Feature identifier(s): 17, 26, 27</note>
+   <note>Field specimen identifier(s): 1784, 1833, 1855, 1863, 1996, 2158</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Stratigraphy</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1938</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1939</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81024913">
+      <geographic>Bradley County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

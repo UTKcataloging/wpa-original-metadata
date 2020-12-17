@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01172</identifier>
+   <identifier>54MG31</identifier>
+   <titleInfo>
+      <title>54MG31 Hiwassee Island Site 37MG31, Meigs County, Tennessee. 37MG31 - Earth mound. Feature 16 of Level C. Large post-mold pattern with burned area in center as indicated by elevated position. Feature 17 of Level C. Direction west</title>
+   </titleInfo>
+   <abstract>[Feature 16] This structure is delineated by an almost square post mold pattern with open corners. No sign of a wall mold was found. The post molds were very hard to find on the south and east and vertical cutting was resorted, hence in the picture it must be noted that the floor has been cut away, Ca. 0.5'. This can be seen because the central burnt area hasn't been cut down. The only feature of interest is the central burnt area on the floor and the four pits filled with blackened wattle work and charcoal that surrounded it. To the East of this another long pit that is partially filled with wattle has been found. Pit 1 is 7' long, 2' wide, .5' deep and filled with wattle work. Pit 2 is 10' long, 2' wide, .5' deep and filled with wattle work. Pit 3 is 4.5' long, 2' wide, .3' deep and filled with wattle work. Pit 4 is 7' long, 2' wide, .5' deep and filled with wattle work. Pit 5 is 4.5' long, 2.5' wide, .8' deep and filled with wattle work. None of these pits are lined nor do they show any effects of fire action. They may have cache pits but there doesn't seem to be any reason for the wattle work in them. The wall post were vertical and showed no effect of strain or stress. The floor was very indefinite and vague except at the center were the burnt area gave the true level. [Feature 17] This large circular structure is delineated by a post mold pattern - no wall trench found nor any evidence that there had been one. Internally the main feature is a small burnt area on the floor close to the center. Three clay lined cache pits found. Two of them rectangular and the other circular. Pit 1 is about .4' deep, 5.6' long and 1 to 2' wide. Pit 2 is ca. .2' deep, 2.3' long and 1' wide. Pit 3 is circular with a diameter of 2.2' and a depth of 3'.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Aug 27, 1937</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1937-08-27</dateCreated>
+   </originInfo>
+   <note>Observer illustrations on file at the institution. See also photograph 55MG31 [fhm01173]</note>
+   <note>Feature identifier(s): 16, 17</note>
+   <note>Field specimen identifier(s): 174, 175</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1937</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83030217">
+      <geographic>Meigs County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00278</identifier>
+   <identifier>242BY13</identifier>
+   <titleInfo>
+      <title>242BY13 Ledford Island Site 16BY13, Bradley Co., TN. Feature 40, Pit and post molds of feature. Square 18L8, etc. Direction northwest</title>
+   </titleInfo>
+   <abstract>This house is a typical house pattern of 16BY13. Note two firebasins, one deep in the center and the other shallow in the foreground. One section of the pit about four feet long on the left side has been reconstructed. Small, roughly square, house pit and fire basins and inclusive postmolds. This semi-subterranean house was found at 1.2' below the plowzone and all the intervening soil was a rich midden. The house may easily have originated at a higher level due to the nature of the fill over it. Specimens from pit #70 are also from feature 40 because when first discovered this was designated as pit #70 but was changed as soon as it was found to be a structure. The outline shown on the ground plan indicates the outline that appeared in the subsoil. The fill continued to a depth of 0.2' to 0.3' where a floor of subsoil was uncovered. Two fire places were discovered. The one in the center was a "conventional" basin with slightly sloping side and a flat bottom and a curb slightly (0.1') elevated above the surrounding floor. To the northwest of this basin was a circular had baked fire place with no curb or rim. It consisted of only a flat rough "plate" of burned clay with three postmolds intrusive to the edge. No postmold pattern was found which might be associated with the fire place. On the east corner of the pit outline was an irregular pit with several postholes that may be the entrance to the house. No other entrance could be found.... This house is a type which had not been found south of this point. The other houses were larger, in most cases more irregular, and while the others were a shallower part of the deposit they were all nearer the plowzone. Others comparable to this house were found to the north. It is undoubtedly precedent to the midden above it, and the lielihood is that it is perhaps one of the earliest cultural manifestations on this site.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>George A. Lidberg</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Feb 16, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-02-16</dateCreated>
+   </originInfo>
+   <note>Additional narrative information is on file at the institution. Contact institution for specific field specimen numbers. Additional field specimen numbers: 54 numbers non-consecutively ranging from 6140 to 6507, then 6717, 6507 and 7005.</note>
+   <note>Feature identifier(s): 40</note>
+   <note>Field specimen identifier(s): 6140, 6218, 6312, 6404, 6506, 6717, 7005</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <topic>General site and excavation</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1938</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1939</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n82030802">
+      <geographic>Anderson County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

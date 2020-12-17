@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">mcr00248</identifier>
+   <identifier>50BN12</identifier>
+   <titleInfo>
+      <title>50BN12 Eva, Benton County, Tennessee. Burials 6BN62,63,64, and 65. Burial 62 at left. Adult male. Stratum I (intrusive by pit into Stratum II). Associated with dog burial 6BN63. Burial 6BN64. Adult male in Stratum I, burial was in a pit which extended into Stratum II. Burial 6BN65. Adult indeterminate. Either badly disturbed or else a reburial. In a pit from Stratum I into Stratum II. Squares 50R1-R2 and 51R1-R2. Direction East</title>
+   </titleInfo>
+   <abstract>[6BN62] Adult male in fair condition, fully flexed on right side with head to SW. This burial, in a round pit of Stratum I intrusive for a few inches into Stratum II. Burial had turtle carapace and the dog (burial 63) in association.This dog was just under human. An awl along tibia of Left leg. Deer ulna awl at proximal end of tibia. Turtle carapace at skull. A snake vertebrae, antler drift, and a projectile point were found with dog. Projectile point in Thoracic cavity, antler right next to it and snake vertebrae just outside of cervical vertebare. A worked bone along right femur. Fish bone awl possibly associated. [6BN63] Indeterminate adult dog in good condition, fully flexed on left side with head to NW. [6BN64] Adult male in fair condition, fully flexed on left side with head to NE. Pieces of four green shale gorgets and a fish bone awl found with bones in association. [6BN65] Indeterminate adult in poor condition, fully flexed or extended. Peculiar burial, skull resting on pelvis, fragments of arm, leg crossed to south of skull. Burial completely compacted. Some foot bones found in articulation might have been a bundle or partially so. Gorgets probably assocated (note that these peices of gorget fit together). Depression of Stratum I into Stratum II.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Douglas Osborne</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Oct 11, 1940</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1940-10-11</dateCreated>
+   </originInfo>
+   <note>Observer illustrations available on file.</note>
+   <note>Field specimen identifier(s): 6BN62(1), 6BN62(2), 6BN62(3), 6BN62(4), 6BN62(5), 6NB62(6), 6BN64(1), 6BN64(2), 6NB65(1), 6BN65(2), 6BN65(3), 6BN65(4), 6BN65(5)</note>
+   <note>Burial identifier(s): 6BN62, 6BN63, 6BN64, 6BN65</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85018080">
+      <topic>Burial</topic>
+   </subject>
+   <subject>
+      <topic>Artifacts</topic>
+   </subject>
+   <subject>
+      <temporal>Middle Archaic</temporal>
+   </subject>
+   <subject>
+      <temporal>Late Archaic</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79151191">
+      <geographic>Benton County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Restricted Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

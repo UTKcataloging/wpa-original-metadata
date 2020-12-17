@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01244</identifier>
+   <identifier>147MG31</identifier>
+   <titleInfo>
+      <title>147MG31 Hiwassee Island Site 37MG31, Meigs Co., TN. 37MG31 - Earth mound. Features 47, 47A, and 45, Level E. Feature 47 pyramidal earthwork appears at right, and Feature 45 pyramidal earthwork at left. Both were connected by level area somewhat lower in level; one level appears in the center of picture. In the right foreground is Feature 47A ramp. Direction southeast</title>
+   </titleInfo>
+   <abstract>[Feature 45] This pyramidal mound lies Ca. 1' under Feat. 39 pyramidal mound and is exactly similar in every respect except that no platform was found on the top surface. On the West, this mound leveled out to the same side slope as was in use by mound Feat. 39; on the other three sides, however, the side slopes are in somewhat farther. The top surface is a rather indefinite but hard packed floor 25.5' x 15.5'. At the West end, a row of posts set in a wall trench was found. Parallel to this and 7' West of the East end, another such row was uncovered. The approach to the mound on the South was by a poorly made ramp (Feat. 45A). From the West, an approach (discussed for Feat. 39) was used. This consisted of a series of toe-holds on the low slope to the South that gave approach to a flat area on the West of the mound. This mound connects with Feat. 47 mound by a gentle rising slope. [Feature 47] This pyramidal mound lies 1' below Feat. 38 pyramidal mound and is almost identical, being, however, somewhat shorter and narrower. At the West end is a row of post molds set in a wall trench. No platform has been found at this level and it may be that it was destroyed before Feat. 38 was built. This mound is connected by a fairly level area at the West end to pyramidal mound Feat. 45; to the North is a terraced area upon which was Feat. 46. The approach to this mound was by a ramp on the South side directly under the ramp Feat. 38B. About 0.3' to 0.4' below this mound surface was another that associated with structure Feat. 48. This structure ran under the North edge of the upper surface of Feat. 47 and when this second surface was excavated the top leveled off to practically the same level as the terraced area to the North. Thus in effect leaving one rather large pyramidal mound composed of the mound Feat. 47 and the terrace. At a D.D. of 17.2, a row of molds in a wall mold was found at the East of the mound and possibly indicates an earlier period of use. [Feature 47A] This ramp is directly under Feat. 38B ramp and was somewhat better made. It has an inclination of Ca. 45 degrees and the top surface has been cut into rather crude steps. A considerable amount of erosion is apparent over the top surface and apparently it had been exposed to the weather for a considerable period.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>May 3, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-05-03</dateCreated>
+   </originInfo>
+   <note>Observer illustration on file at the institution. See also photographs 146MG31 [fhm01243], 148MG31 [fhm01245], 150MG31 [fhm01246], 151MG31 [fhm01247], and 159MG31 [fhm01249].</note>
+   <note>Feature identifier(s): 45, 47, 47A</note>
+   <note>Field specimen identifier(s): 379</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85087721">
+      <topic>Mounds</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85087721">
+      <topic>Mounds</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh86002076">
+      <topic>Ramps (Walkways)</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1937</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83030217">
+      <geographic>Meigs County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

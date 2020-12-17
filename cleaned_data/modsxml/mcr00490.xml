@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">mcr00490</identifier>
+   <identifier>185BY13</identifier>
+   <titleInfo>
+      <title>185BY13 Ledford Island, Bradley County, Tennessee. Burials 16BY154, an indeterminate child on top; 16BY164, an adult male; 16By165, an adult male on bottom. Shell spoon (F.S. 3638) between tibiae of 16BY164. Square 10CA. Direction SE</title>
+   </titleInfo>
+   <abstract>[16BY154] Indeterminate infant in good condition, extended on back with head to SW. Deposited 0.1' to 0.2' above torso of 16BY164--oriented in opposite direction. It is definitely evident that 16BY154 is simltaneous with 164 and 165. Possibly the absence of a skull for 164 suggests that the skull was disturbed and removed by the intrusion of 154. A few calcined cranial fragments were recovered in the fill of the pit. The soil in which the charcoal recovered for dendrochronology is embedded shows a moderate amount of burning to a depth of 0.2' below and about the same above as though the live embers had been covered at time of burial with the upper fill of the pit. The top of the fill of the entire pit and lower portions in the northeast two thirds of the pit contained a large quantity of chunks of burned clay and charcoal scattered through the loose black fill of the pit. Only the soil around the large, charred piece of wood showed burning in situ. [16BY164] Mature male in fair condition, extended on back with head to NE. Tibia and second cuneiform of left foot at pelvis between femora. Left hand disturbed. Phalanges scattered between femora. Fragments of calcined cranial bones in fill of pit may have been the remains of the skull for this individual. 164 and 165 are probably simultaneous and have been intruded upon by 154. See forms for evidence of fire in pit. [16BY165] Mature male in poor condition, extended on back with head to NE. Approximately simultaneous with 16BY164. The calcined cranial fragments found in the fill of the pit may conceivably belong to 165--however, it seems more likely that the skull of 165 had deteriorated completely in keeping with the condition of the other bones of the skeleton.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Stuart Neitzel</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Aug 10, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-08-10</dateCreated>
+   </originInfo>
+   <note>Observer illustration available on file.</note>
+   <note>Field specimen identifier(s): 3526, 3527, 3528, 3640, 3676, 3638</note>
+   <note>Burial identifier(s): 16BY154, 16BY164, 16BY165</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85018080">
+      <topic>Burial</topic>
+   </subject>
+   <subject>
+      <topic>Artifacts</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1938</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1939</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81024913">
+      <geographic>Bradley County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Restricted Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

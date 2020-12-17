@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01257</identifier>
+   <identifier>192MG31</identifier>
+   <titleInfo>
+      <title>192MG31 Hiwassee Island Site 37MG31, Meigs Co., TN. 37MG31 - Earth mound. Feature 58, Level G, Rectangular post mold pattern in foreground. Fireplace and pit appear in center of floor. Clay seat at left and partially destroyed irregular platform of yellow clay in foreground. Direction east</title>
+   </titleInfo>
+   <abstract>The South (left) wall and west wall are bordered by an embankment of earth which was assumed to be the remains of the soil piled against the walls of an earth lodge. At the left is the pyramidal mound, Feature 59, with which a postmold pattern was associated. In the background is the second pyramidal earthwork, Feature 60, and a number of small structures of which only the closest one is associated with Feature 60. [Feature 58] This structure lies to the North of Feature 59 Mound and very definitely associates with it. Thus the North slope of this mound is nearly vertical and runs down to the low sloping bank of earth that is just on the outside of the post mold pattern. This earth bank was found along the south and west walls and apparently was laid up against the walls of the structure. On the west this bank is ca. 2.5' high and 5' thick. This bulk suggests that the structure was an earth lodge but other evidence is lacking since the earth over the entire structure seemed to have been Mound fill of Level F. Then there was nothing lying over the structure floor that could be considered as being earth fallen from the roof. The structure itself is rectangular, outlined by post molds set in wall trenches. The corners are open in that the wall trenches do not meet. However, there are small molds placed in the SW and NW corner to give a rounding effect. The floor is of hard packed sandy clay which, in many places has been burnt a dull red or blackened by soot. The structure itself shows no evidence of having been destroyed by fire. On the floor are a number of misc. post molds. At the west end two short parallel rows 6.5 long starting from the west wall and running at right angles form a small compartment. Along the central axis and ca. 12' east of the west wall is a large circular fire basin of hard burnt brick red clay. The maximum diameter is 4', the minimum or inside diameter is 2'. Thus the rim is 1' thick. The basin is raised .4' above the ground floor and is .5' deep. The basin was filled with ashes and charcoal. Just east of this basin is a large pit 1.5' deep, 12' long and 4' wide. The pit has a hard burnt surface on some areas of the side walls while other areas of yellow clay. Pit is very irregular and at the south end slopes gently to the bottom, a feature noted in other similar pits. South of the pit and 1.5' away from the south wall is a clay seat that has been built on the floor of the structure and after the floor was completed since the floor runs under it. This seat is 1.3' high, 5' long and 3' side. 5' west of the east wall and along the long central axis is a large clay area of irregular shape that has been laid on the floor sometime after the completion of the floor. This area is 6.5' long, 4.5' wide and extends .3' above the floor, however a certain amount of it may have been cut off before it was noticed, since there was no especially hardening of the surface. [Feature 59] This small pyramidal mound is 27' x 23' at the base and 18.5' x 22.5' on top. The side slope on the East, West, and South sides is rather sharp, sloping at a ca. 80 degree angle. On the North side the slope is nearly vertical running down to feature 58 structure. The corners on the mound are quite sharp but nevertheless rounding in outline. On the top surface of this mound is a series of post molds, many of them misc. However, along the east side there is a row of 14 molds and on the south there are 7 molds forming an irregular row. Near the center is a burnt area 3.5' long and 2.5' wide. This area simply shows fire action on the sandy clay mound surface. These post molds were possibly used for a crude shelter of some sort. This mound lies south of the large ceremonial (earth lodge ?) structure and in all probability was associated with it much as were the pyramidal mound and structure of Level E. There is no direct connection between this mound and Feature 60 (Mound A and Level G) which lies to the west and hence there is no evidence as to whether they were contemporary or not.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Jul 29, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-07-29</dateCreated>
+   </originInfo>
+   <note>Observer illustrations on file at the institution. See also photograph 193MG31 [fhm01258], 194MG31 [fhm01259], and 195MG31 [fhm01260].</note>
+   <note>Feature identifier(s): 58, 59</note>
+   <note>Field specimen identifier(s): 425, 426, 427, 428, 429, 430, 431, 460, 453, 433, 434.</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1937</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83030217">
+      <geographic>Meigs County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

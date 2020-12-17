@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01136</identifier>
+   <identifier>421HA1</identifier>
+   <titleInfo>
+      <title>421HA1 Dallas Site 8HA1, Hamilton County, Tennessee. Village. Feature 43, Semi-subterranean structure with fire basin</title>
+   </titleInfo>
+   <abstract>Sunken from St. II down into undisturbed clay - about 0.4' into clay. Post molds alround inside sunken rim alternating large and small holes. Fire basin square with rounded corners. At northwest corner steps that may be part of entrance. Floor is very unven partly due to intrusive later post holes, partly at least not originally smooth. May have been an interior post of each corner, halfway to center. Floor slopes slightly away from fire basin. [Added later to document] Feature 41 may have alternating large and small post holes, two cases of very shallow small holes between larger holes were found. See Feature 43 where this is very plain. Thursday March 11, 1937: Finished clearing Feature 43. Semi-subterranean structure intrusive from St. II to sub-soil. Sunken into clay about 0.4'. Square with rounded corners. Post holes inside sunken area are alternating large and small. Fire basin square with rounded corners. Floor very uneven - apparently original condition. I cannot decide what this uneven floor signifies. Floor slopes away from fire basin. At NW corner raised step that may be part of entrance there. All pottery from floor was shell temper. F.S. 845.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Fairbanks</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Mar 11, 1937</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1937-03-11</dateCreated>
+   </originInfo>
+   <note>Observer illustration on file at the institution.</note>
+   <note>Feature identifier(s): 43</note>
+   <note>Field specimen identifier(s): 845, 844</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Fire basins</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1936</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1937</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80097823">
+      <geographic>Hamilton County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

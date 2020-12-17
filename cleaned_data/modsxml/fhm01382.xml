@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01382</identifier>
+   <identifier>6PK1</identifier>
+   <titleInfo>
+      <title>6PK1 Ocoee Site / Henry Crox Farm Site 1PK1, Polk County, Tennessee. Feature 1, Small house with two fire basins. Sq. 11L4 etc. Direction north</title>
+   </titleInfo>
+   <abstract>A house containing a well defined outline with entrance trenches and two fire basins - Lies in squares 11L3, 11L4, 11L5, 12L3, 12L4, 12L5 and 13L4. Feature 1 is a small house (20.3' by 15.5'). It is contained in squares 11L3, 11L4, 11L5, 12L3, 12L5, and 13L4. Irregular in shape, it resembles neither a square nor a circle. Slight traces of this feature appeared at level 2 after the surface was dampened and troweled off. In an attempt to locate the complete outline and including post holes, 0.25' of the surface was removed where the operation of watering and troweling was again used, but with no success. The outline, pits, and postholes were definitely located well into level 3 and less than 0.1' above the floor of the structure. The apparent reason for the failure of outline and post holes to appear was the color of the house fill, a grayish brown which all through Level 2 showed no tendency to vary from the surrounding soil. In Level 3, however, the fill assumed a darker aspect and the outline was distinguishable. Post holes, though not easily differentiated, were also located, their extreme shallowness indicating that they belonged to the level above. Due to the difficulty of locating the outline, the datum depths taken on the completed excavation of Feature 1 do not show the proper "bowl like" cross section but makes the floor appear flat with no upsloping edges. The floor consisted mainly of hard clay and showed a good cleavage. Some burned clay was found near the fire basin but no evidence of wattle appeared. Well-defined entrance trenches were found in the SE corner. These consisted of the usual small trenches roughly parallel. Two fire basins were in close proximity to each other, the northernmost fire basin being circular and cosisting of hard, grayish clay (remains of ashes). The other was roughly square and contained reddish clay in addition to ashes deposit. These two fire basins were found near the SW outline of the house (square 11L4). Two small midden pits, 15 and 16, and numerous post holes made up the remainder of the feature. - See large scale ground plan - .</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <originInfo>
+      <dateCreated>Oct 19, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-10-19</dateCreated>
+   </originInfo>
+   <note>51 Field Specimen numbers on file at the institution.</note>
+   <note>Feature identifier(s): 1</note>
+   <note>Field specimen identifier(s): 213, 308, 401, 503</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Fire basins</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Historic Native American</temporal>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81058538">
+      <geographic>Polk County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

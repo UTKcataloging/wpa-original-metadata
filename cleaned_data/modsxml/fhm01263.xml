@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01263</identifier>
+   <identifier>199MG31; 202MG31</identifier>
+   <titleInfo>
+      <title>199MG31 / 202MG31 Hiwassee Island Site 37MG31, Meigs County, Tennessee. 37MG31 - Earth mound. Features 57 and 62, Structures</title>
+   </titleInfo>
+   <abstract>[Feature 57] This structure is delineated by a post mold pattern set in wall trenches with the corners open. No corner posts were used. The west wall could not be found although a vertical trench was cut through the area where it should have been. This is probably due to the fact that this end of the structure extended out into the surrounding village site and after its abandonment a section of the village site was found overlying this end of it. To understand the situation here, it must be understood tht on this site of Level G and in association with the small pyramidal mound (Feature 60) a terrace ca 1' high was built on the village deposit under the mound. This terrace extended well out into the village site 38MG31, in some places past the mound wash of 37MG31. On this terrace this structure was built. The full height of the terrace was at the east end (i.e. nearest the pyramidal mound) while at the west end there was very little building up. After the abandonment of this structure the village was again used over the west end of this structure. Thus there is a great deal of disturbance in this area. The structure itself is quite interesting, having an unusual construction feature connected with the method of roof construction. Along the long central axis and ca. 15' in front each end, were two large post molds ca 2' in diameter and 3.5' deep. Around these large posts the floor had been burnt brick red. No fire basin was found with this building and it looks as if whatever fires were used in the building were built near these supporting posts. The north east corner of the building was partitioned off to form a small square room. In the center of this room was a small burnt area on the floor. At about the center of the east wall was a huge platform seat similar to those found on Level E but some larger. There was no definite floor level in many sections of the structure, particularly near the west end, however, in other sections the floor was very definite. [Feature 62] This structure is nearly square and is delineated by a post mold pattern set in wall trenches. However, the wall trenches were not seen horizontally due to the floor being hard packed up to the posts. The wall trenches are open at the corners, but wall posts fill-in this area and give the corner a rounded effect. The NW corner, however, is entirely open, having no corner post. The floor of this structure was of hard packed sandy clay and only around the fire basin is there any evidence of burning. There is no indication of the structure having been destroyed by fire. There are a number of misc. post molds on the floor along the west half and there is one row paralleling the west wall and inside of it .6'. This in effect divides the building into two rooms. The fire basin is located somewhat south of the center of the structure and is raised .3' above the floor. The curb is ca 1' wide while the actual basin is .7' in diameter and .5' deep. The association of Feature 61 is very unusual and is described on that form. The posts were set vertically in the wall trenches and showed no effects of stresses. The wall molds were filled with earth and showed no impressions of horizontal log molds.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Jul 28, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-07-28</dateCreated>
+   </originInfo>
+   <note>Observer illustrations on file at the institution. See also photographs 198MG31 / 202MG31 [fhm01262], and 200MG31 [fhm01264].</note>
+   <note>Feature identifier(s): 57, 62</note>
+   <note>Field specimen identifier(s): 454, 455, 456, 435, 439, 440</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1937</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83030217">
+      <geographic>Meigs County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

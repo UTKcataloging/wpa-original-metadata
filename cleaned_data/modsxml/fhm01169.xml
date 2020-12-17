@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01169</identifier>
+   <identifier>51MG31</identifier>
+   <titleInfo>
+      <title>51MG31 Hiwassee Island Site 37MG31, Meigs County, Tennessee. 37MG31 - Earth mound. Feature 15 of Level C, Post mold pattern with hearth. The two blocks of earth at left and right contain molds associated with Features 10 and 11. Direction east</title>
+   </titleInfo>
+   <abstract>[Feature 15] Rectangular structure. This structure is delineated by a post mold pattern of fairly small vertical molds. The corners were left open but showed a variation from the normal plan at the east. Here the side walls extend all the way to the east wall, but the east wall is open for 5' or 6', giving, in effect, two openings on the east wall, one at either corner. The one corner found at the west end follows the normal pattern i.e. both walls stop 2 or 3' short of the actual corner. The fire basin in on the center line through the structure but is 22' from the west wall and 12 feet from the east. It is .6' deep, 1.5' in diameter and raised slightly above the floor of the structure and is surrounded by an area of burnt clay. The basin was made of puddled clay. There was a slight amount of burnt material on the floor and the indications are that the structure burnt. Slightly below the top of the post molds wall molds were found. These wall trenches were filled with earth and there were no indications of horizontal logs having been placed in them. Because of this the only apparent reason for the use of these molds was to facilitate the placing of the vertical wall posts and not for the placement of additional supports. Thus it must be noted that if horizontal log supports were not place in these molds the mold itself would tend to weaken the foundation of the posts because the ground could not be packed in as tightly as it originally was and hence the wall posts would be even less likely to be able to resist the strain of being bent over to a center point to form the roof. The question of importance is whether the decaying horizontal log in a wall mold would always leave an impression or evidence of its presence or not. I am inclined to believe some evidence of its presence would remain more often than not, hence we must believe that these molds were not always used for placement of support for wall posts, at least a strong doubt remains as to the function or functions of these wall trenches. [Feature10] This structure lies directly over another (Feat. 11) and is delineated by small deep post molds very close together with the four corners left open (i.e. no molds found in corners). All the molds are vertical in cross-section, but many of them are not truly round in diameter. No historical material has been found with the structure but there are indications that Level B, on which this structure was built, was in use at least in early historical times. The fire basin was directly under the basin for Feat. 9 and hence is considerably destroyed; however it is centrally located, made of puddled clay with the top level with the structure floor. The molds in the S.E. corner were destroyed by an intrusive pit that came down from the top of the mound. Log molds were found for this dwelling after the upper part had been cut away. At the bottom of the molds were logs laid the length of the trench. Only charred fragments were found of the logs and in places the bark impressions on the ground was all that showed. The log molds were outside of the post mold pattern. The log molds, in a sense, are similar to wall trenches, however with this important difference, that they were not used to aid in setting the wall posts but simply to introduce some support for the posts at the extreme basal end. This would seem to indicate that the wall posts were subjected to some strain. However, it is to be noted that there were no apparent arrangements on the inside of the posts to help counteract a strain. Possibly a log laid above ground at the base of the posts was used. The wide open corners show no indication as to how they were closed on the superstructure. [Feature 11] Rectangular structure. This structure lies directly under Feature 10 and is slightly larger. It is delineated by a post mold pattern of small but very deep post molds set close together. On the two sides of the structure, i.e. north and south walls the posts slanted inward from top to bottom so that the side walls of the structure must have leaned outward at an angle of ca. 5 degrees. However the molds in both the end walls were perfectly vertical and showed no slant. Furthermore at the east wall the posts were set in a wall mold. This wall trench was not present for either side walls and wasn't found at the west end, more than likely because of the the disturbance in this area. The corners of the structure were open as in the case of Feature 10. The fire basin was practically destroyed by that of Feature 10 because it was directly under it although just a trifle further south and hence this portion of it was intact. The wall mold found here is of the type found throughout the area, i.e. with the wall posts set inside it. The extremely wide open corners and complete lack of corner posts give no indication as to how the corners were closed on the superstructure. Speculation on superstructure form is enlivened by the outward slanting post molds of the side walls, but no clue as to the actual form was present. The fact that they slope outward argues against the bending of wall posts over the top to form a roof and walls of one unit since the stresses from that type of construction would be the reverse of those indicated here. The only suggestion offered here is the weight of the roof was such that the side walls had to 'give' somewhat to relieve the strain. The evidence of reinforced end walls would explain why no shifting of these posts was found. It is still possible of course, that these posts were purposfully set at this angle so that as they were bent to form the roof they would not need the additional support of a wall trench and log mold.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Aug 11, 1937</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1937-08-11</dateCreated>
+   </originInfo>
+   <note>Observer illustrations on file at the institution. See also photographs 41MG31 [fhm01162], 42MG31 [fhm01163], 46MG31 [fhm01165], 47MG31 [fhm01166], 49MG31 [fhm01167] .</note>
+   <note>Feature identifier(s): 15 , 10, 11</note>
+   <note>Field specimen identifier(s): 161, 163, 164, 172, 173, 190</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Fire basins</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1937</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83030217">
+      <geographic>Meigs County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

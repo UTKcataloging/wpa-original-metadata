@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">mcr00451</identifier>
+   <identifier>133BY13</identifier>
+   <titleInfo>
+      <title>133BY13 Ledford Island, Bradley County, Tennessee. Burial 16BY47, flexed adult male; 16BY48, extended child. Square 2R4. Direction South</title>
+   </titleInfo>
+   <abstract>[16BY47] Adult male in good condition, partly flexed on back with head west. Pit begins below firebasin (Feature 12) and is precedent to it. Soil of pit burned red by firebasin. Pit filled with dark mixed soil. Bones lay on subsoil. Feet of 16BY47 were propped up against end of pit at datum depth 9.6. Legs flexed at about right angles to body and lower legs at right angles to femora. Pit was larger at level of feet so that feet seem outside pit as finally drawn. There may be some posthumous shifting of legs to right. Arms flexed separately to face. Skull of 16BY48 lies over right arm of 16BY47, legs of 48 lie under legs of 47. Cervical vertebrae of 48 are disturbed so skull may have been displaced. Left arm of 48 lies under right ribs of 16BY47, ribs seem to have slumped outward and may cover arm of 48 only posthumously. Cervical vertebrae of 47 are disturbed but skull does not seem displaced. Some evidence that 47 may have been originally buried on right side and slumped to bark with decay. These burials may be simultaneous, but 48 appears earlier and must have been laid in pit before 47. 47 may have disturbed skull of 48 which is only evidence of coincidental burial. [16BY48] Indeterminate infant in good condition, extended on left side with head to west. In same pit as burial 47. Bones lay on subsoil. Burial seems to have been buried on left side, posthumously slumped to position nearly on back. Cervical vertebrae disturbed, possibly by burial of 47. These may be simultaneous burials. Feet of burial 48 0.5' higher than pelvis. 16BY48 cannot be later than 47 by position of legs of 47 over 48. Skull of 48, however, could have been disturbed to place it on right arm of 47. 48 left leg partly bent, both feet slumped to left and over left ankle.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Fairbanks</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Jun 13, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-06-13</dateCreated>
+   </originInfo>
+   <note>Observer illustrations availalble on file.</note>
+   <note>Field specimen identifier(s): 982, 983, 1106</note>
+   <note>Burial identifier(s): 16BY47, 16BY48</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85018080">
+      <topic>Burial</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1938</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1939</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81024913">
+      <geographic>Bradley County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Restricted Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

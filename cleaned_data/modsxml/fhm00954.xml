@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00954</identifier>
+   <identifier>28HS1</identifier>
+   <titleInfo>
+      <title>28HS1 Slayden Site 3HS1, Humphreys County, Tennessee. Mound 3. Feature 23, circular ceremonial house pattern. Feature 17, wall mold (part of structure Feature 23). Direction north</title>
+   </titleInfo>
+   <abstract>[Feature 23] This circular structure is east of Feature 14, a square structure 1.5' below the surface at the east end, and seems to be on a slightly higher level. The datum readings here are on the highest level at which the wall was found. The sections of the wall in squares 12.6, 13.6 and 11.9 were not found on this level (due to lack of observation), but the bottom of the post molds were picked up 9" lower down in squares 12.6, 13.6 and in square 11.9. The wall was found originally and cut down to a somewhat greater depth. The section indicated on the plot of Feature 17 was found previously at a depth of 0.85' and since the north of this mold came to an abrupt end it was removed before the rest of the structure was dug, to facilitate excavation. However, the bottom of the post molds were again found about 9" lower down and cleared off for a photograph. Thus the only part of the structure that was completely missed was 18' of the mold on the south side. Inside the structure there is little to note- two fire areas (Feature 26 and 27)) both oblong in shape, the former of red burned clay and the latter a thin layer of burned clay covered with charred wood. Feature 28 is a square fire area of red burned clay. This circular structure is probably of a later date than the square structure since it is on a higher level than one (Feature 14) and overlies part of Features 11, 19 and 27. However, the shallowness of the total village deposit and the apparent similiarity of pottery and artifacts leads one to believe that the whole site is a single habitation level. The time sequence here indicated is probably slight, representing in all probability, the life and time of a structure built by a single people. [Feature 17] A slightly curved wall mold 0.85' below surface. The North end came to a very definite end while at the South end no continuation has been found. Further discussion will be found under the Feature 23 description.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Dec 17, 1935</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1935-12-17</dateCreated>
+   </originInfo>
+   <note>Additional narrative information is available at the institution. See also photograph 17HS1 [fhm00949]</note>
+   <note>Feature identifier(s): 23, 17</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <topic>General site and excavation</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1935</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80067523">
+      <geographic>Humphreys County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

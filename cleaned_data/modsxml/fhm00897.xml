@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00897</identifier>
+   <identifier>224HA3</identifier>
+   <titleInfo>
+      <title>224HA3 Hixon Mound Site 1HA3, Hamilton Co., Tennessee. Feature 68, Charred lattice work on floor. Partly destroyed seat or bench (Feature 75) background. Sq. 25L13. Direction southwest</title>
+   </titleInfo>
+   <abstract>[Feature 68] From the quantities of burned clay and fragmentary charcoal over and around this structure it had apparently burned after or during use. (Sketch on reverse side). Possibly a little more than half of the entire prepared floor area remained. Intrusive burial pits were partially responsible.... I did not suspect the structure extended so far to the west because of the absence of flooring. However the length of trench on the SE side suggests that its parallel mate was at least as long. Subsequent checking with earlier ground plans shows the possible extent of NW trench to the west by the presence of a few intermittant post molds. Feature 68 was no doubt an important structure in the village life at a time previous to mound construction.... No postmolds showed in the trench in contact with pit or immediately to the south. [Feature 75] This block was built up of made earth from the floor level of Feature 68 and plastered with a mixture of sandy clay - subsequently burned. It is long, low and oblong in shape with rounded corners and edges. Apparently the plastered surface was damaged in use or after deconstruction of Feature 68, becuase the surface was rough and broken. The damaged areas were restored accurately with mud before photographing the general layout of Feature 68.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <originInfo>
+      <dateCreated>Nov 2, 1936</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1936-11-02</dateCreated>
+   </originInfo>
+   <note>No record on file for this photograph. However, additional narrative information and observer illustrations are available at the institution for Features 68, and 75. See also photographs 223HA3 [fhm00896], 225HA3 [fhm00898], and 227HA3 [fhm00900].</note>
+   <note>Feature identifier(s): 68, 75</note>
+   <note>Field specimen identifier(s): 700, 792, 809, 829, 852, 860</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Lattice work</topic>
+   </subject>
+   <subject>
+      <topic>Charred materials</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1936</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80097823">
+      <geographic>Hamilton County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

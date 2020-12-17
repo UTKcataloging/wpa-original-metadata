@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01194</identifier>
+   <identifier>76MG31</identifier>
+   <titleInfo>
+      <title>76MG31 Hiwassee Island Site 37MG31, Meigs County, Tennessee. 37MG31 - Earth mound. Feature 27, Level D. This is the floor pattern at the left delineated by wall trenches and post-molds. Charred thatch and posts are on the floor. Direction east</title>
+   </titleInfo>
+   <abstract>This structure is delineated by post molds set in wall molds with open corners and corner post molds. The floor is of hard packed sandy mottled clay and rather irregular. A few misc. post molds are scattered about the floor. The centrally located fire basin is raised off the floor ca .1' to 2' and is 1.3' in width, and .4' deep. The rim is .4' to .5' in width. Just north of the fire basin is a cache pit 5.5' in length, 2.5' in width and 3.6' deep. The wall structure is of interest because, while the 1st 5 or 6 molds on each wall at each corner are vertical the rest of them slant inward at the bottom at about a 5 degree angle. This would indicate some outward stress from the roof, equally divided between the four walls but not at the corners. This would indicate a rather heavy roof construction. Since the corners appear to be unaffected by this roof stress (possibly because of greater reinforcement) the rest of the walls would have to give outward to relieve the roof stress if not strong enough to resist it. Of further interest are the very small post (stake) molds along the inside edge of the wall molds. They apparently were to keep a long log in place in the wall trench on the inside of the posts. In removing the charred material along the W. wall the cane construction is apparent as was used for Feature 25. However the cane matting appears more abundant. Little can be said of the roof construction although several burnt areas and unburned logs from the roof are found on the floor. The burnt thatch from the roof differs from that of the west wall in that there are no underlying cane mats. Apparently the roof thatch was laid directly over the log framework. Several large river boulders are lying slightly above the floor and it would seem as though they had been used to hold the thatch on the roof. Along the south wall - 9' west of the southeast corner are four post molds inside the structure. These are of such form as to indicate a small wooden seat had been built here. The molds in the wall and directly in back of the seat is much large than the rest in the wall and is out of line being placed further back. This mold is similar to the large mold in back of the seat for Feature 25. Note: (Oct. 25, 1938) It has been previously mentioned that the use of a wall trench without the use of horizontal support logs would tend to weaken the wall structure rather than strengthen it, although it would make the setting of posts considerably easier. In this case no horizontal log molds were found with the trench, although there are indications that a log was held in place against the posts on the inside of the structure an at floor level. As a result of this 'weak' form of wall structure the wall posts here have shifted position, bending outward at the point where roof and walls join, possibly due to the outward thrust of a heavy roof. Obviously the corners would tend to reinforce each other and hence one would not expect to find nearly so much shifting of the posts in these areas.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Oct 14, 1937</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1937-10-14</dateCreated>
+   </originInfo>
+   <note>See also photographs 67MG31(A) [fhm01184], 67MG31(B) [fhm01185], 77MG31 [fhm01195], and BMG31(M) [fhm01297].</note>
+   <note>Feature identifier(s): 27</note>
+   <note>Field specimen identifier(s): 267, 268, 269, 270, 272, 279</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1937</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83030217">
+      <geographic>Meigs County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

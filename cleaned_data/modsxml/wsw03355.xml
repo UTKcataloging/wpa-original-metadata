@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">wsw03355</identifier>
+   <identifier>19MCL6</identifier>
+   <titleInfo>
+      <title>19MCL6, 15MCL6, McLean County, Kentucky. Eaton Site. Features #3 and #5</title>
+   </titleInfo>
+   <abstract>View of foundations of house structure (Feature #3) foundation taken from the North corner. Indicates method of isolating foundation en bloc and cutting posthole trench in longitudinal section. Post-holes in lateral trenches indicated in right hand trench a horizontal brace post is seen. Top of posthole trench is indicated by a line of white limestone rocks so placed for photographic reasons. Top outline of house floor (Feature #5) faintly detectable. Shallow driven corner postholes shown. From Notes: Weather -- clear and sunny. Adjustments -- f 32, 1/2 second. Subject -- Feature #3 en bloc and Feature #5. This shot taken to insure against failure of 16, 17, and 18 which were taken under poor light conditions late in afternoon (4:15). Camera position -- taken from dirt pile at North corner of Feature #3.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <originInfo>
+      <dateCreated>Feb 7, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-02-07</dateCreated>
+   </originInfo>
+   <note>Feature identifier(s): 3, 5</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85071958">
+      <topic>Kentucky--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1937</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n78095733">
+      <name>
+         <namePart>University of Kentucky</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n78095551">
+      <geographic>McLean County (Ky.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The William S. Webb Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n83061373">University of Kentucky. Museum of Anthropology</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

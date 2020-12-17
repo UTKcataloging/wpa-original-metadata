@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01578</identifier>
+   <identifier>179RE12</identifier>
+   <titleInfo>
+      <title>179RE12 DeArmond Site 3RE12, Roane County, Tennessee. Feature 16, View showing Phase E with ramp in foreground, and superstructure removed, showing floor, postholes, firebasin, and burial 82 on floor immediately right and rear of firebasin. Phase E. Direction southeast</title>
+   </titleInfo>
+   <abstract>Square, small post, house with superstructure. Feature 16 was the only house on the summit of Phase E. This house was square with walls built of poles about 0.2' in diameter standing upright, rather close together in irregular rows. The large scale drawing of Feature 16 shows these wall post fairly accurately, but some post are undoubtedly missing. It should be noted that at intervals of 1.5' to 2.0' (where the walls are fairly complete) an extra upright post was placed next to a wall post but on the inside of the row. These were presumabaly reinforcements. The only gap in post hole rows which seemed natural and at the same time, significant, is the one in the center of the southeast wall. This was probably the entrance. The entrance may have been the 3 foot onewith one side at stake 49L1, or it may have been as wide as 10 feet, with one side at 7.5' N, 3.0'W of 48L1 and the other at 5.0'N, 4.5'W of 49CA. This wider gap, containing only a few irregularly placed post holes, also contains two of the burned basins (mentioned later), which would probably not be inserted in the real wall of the house. For better understanding of this problem, refer to the comments on these burned basins, and also to the large scale ground plan. While a lot of charred superstructure was found on the floor, not much information on superstructure was acquired. Grass thatch was found along the walls, the longitudinal axis being such that the grass evidently hung vertically. Many instances were found of cane lying under the thatch, so cane was probably attached to the outside of the wall posts, in all likelihood, horizontally. The grass probably hung from the cane. In squares 49CA and 49L1 on the large scale plan, will be seen poles lying on top of each other at approximately right angles. This immediately suggests that horizontal poles were attached to the vertical posts. Since they are all about the same size, there is no telling whether the horizontals were on the inside or outside of the walls. Note that on the ground plan it cannot be ascertained whether the uppermost logs are vertical posts or horizontal poles. Several specimens of matting were found on the floor in a charred condition. Some of this was found wrapped under a wall (or roof) pole with some charred string. Another specimen found on the firebasin also indicated that the matting was a wall fixture and not placed on the floor. Very few postholes were found in the interior of the house. Most of these could probably be explained as furniture posts. However, a peculiar pattern of seven burned stumps of posts was found between the fireplace and the northwest wall (See large scale ground plan). Whether these posts are the remains fo an interior compartment, or whether they might have supported a platform or large elevated seat, could not be ascertained. Some sort of throne makes an attractive guess but nothing more. The pattern's lack of concentricity with the form of the house makes the roof support and unlikely function. The firebasin was oriented so that the sides were parallel with the walls of the house. It was built of sand, with a thin coat of clay, which had burned hard and reddish purple. Of particular interest waas a small hole in the center of the pit bottom. This and the pit were full of ash. For dope on Pit 7, Burial 82, and Feature 16A (antler workshop) see the respective forms. It is worthy, in passing, to consider the wide spread functional possibilities in the light of the the latter two associations. Finally, the fifteen shallow burned basins should be noted. The walls were lined with charcoal, which had a thin lining of burned sand, the interior containing unburned sand. Note their placement: a row of five along the southwest wall inside, one outside the south corner "in front", one on each side of the entrance, one between fire basin and entrance, and a group of six between fire basin and northeast wall, two of which are replacements. Their is probably due to a short lived fire smothered with sand. They may have served as lamps or beacons. Mention should be made of the low, clay covered sand embankment encircling the house and the summit of the mound. This was definitely a part of the mound fill, and not fallen roof dirt. This rather looks like an imitation of semi-subterranean houses. It should be remembered that the burned roof was partly covered with burned sand, possibly placed on roof while in use. The usefullness of this is doubtfull.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>John Alden</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Oct 3, 1940</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1940-10-03</dateCreated>
+   </originInfo>
+   <note>Observer illustration on file at the institution. See also photographs 176RE12 [fhm01575], 178RE12 [fhm01577], and 181RE12 [fhm01579], 182(B)RE12 [fhm01580],</note>
+   <note>Feature identifier(s): 16</note>
+   <note>Field specimen identifier(s): 1071, 916, 917, 913, 732, 729, 728, 727, 726, 712, 711, 1260</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n82226528">
+      <geographic>Roane County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01582</identifier>
+   <identifier>184RE12</identifier>
+   <titleInfo>
+      <title>184RE12 DeArmond Site 3RE12, Roane County, Tennessee. Feature 19, Showing post holes with very fragmentary firebasin. Phase F summit. Direction southeast</title>
+   </titleInfo>
+   <abstract>Rectangular, wall-trench structure. Feature 19 lay approximately 1/2 foot beneath Feature 16, the two being separated by the fill of Phase E. With such close superposition of similar structures, some confusion is bound to result where postmolds nearly coincide. Such is the case of Feature 19. The pattern shown on the large scale ground plan is incomplete, but probably shows the dimensions fairly accurately. The northwest wall is extremely incomplete because of the close super-position of the same wall of Feature 16. Rapid inspection of the large scale plan of Feature 16 shows that its northwest wall was rather irregular, and it is probable that some of the post holes shown on Feature 16 actually belonged to Feature 19. The same situation exists in the southeast wall of Feature 19, except that in this case, it is probable that a few Feature 16 holes have found their way into the Feature 19 line-up. An example of this can be shown in the case of the four burned posts immediately southwest of stake 49L1. These four parts represent a situation typical of Feature 16, namely, a row of small poles, with an occasional reinforcing post on the interior. These posts were included in this wall trench because they were seen there, but it can be seen from the above statement that it should not be assumed that Feature 19 had its posts arranged in this fashion, or that the structure burned down. Little need be added to the description given on the face of the form and the ground plan except that attention should be called to the off-center placement of the circular firebasin, the associated Pit 8, and the cluster of limestone rocks around the center of the structure. Also, note on the small scale ground plan of Phase F that the structure was crowded back towards the southwest side of the summit, leaving a fairly wide strip of floor outside the house along the northeast wall. It should be remembered, that the northeast side slope of Phase F partly covered the summit of Phase G-1, the auxilary mound of the Phase G period. This extra mound had lost its identity as an extra mound, but it still existed as a low platform, with a burned surface belonging to Phase F times. This may have made the northeast side the "front" of the mound at this period in its development. Since there was no significant (and at the same time, reliable) gap in any of the walls, it is probable that an open corner was used as an entrance. This is given additional weight by the small projection of the summit on the east corner, which could have been used as a walk-way. (See small scale ground plan, Phase F). Photo 184RE12 is misleading. At the time only the holes had been found, so the wall trenches have not been cleared for this view. The holes show the course of the trenches, however.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>John Alden</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Nov 6, 1940</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1940-11-06</dateCreated>
+   </originInfo>
+   <note>Observer illustration on file at the institution. See also photograph 192RE12 [fhm01584].</note>
+   <note>Feature identifier(s): 19</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n82226528">
+      <geographic>Roane County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00242</identifier>
+   <identifier>94BY11</identifier>
+   <titleInfo>
+      <title>94BY11 Rymer Site 15BY11, Bradley Co., TN. Feature 36, Fire basin. The upper and later fire basin is square with elevated rim the lower basin is circular. Square 28R8. Direction north</title>
+   </titleInfo>
+   <abstract>To the right of the fire basin are several intrusive pits. Semi-subterranean structure with central firebasin and entrance passage though we could not definitely trace pit. Top of subsoil was average of 9.1 around outside and 9.5 inside structure. This structure seems to be aligned in a N-S axis rather than NW-SE. Wattle overlying floor to a depth of 0.1' and 0.3' was in small pieces but seemed to contain grass and shredded bark thatch. No evidence of exact form of thatch could be found. Floor was mainly baked around basin but near NW corner was a small hard baked area, floor and bottom of firebasin were baked red to a depth of 0.2. Firebasin was rectangular and lined with hard puddled clay with raised curb 0.1' high. This basin was very well built and hard. Cutting north side of basin and in several other spots on floor were cache pits. These definitely were intrusive to floor but did not seem to cut wattle. Wattle may have been re-filled into pits in same order as it was taken out, thus accounting for relative small amounts of it in pits. Pits filled with mixed greyish earth. At southeast corner a group of 40 small stones scattered over floor. Just outside entrance at Northeast a pile of 22 stones in small pit that may be associated with structure. See note book p 135.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Fairbanks</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Jan 28, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-01-28</dateCreated>
+   </originInfo>
+   <note>See also photograph 93BY11 [fhm00241].</note>
+   <note>Feature identifier(s): 36</note>
+   <note>Field specimen identifier(s): 1653, 1917, 1981, 1994, 1995, 2005, 2023, 2028, 2029</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Fire basins</topic>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1937</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81024913">
+      <geographic>Bradley County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

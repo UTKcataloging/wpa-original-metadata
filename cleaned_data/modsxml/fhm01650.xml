@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01650</identifier>
+   <identifier>83RH41</identifier>
+   <titleInfo>
+      <title>83RH41 Hampton Farm Site 93RH41, Rhea County, Tennessee. Feature 3, Pit house without postmold pattern. Four exposures. Sq. 40CA. Direction northeast</title>
+   </titleInfo>
+   <abstract>This house is, in many ways, rather unique; however, it follows the general pattern of a very wide spread type, i.e. a pit or semi-subterranean type. The pit was dug into subsoil and all form and substance of the ground work was fashioned out of subsoil. A fairly large area was excavated from 1' to 1.5' deep, the excavation was then drawn in about 5' on all sides and continued down for another foot. This left a bank or bench around the circular pit. On this at the SE corner a small mass of daub was found showing the shape of fair-sized poles (ca. 7" in diameter) and these give the only evidence that the structure was covered with earth. In the center of the inner pit and along the longest central axis were two large post molds which apparently held up a heavy rafter on which the roof was supported. It is logical to suggest that the roof poles were of fair size and that they radiated from this central rafter to the outer and top surface edge of the pit. No fire place was found internally and there is no reason to believe that any sort of fire had ever been used about the building. On the east side of the structure certain variations occur which can best be seen in the large scale ground plan. The bench here protrudes further out into the structure and has the appearance of being a purposefully built 'platform'. Three longitudinal depressions are to be found in this platform and it seems likely that they contained logs and are really log molds. The central and largest depression is 1.3' deep in the central section and some other explanation must be sought. On the SW side of this platform and running first south and then turning west is a channel or ditch which suggests a tunnel entrance. This would emerge upon the 'platform'. Across this entrance and just before the 'platform' is reached is another sizeable depression which is about 1' deep. The purpose of this is not clear. On the NW side of the platform is an odd shaped depression which was originally thought to be a tunnel entrance however the evidence is fragmentary and little can be said concerning it. Along the platform side of this are two post molds and two small shallow depressions. Unfortunately cultivation has largely destroyed this corner of the structure and reconstruction is out of the question. When found, this pit was filled with silted sand and pockets of midden material. The sand, of course, indicates that after abandonment the structure lay open to inundation and rains. This depression also served as a disposal place for adjacent camp refuse.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Feb 14, 1941</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1941-02-14</dateCreated>
+   </originInfo>
+   <note>Feature identifier(s): 3</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Late Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81139865">
+      <geographic>Rhea County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01615</identifier>
+   <identifier>13RH41</identifier>
+   <titleInfo>
+      <title>13RH41 Hampton Farm Site 85RH41, Rhea County, Tennessee. House number 2. Entrance pit and trenches associating with House 2. Note stratigraphy of site on right profile lying between 12 and 13 stakes on the L4 line. Sq. 12L4. Direction northwest</title>
+   </titleInfo>
+   <abstract>This structure represents the uppermost or top house in a series of at least three superimposed houses, all probably of the pit variety. This house was a large rectangular post mold pattern lying in the bottom of a large rectangular pit which originated at the plow line and had a depth ranging from about 1.6' on the sides to about 2.2' in the central section, this occasioned by the fact that the floor sloped inward toward the center from the bottom of the pit walls. The pit was rectangular but had rather sweeping rounded corners and the postmold pattern followed the same general pattern. Fairly large molds were used in the construction of the house walls and in cross section these showed rounded basal ends with occasional tapered or slightly pointed bottoms. There was also a noticeable tendency for the molds to slope inward toward the top, as if they may have supportee a very heavy weight of superstructure. Four large molds on the diagonal and about middle way between the corners and the central fire basin suggested roof support molds, but it is almost impossible to assign such molds definitely to a specific structure in the case of superposition of several houses. The central fire basin was constructed of puddled clay circular in outline with a conoidal bottom, almost pointed at the centermost point in the bottom. It was fired hard and well preserved. The floor of this house was nothing definite and appeared to be accretive. Around the outer edges it consisted merely of the fill material of the underlying house (House -3) but in the central section the bottom of the house pit had disturbed the underlying house floors and basins of earlier houses, so that the floor material consisted primarily of sand of the underlying strata (Str II and III) and the humic material mixed with this by the distrubances resulting from earlier occupations (Houses 3-4). A small amount of compact yellow clay overlay the central section of the floor and the west side of the basin. It was unburned. In the northwest corner an oval patch of hard, red burned clay was found which seemed to associate as a section of the floor of this house (House - 2). The fact that this patch of floor was at a higher level than the fire basin demonstrates the sloping nature of the house floor. Over this burned patch was an abundance of midden material consisting of sherds and animal bone, which suggested that this area may have been used as a place to dump kitchen refuse within the house. Although, in general, the floor was difficult to positively identify, several sherds, artifacts, and stones were scattered about, particularly on the south section, on a plane which seemed to suggest the floor of this house. Evidence on the superstructure was very scant. A few pieces of charred bark (apparently pine) were found in the southwest section and a relatively large section of charred cane, not split, but whole, the pieces lying parallel were found in the southeast section. One badly preserved piece of charred sapling was in association with this cane an a small amount of thatch overlay it. A rather interesting entrance arrangement was found on the east side near the southeast corner. This was not discovered until after the house was worked out and most of it cut away, but it seemed to associate rather definitely. It consisted of a projection outward of the house pit in which lay two parallel trenches. The pit projection sloped upward toward the outer end as did the two trenches. The inner ends of the trench merged with a local extension downward of the entrance pit, which indicated that entrance and exit were made through a sloping entranceway, which at point of contact with the interiors of the house was deepened so that a step upward or downward was necessary. A shallower mold than the wall molds was found between the inner ends of the parallel trenches and whether this associated with the house is speculation. The fill of this pit consisted of mottled yellow clay and midden and near the top (plow-line) a rather thick layer of compact clay overlay it. This, quite possibly, had no significance and may have been added after the abandonment of the house to reduce the softness of ground occasioned by the filled-in pit. The house pit of this dwelling was filled to the plow line with midden and broken daub, which made the fill loose and porous. Several pieces of daub showed can impressions and a few of the wall molds had very slight traces of the decayed posts still in them.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Wendell C. Walker</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Oct 1, 1940</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1940-10-01</dateCreated>
+   </originInfo>
+   <note>Field Specimen numbers on file at the institution and range from 2-1 to 2-23. See also photographs 4RH41 [fhm01611], 5RH41 [fhm01612], 6RH41 [fhm01613] and 7RH41 [fhm01614].</note>
+   <note>Feature identifier(s): 2</note>
+   <note>Field specimen identifier(s): 2-1, 2-23, DS-6</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Stratigraphy</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81139865">
+      <geographic>Rhea County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

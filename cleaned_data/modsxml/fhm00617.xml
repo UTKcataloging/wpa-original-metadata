@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00617</identifier>
+   <identifier>893CP5(S)</identifier>
+   <titleInfo>
+      <title>893CP5(S) Irwin Village Site 12CP5, Campbell County, Tennessee. Feature 27, Structure 2, burned structure on primary floor. [Feature 25, a line of post molds running E.W. across Structure 2 and not reaching the floor]</title>
+   </titleInfo>
+   <abstract>[Feature 25] These post molds were seemingly the wall supports of a structure which had been erected above Structure 2. On covering over Structure 2 after firing, the mound builders used pure clay, not mixed with loam. This clay burned and formed a hard, irregular covering over Structure 2. Consequently, when the later structure was erected over Structure 2, the posts did not penetrate the actual hard pan, but were sunk into the clay above Structure 2. Excavation points to the assumption that the long row running east-west over Structure 2 was the south wall of this later structure, and the eight molds west and south of stake 8.5 were the posts of the east wall of the structure situated on the east side of a high clay bank and is above the floor level of Structure 2. [Feature 27] This structure shows no horizontal molds. The molds on the sides average 5-1/2 inches in diameter and penetrate the hardpan for a distance of 24". A doorway is apparent at the SE corner, no altar found.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <note>Observer illustration on file at the institution. See also photographs CP5(AA) [fhm00501], CP5(BB) [fhm00502], CP5(CC) [fhm00503], CP5(DD) [fhm00504], CP5(EE) [fhm00505], CP5(GG) [fhm00507], CP5(I I) [fhm00509], 5-220 [fhm00557], 5-300 [fhm00584], 5-301 [fhm00585], 5-302 [fhm00586], 5-303 [fhm00587], 5-304 [fhm00588], 5-305 [fhm00589], 5-378 [fhm00594], 5-379 [fhm00595], 822CP5(J) [fhm00608], 830CP5(M) [fhm00611], 831CP5(N) [fhm00612], 890CP5(P) [fhm00614], 892CP5(R) [fhm00616], 894CP5(T) [fhm00618], 895CP5(U) [fhm00619], 896CP5(V) [fhm00620], 948CP5(W) [fhm00621].</note>
+   <note>Feature identifier(s): 25, 27</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1934</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83070885">
+      <geographic>Campbell County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

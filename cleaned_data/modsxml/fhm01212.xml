@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01212</identifier>
+   <identifier>98MG31</identifier>
+   <titleInfo>
+      <title>98MG31 Hiwassee Island Site 37MG31, Meigs County, Tennessee. 37MG31 - Earth mound. Feature 38, Pyramidal mound showing Feature 38A platform on top, and Feature 38B ramp. Direction northeast</title>
+   </titleInfo>
+   <abstract>[Feature 38] This pyramidal mound lies in the Southeastern section of Level E. The South and East sides are very steeply sloped and run from a top D.D. of around 15' to a base reading of Ca. 22'. The North side slopes down sharply Ca. 1.5' to a terrace (i.e. Feat. 43). On the West, the slope is pronouncedly sharp to a D.D. of Ca. 17.5' where this pyramid mound joins Feat. 39 pyramid mound. On this side, these two mounds are joined by a ramp (Feat. 38c-39c). On the south slope, a well made stairway ramp gives an approach to the top of the mound. On top of the mound is a large flat area 38' x19' showing some evidence of burning. Red patches and a slight amount of charred material indicating a fairly well made floor. Slightly west of the center in a large platform case (Feature 38A) upon which some notable probably sat. In the north side of this platform is a row of 7 P.M. but no others appear on the other side of the platform. A few misc. P.M.s are to be found but they don't form any pattern. From the evidence it must be assumed that neither this pyramid mound nor the top area and possibly not even the platform were protected by any overhead shelter but were left open to the weather. It is remarkable that little or no errosion or weathering is apparent. Feature 40 lies over the north half of the mound and also over a good part of the platform. Correction note: The row of 7 postmolds mentioned above were later found to run under the platform. Further another row was found at the east end and parallel to this one. About 1' west of this row a wall trench was found, but no post molds found in it. A short row of molds back of the platform parallels these other rows. These molds were not found until this level had been cut down ca. .3'. The indication is that this pyramid mound was used for a period before the platform was built. Then the platform was built and the molds in back of the platform and the wall mold at the east end were used for the erection of a shelter over it. The other two parallel rows were used for a similar purpose before the platform was built. [Feature 38A] This platform is made of hard-packed sandy, mottled grey clay and the surface had been baked hard and smooth. The platform is raised 1.4' above the floor of the mound. Feature 38 is somewhat west of the center point being ca. 3' further West than the ramp. This platform apparently was not under a shelter but exposed to the weather. That it shows no sign of weathering may be due to the fact that a skin of some sort was kept over it. Feature 40 overlay the entire north half of the feature to a thickness of ca. 0.5'. Correction note: Further excavation indicates that a shelter had been built over the top area of the pyramidal mound Feature 38 similar to the one noted for pyramidal mound Feature 39. [Feature 38B] This ramp is made of very hard packed mottled clay and runs from the base of level E to the top of Feature 38. It slopes at about a 40 degree angle and steps have been crudely fashioned into the clay. At the base the ramp fans out slightly so that it is wider than at the top. It is notable that considerable patching and rebuilding have been done, especially near the top. At the very top of the ramp on the mound's top surface is a small, short log mold ca. 0.2' deep.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Mar 20, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-03-20</dateCreated>
+   </originInfo>
+   <note>Observer illustrations on file at the institution. See also photographs 93MG31 [fhm01208], 95MG31 [fhm01210], 99MG31 [fhm01213], 101MG31 [fhm01215], 102MG31 [fhm01216], 103MG31 [fhm01217], 104MG31 [fhm01218], 106MG31 [fhm01220], 107MG31 [fhm01221], and 109MG31 [fhm01223].</note>
+   <note>Feature identifier(s): 38, 38A, 38B</note>
+   <note>Field specimen identifier(s): 346, 347</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85087721">
+      <topic>Mounds</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1937</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83030217">
+      <geographic>Meigs County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

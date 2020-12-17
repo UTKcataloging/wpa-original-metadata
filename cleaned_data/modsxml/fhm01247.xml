@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01247</identifier>
+   <identifier>151MG31</identifier>
+   <titleInfo>
+      <title>151MG31 Hiwassee Island Site 37MG31, Meigs Co., TN. 37MG31 - Earth mound. Feature 46, Level E. Postmold pattern. It is to be noted that the north wall consisted of only a few postmolds in a shallow. The curved row of postmolds seen at right are associated with structure immediately below (Feature 49). Direction east</title>
+   </titleInfo>
+   <abstract>No internal features were found with this floor pattern, possibly because they were destroyed in the building of the house on the next higher level. In the background is Feature 44 and 45 pyramidal earthwork. [Feature 44] This structure is delineated by a post mold pattern of large, deep molds. The corners are closed; those on the East end being square while at the West they are rounded, with a series of small holes. This structure is Ca. 0.1' below Feat. 41 and if there had been any raised sub-features on the floor they were destroyed. The floor is well made of smooth, hard packed clay. The fire basin for Feat. 41 was, in all probability, used for this structure since it shows evidence of having been rebuilt at one time. Thus while the actual basin of 41C was very small in diameter, this same basin had a diameter of 1.6' during the first stage of use. The raised block is unchanged. (see form 41C for details of fire basin in last stage of use.) The probability is great that this structure was an earth lodge similar to Feat. 41 since the profile of Feat. 40 showed an underneath bank of earth placed up against the post mold pattern of this structure. All other evidence, however, was destroyed when this structure was cleared away for Feature 41. It seems certain that this structure is on a terrace to the north of Feature 45 pyramidal mound. However, the north side slope of this mound down to the terrace could not be found and the supposition is that it was destroyed when this structure and mound were cleared for the building of Features 41 and 39. This structure is, of course, a part of the Level E complex. Post molds were set in a wall trench Ca. 1.8' deep. At the northwest corner the wall trench turned the corner, while at the other three corners it stopped and a corner post filled up the corner. The posts were vertical and showed no effects of such stresses as may have been set up by roof constructure. The wall trenches were filled with earth and gave no indication of having had horizontal support logs placed in them. [Feature 45] This pyramidal mound lies Ca. 1' under Feat. 39 pyramidal mound and is exactly similar in every respect except that no platform was found on the top surface. On the West, this mound leveled out to the same side slope as was in use by mound Feat. 39; on the other three sides, however, the side slopes are in somewhat farther. The top surface is a rather indefinite but hard packed floor 25.5' x 15.5'. At the West end, a row of posts set in a wall trench was found. Parallel to this and 7' West of the East end, another such row was uncovered. The approach to the mound on the South was by a poorly made ramp (Feat. 45A). From the West, an approach (discussed for Feat. 39) was used. This consisted of a series of toe-holds on the low slope to the South that gave approach to a flat area on the West of the mound. This mound connects with Feat. 47 mound by a gentle rising slope. [Feature 46] This structure lay directly under Feature 43 and is very similar in size and shape, being rectangular, 34 x 30 feet. It is delineated by a post mold pattern with closed and rounded corners on the east and a square corner at the southwest. The northwest corner was cut away by the north coor. trench. The north wall was very indefinite only a few post molds having been found and most of those are in a very shallow trench ca. .4' in depth. The south wall was almost directly under that of Feature 43 and hence was partially destroyed. However many of the molds found for Feature 43 look like double molds and it may well be that that was the result of the two rows having been in one place. No log molds were found for this structure. It is probable that this structure was an earth lodge -- evidence mainly is derived from a cross section of Feature 40 which indicated a lower band of earth, which lay up against these molds. No internal features found, but that may be due to the fact that they were destroyed at the time Feature 43 was built. It is possible that Feature 43C fire basin destroyed the basin for this structure. Structure is on the terrace of Feature 47, and is a part of Level E, Section 2 complex. No wall trenches found for the post molds of wall.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Apr 23, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-04-23</dateCreated>
+   </originInfo>
+   <note>Observer illustrations on file at the institution. See also photographs 126MG31 [fhm01235], 146MG31 [fhm01243], 147MG31 [fhm01244], 148MG31 [fhm01245], 150MG31 [fhm01246], and 159MG31 [fhm01249].</note>
+   <note>Feature identifier(s): 44, 45, 46,</note>
+   <note>Field specimen identifier(s): 378, 377, 379</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <topic>General site and excavation</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1937</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83030217">
+      <geographic>Meigs County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

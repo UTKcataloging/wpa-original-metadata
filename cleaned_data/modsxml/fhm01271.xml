@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01271</identifier>
+   <identifier>210MG31</identifier>
+   <titleInfo>
+      <title>210MG31 Hiwassee Island Site 38MG31, Meigs County, Tennessee. 38MG31 - Village. Feature 57, Structure with shallow wall trenches, Feature 58, structure, and Feature 59, fire basin. Square 18R15. Direction northeast</title>
+   </titleInfo>
+   <abstract>It [Feature 57] originates from a level somewhat above that of Feature 58. In the foreground the two trenches overlap each other so that a shelf of the upper structure wall trench can be seen at the far side of the deeper trench for Feature 58. The same overlapping of wall trenches can be seen for the walls on the west, south, and east. Feature 58 has the deeper wall trenches and is somewhat larger than Feature 57. The fire basin, Feature 59, does not associate with either of these structures and no associations could be found for it. [Feature 57] Small, nearly square dwelling found on the subsoil. It is not known from which upper level this structure originated but it can be said to start somewhat above Feature 58 since the wall trenches, as seen in the subsoil, are relatively shallow. The structure is delineated by wall trenches (in many places overlapping those of Feature 58) with open corners. No corner posts found nor were any post molds found in the wall trenches. No internal features found associated with the dwelling. [Feature 58] Rectangular dwelling found on the subsoil. Since these wall molds average 0.6' deep, it is probable that the structure was built on a lower level than Feature 57, however, it is impossible to say on just which level this structure had been built. No post molds have been found in the wall trenches and hence the only evidence of this structure is the wall trenches. These are rather wide and still show considerable depth. The corners are open and there is no evidence of corner posts. No internal features were apparent. [Feature 59] Fire basin located on subsoil. It is possible that this basin at one time could have extended up into a slightly higher level, but if so, the top of it had been destroyed so that it wasn't apparent until subsoil was reached. The fire basin is circular, made of puddled clay, burnt brick red to a depth of ca. 0.1. The bottom is rounded, taking its shape from the sides. It is impossible to be definite about the top of it, but if it hadn't been disturbed, one would have to say that there was no raised rim or curb. No structure could be found associated with the basin, and this is most peculiar since it was found on subsoil, and post molds on wall trenches would show up clearly if any were present. It doesn't seem possible that the basin could have associated with Feature 58, since this structure not only comes from a higher level than the basin, but the west wall is only ca. 2' away from the basin, out of position for the basins found both in this site and on 37MG31.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Sep 19, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-09-19</dateCreated>
+   </originInfo>
+   <note>Observer illustrations on file at the institution.</note>
+   <note>Feature identifier(s): 57, 58, 59</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Fire basins</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1937</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83030217">
+      <geographic>Meigs County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

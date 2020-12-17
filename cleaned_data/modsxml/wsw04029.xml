@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">wsw04029</identifier>
+   <identifier>16BT20</identifier>
+   <titleInfo>
+      <title>16BT20, 15BT20, Butler County, Kentucky. Annis Village. 330 Profile L12-0 with irregular pits and sandpiles in floor of cut</title>
+   </titleInfo>
+   <abstract>One of the puzzling developments in the excavation of this site was the appearance of numerous irregular pits 5 to 10 feet long and 1 1/2 to 3 feet or more in depth, lying in the clear undisturbed sand below the archaeological deposit. There was a total absence of refuse material in them except occasionally in their top few inches, which actually seem to be within the limit of archaeological deposit, vertically, or only very slightly below it. The fill of these pits was brownish sand with some clay and a quantity of coarse angular rock of small size. Invariably there was adjacent to each of these pits a pile of sand, of undisturbed appearance, or sufficient size usually to very nearly fill the pit. At times these piles seemed actually to overlay, to a slight degree, the pit fill beneath. Four such pits and two piles of sand are shown in this photograph. this seems to be a problem for the geologist. View from east. See also photograph 15BT20, close view of the two center pits from the north.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Ralph D. Brown</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Mar 28, 1939</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1939-03-28</dateCreated>
+   </originInfo>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85071958">
+      <topic>Kentucky--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Stratigraphy</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1939</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n78095733">
+      <name>
+         <namePart>University of Kentucky</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81120284">
+      <geographic>Butler County (Ky.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The William S. Webb Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n83061373">University of Kentucky. Museum of Anthropology</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

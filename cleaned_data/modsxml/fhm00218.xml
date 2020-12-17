@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00218</identifier>
+   <identifier>27BY11</identifier>
+   <titleInfo>
+      <title>27BY11 Rymer Site 15BY11, Bradley Co., TN. Feature 10, Rectangular semi-subterranean house pit, including Burial 14BY15. Square 18R7. Direction northeast</title>
+   </titleInfo>
+   <abstract>Almost identical to features 6 and 7. Plow had cut much deeper in this area so that fill in the pit and the outlines of the pit were not clear and sharp. No vertical or sloping walls to the pit could be determined - the disturbed soil in the pit scaling off thinly around the edges - deepening in the center to show the postmolds clearly in undisturbed soil. Badly disturbed area of burned clay near the fire basin and about level with the top may have been a section of the original floor or possibly a "table" area near the basin. A small quantity of wattle lay above it - seeming to indicate that the roof lay above this material. The rim of the fire basin and fragmentary clay area are about 0.5' - 0.6' above the level of the postmolds as uncovered in undisturbed. The entray way was indicated by the two narrow, parallel wall trenches extending outward from the middle of the SE side. The many postmolds associated with the structure seem to indicate that the building underwent several sieges of repairing - new support posts being added from time to time. The firebasin in the center is bowl shaped and lined with puddled clay - burned hard. Skeleton 15BY41, an infant, is deposited in a pit in the west corner of the structure, apparently let down from the original floor of the structure. The plowing has been most destructive on the NW and NE sides - the postmolds of the structure being encountered first here before the presence of a pit house was even suspected. The top of the rim of the fire basin has been disturbed - possibly by plowing.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Stuart Neitzel</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Oct 30, 1937</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1937-10-30</dateCreated>
+   </originInfo>
+   <note>Feature identifier(s): 10</note>
+   <note>Field specimen identifier(s): 349, 350, 351, 359, 366, 394, 401, 911, 912, 913, 914, 368, 378, 390, 516</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1937</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81024913">
+      <geographic>Bradley County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

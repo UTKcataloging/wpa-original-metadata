@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00113</identifier>
+   <identifier>21-625</identifier>
+   <titleInfo>
+      <title>21-625 Crawford Farm Site 6AN21, Anderson County, Tennessee. Mounds 1 and 2</title>
+   </titleInfo>
+   <abstract>Two earth mounds before clearing. Mound #1 lies in a plowed feild on a terrain, which gradually slopes upward from the south. About a quarter of a mile to the south flows the Clinch River, and just across its banks rises Copper Ridge. To the north are also ridges. The mound had been cleared of a heavy growth of timber some years ago. Stumps of many of these trees remained and were removed with some difficulty during the excavating. About eight years previous the mound was disturbed, when a tunnel was dug into the south side by one of the natives. He reported that he had found no indication of burials. Before staking, the mound had to be cleared of a growth of young trees and shrubs. Roots were present throughout the mound, many of which had disturbed burials. (Staked and excavating begun June 4, 1934. Completed June 14, 1934). Mound #2, smaller of the earth mounds, is situated in a plowed field on a gradually sloping terrain. Sloping upward from the south, about a quarter of a mile flows the Clinch River, and just across its bank rises Copper Ridge. To the north are also ridges. The owner stated that the mound had been cleared of a heavy growth of timber some years ago. The stumps of many of these trees were left and proved a hindrance to excavating. Before the mound was staked off it was necessary to clear it of the growth of young trees and shrubs. Roots were present throughout the mound, many of which had disturbed burials. (Staked and excavating begun June 4, 1934. Completed June 11, 1934).</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <note>See also photographs 21-626 [fhm00114] and 21-627 [fhm00115].</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85087721">
+      <topic>Mounds</topic>
+   </subject>
+   <subject>
+      <topic>General site and excavation</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1934</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n82030802">
+      <geographic>Anderson County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

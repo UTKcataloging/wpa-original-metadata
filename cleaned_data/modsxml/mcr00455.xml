@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">mcr00455</identifier>
+   <identifier>139BY13</identifier>
+   <titleInfo>
+      <title>139BY13 Ledford Island, Bradley County, Tennessee. Burial 16BY56 with 16BY57 beneath it. Skull, face-up, is on C2 and belongs to burial 56. Skull, face-down, is disturbed and mandible has been disarticulated. Square 8R12. Direction NW</title>
+   </titleInfo>
+   <abstract>[16BY56] Mature female in fair condition, extended on back with head to SW. In regard to F.S. 1319, 1320, 1321, 1322, 1323, 1332, and 1341, it is impossible to tell by the level with which skeleton they were associated. F.S. 1319 (celt), F.S. 1320, 1321, 1322, 1341 (bone tools) were at the head of the grave and F.S. 1332 were sherds and bone from the fill of the pit. F.S. 1323 (beads) were apparently strung--the line ran between the skulls but did not run under the bone--so it can't be said with certainty that the beads belonged with 57, but it seems probable). The postmold in the northeast end of the pit showed at 7.6' below datum, but was entirely dug out at the level of the bone at 8.5'. The post mold, 1.4' deep in the southeast edge of the pit was first seen at 7.6' and was 0.5' deep at 8.5 below datum. Since the pit was wider at 7.6' below datum the other three posts did not show in the mixed fill--however, as the pit narrowed at 8.5' below datum the posts showed in the edges of the narrow pit and in the lower fill--indeterminable whether the posts are precedent or intrusive. 16BY56 above 16BY57--the grave for 57 had been opened and the body of 56 laid in on top. The skull, mandible, and epistropheus of 57 was first removed and laid to the right and 56 almost directly superimposed upon 57. The skull of 57 occupies almost the same vertical and horizontal location that the skull of 57 must have occupied. The shoulders of 57 are near the southwest end of the pit. The skull of 57 was replaced to one side with the left side of the face down. The mandible is upside down near the right humerus of 16BY56. The right leg of 56 is almost directly above the right leg of 57. About 0.2' of fill intervenes. The left leg of 57 is about 0.3' to the left and about 0.2' below the left leg of 56. There is virtually no fill between the torsos of the skeletons. Apparently the flesh had decomposed on 57 in order to permit the skull to be removed when 56 was interred. The skulls are on the same level. Two short splinters of rotten wood lay above and between the left humerus and torso of 56--parallel to the long axis of the body. [16BY57] Adult male in poor condition, extended on back with head to SW. Besides the disarrangement of the skull and mandible incidental to the interment of 56, the right foot of 57 has been slightly disturbed as though by roots or rodents. FS 1323 (shell beads) are definitely associated with 57. Complete exposure of 57 shows an unbroken string of the beads extending laterally under the cervical vertebrae from left to right. As noted on burial 56, there was some question as to the exact association of the beads--this doubt is now removed. F.S. 1417 (elbow pipe) fragile and crumbly--bowl had a charred cake.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Stuart Neitzel</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Jun 17, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-06-17</dateCreated>
+   </originInfo>
+   <note>Observer illustrations availalble on file.</note>
+   <note>Field specimen identifier(s): 1319, 1320, 1321, 1322, 1324, 1325, 1326, 1327, 1328, 1333, 1334, 1332, 1341, 1357, 1329, 1330, 1331, 1342, 1423, 1417</note>
+   <note>Burial identifier(s): 16BY56, 16BY57</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85018080">
+      <topic>Burial</topic>
+   </subject>
+   <subject>
+      <topic>Artifacts</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1938</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1939</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81024913">
+      <geographic>Bradley County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Restricted Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

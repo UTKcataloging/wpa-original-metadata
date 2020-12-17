@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01619</identifier>
+   <identifier>18RH41</identifier>
+   <titleInfo>
+      <title>18RH41 Hampton Farm Site 85RH41, Rhea County, Tennessee. House number 11. Circular fire basin associating with House 11. Sq. 15L13. Direction northwest</title>
+   </titleInfo>
+   <abstract>Pit house (?) Post mold pattern of dwelling. This house was worked out by the trench method and was not completely excavated due to the large amount of sterile alluvium, which was combined with the present plow zone that overlay the area. This band of brown silt was about 1' thick and was probably the result of the 1917 inundation, which was the last to cover the area, it is reported. It appears from the evidence at hand that this house is of the same general type as the others excavated in this site. The floor of this house was the black compact humic soil forming the HVV of St. I. It was burned slightly around the fire basin. The house floor lay directly on top of the HVV. Although no house pit outline was discernable, the house area was covered with midden soil, in which was mixed small pieces of broken burned daub, which is characteristic of the fill of many house pits. If this house is of the pit variety it would associate with an earlier Plow Line than the present one as the recent alluvial deposity was so deep as to cover up the earlier plow zone. This would provide a pit with a present depth of about 0.6' to 1.0' deep, assuming that the home originated at the old PL. Evidence on the walls of this house show it to be of the post mold type, and the sections of the walls excavated indicate that the house was rectangular and oriented NNE-SSW, which is the same as other houses in this site. The post mold pattern was 23.0' in diameter WNW-ESE and assuming that the central fire basin occupied the approximate center of the house the NNE-SSW diameter would be in the neighborhood of 21.0'. The central fire basin was well constructed of puddled clay, circular in shape, with sloping sides and a gently rounded bottom, almost flat in center. It definitely had no modeled rim, being virtually flush with the floor. It was filled with brown wood ash which was heaped up in the basin so that it overflowed onto the floor on the west and south sides. A layer of yellow sandy clay overlay the floor of this house, this being about 0.15 to 0.2 in thickness and extending taward the house walls, but terminating about 2.0' inside from the wall post molds. Several larger molds inside the pattern possibly associated as roof support molds. Note: It might be well to check carefully any cultural material associated with this house as it may represent an early house in the village. No incised ware of historical material were noticed as coming from this house. House is not likely to be early as it lies outside Feature 8 Moat, which is very early in site and apparently abandoned early.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Wendell C. Walker</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Oct 18, 1940</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1940-10-18</dateCreated>
+   </originInfo>
+   <note>Feature identifier(s): 11</note>
+   <note>Field specimen identifier(s): 11-1, 11-2, 11-3, 11-4, 11-5, 11-6, 11-7, 11-8, 11-9, 11-10, 11-11</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Fire basins</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81139865">
+      <geographic>Rhea County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

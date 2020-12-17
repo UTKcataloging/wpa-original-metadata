@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">mcr00358</identifier>
+   <identifier>274BN77</identifier>
+   <titleInfo>
+      <title>274BN77 McDaniel, Benton County, Tennessee. Burials 87BN7, 87BN8(dog) and 87BN9(dog). Burial 7, human adult male, fully flexed, head to NW, on left side. Left arm over, 3 points and 6 antler adzes. Burial 8, dog, to north of human, on belly, head west. Burial 9, dog, in foreground, head SW, on right side. Stratum I, pit. Square 12CA. Direction East</title>
+   </titleInfo>
+   <abstract>[87BN7] Adult male in fair to good condition. Fairly complete, fully flexed, flesh burial on left side, face north, right arms over, head oriented to NW. An excellent burial - for the site. All but one of the four antler adzes or chizels badly decayed. This one gives a perfect idea of the type. Another was found in the square and may have been associated with the grave (F.S. 211). The presence of the two dogs and the burial in this large pit need not indicate that there is full or ethnologic associations. That dog plus human = burial complex. These large pits are trash pits. The earth in them is soft, ashy and heavy with organic material. I believe that these antler adzes are fleshers or hair removers - skin working tools. [87BN8] Fairly complete dog burial on right side and stomach, legs beneath and deeper than body, head oriented west. Partly flexed, flesh burial associated with burial 7 and artifacts, and burial 9. [87BN9] Dog burial on right side, head oriented to SW. Partly flexed, flesh, burial fragmentary and decayed.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Douglas Osborne</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Jun 25, 1941</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1941-06-25</dateCreated>
+   </originInfo>
+   <note>Observer illustrations available through institution.</note>
+   <note>Field specimen identifier(s): 87BN7(1), 87BN7(2), 87BN7(3), 87BN7(4), 87BN7(5), 87BN7(6), 87BN7(7), 87BN7(8)</note>
+   <note>Burial identifier(s): 87BN7, 87BN8, 87BN9</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85038796">
+      <topic>Dogs</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85018080">
+      <topic>Burial</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85018080">
+      <topic>Burial</topic>
+   </subject>
+   <subject>
+      <temporal>Archaic</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1941</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79151191">
+      <geographic>Benton County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Restricted Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

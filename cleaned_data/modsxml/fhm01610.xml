@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01610</identifier>
+   <identifier>2RH41</identifier>
+   <titleInfo>
+      <title>2RH41 Hampton Farm Site 85RH41, Rhea County, Tennessee. House number 1. Circular fire basin associating with House 1, intrusive from plow line. Sq. 17R1. Direction south</title>
+   </titleInfo>
+   <abstract>This structure was located by the N-S test trench along the CA. The pit, although shallow, was quite distinct in the CA profile. This structure apparently the earliest of a series of at least four superimposed houses, as three additional fire basins were found close to the fire basin of house 1. These firebasins, judging from the somewhat fragmentary remains of some of them, were of the same type as House 1 basin. They were on slightly different planes, however, and since House No. 1 basin was the lowest in this series and the most complete, it is believed that it associates with the house pit and postmolds that seem to make up this structure. The post molds forming the walls of this house were chosen from a much larger number, many of which were probably intrusive molds, possibly associating with Features 5, 6, or 7 fire basins. The entire area of this house was not excavated due to a large dirt pile that would have to have been moved on the west side. In the east side excavation was not completed because it was thought that enough information had been obtained on the house series without further removal of corn which covered the area. It was also thought that due to the complexity of the situation it was not advisable to further excavate the area. The house, in general, seems to be a rectangular dwelling, probably with gently rounded corners, deposited in a pit of the same shape but somewhat larger. The lower edge of the house pit sloped rather gently upward. Wall molds were fairly large and the fill material of the house pit was dark midden with considerable number of small pieces of burned clay daub. A few chared pieces of wood were found in the fill but none very large. The fire basin was built of puddled clay and fired hard. It was circular with a rounded bottom: the top section, although damaged somewhat, was complete enough to show there was no modeled rim. Features 5, 6, 7 basins seem to be of the same type as this fire basin. This house was intrusive from plow line and all but the central section of the floor area was sand, this being stratum II, into which the pit was dug. The house pit was intrusive to an earlier midden deposit Pit -2 which occupied the central section of the house area. Several artifacts were found which seemed to associate with the house floor but most of these had to be assigned to the fill above, because of the lack of positive association.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Wendell C. Walker</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <note>Feature identifier(s): 1</note>
+   <note>Field specimen identifier(s): 1-1, 1-2, 1-3, 1-4, DS-7</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Fire basins</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81139865">
+      <geographic>Rhea County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

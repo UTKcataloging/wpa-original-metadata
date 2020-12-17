@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00235</identifier>
+   <identifier>82BY11</identifier>
+   <titleInfo>
+      <title>82BY11 Rymer Site 15BY11, Bradley Co., TN. Feature 40, Dark area of floor prior to excavation. Semi-subterranean structure with central firebasin and entrance passage. Square 0R13. Direction northwest</title>
+   </titleInfo>
+   <abstract>[Feature 40] There are at least two and very probably three structures here. Artifacts and sherds were catalogued as from Feature 40, presence of additional structures could not be definitely assigned by level. Feature 40 has part of outline of pit, Feature 41 has also part of pit outline. The pits seem to be at a slight angle to each other - Feature 40 being aligned more WNW -SSE than the NW - SE of Feature 41. Feature 46 could not be assigned except on the basis of the extra firebasin. Feature 40 can probably be associated with entrance passage on southeast side. Entrance passage at East corner was partly cut away in digging drainage trench but seems to be possibly associated with feature 47. Walls of pit sloped out slightly but were fairly regular. Subsoil here is quite sandy and floor was in poor condition. Hard baked floor seems to be mainly associated with Feature 40. Apparently burned - others unburned. Wattle was fairly compact but sandy. Under wattle were remains of what appeared to be cane and/or bark thatch - very indefinite indications. Subsoil was overlain with thin, irregular layer of weathered clay; this may have been wattle of Feature 41 or it may have been floor added because of sandiness of subsoil. Burned timbers of Feature 40 were mainly oak and good dendrochronology specimens were obtained. Floors of Features 40 and 47 were covered with 0.2' ca, of detritus, baked around basin into hard floor.... Basin of Feature 40 had about 0.1' of puddled clay added symmetrically to floor and sides.... On floor of Feature 40 were found some shell of nuts (probably carya) and pits of wild plum (Prunus Americana). [Feature 41] Semi-subterranean structure with central firebasin. Lies below Feature 40 and possibly below Feature 47 through exact interrelation of Features 47 and 41 are not clear. Unburned structure. See form for Feature 40. [Feature 47] Semi-subterranean structure with central firebasin. Probably semi-subterranean structure though pit could not be traced. Seemed to have entrance passage at east corner. See form for Feature 40.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <note>Additional narrative information for Feature 40 on file at the institution. See also photographs 89BY11 [fhm00238], and 91BY11 [fhm00239]. Additional field specimen numbers: 1833 - 1842, 1855 - 1870, 1875 - 1879, 1941 - 1961, 2049 - 2059. Associated with Features 41 and 47.</note>
+   <note>Feature identifier(s): 40, 41, 47</note>
+   <note>Field specimen identifier(s): 1832, 1934, 2049,</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1937</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81024913">
+      <geographic>Bradley County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

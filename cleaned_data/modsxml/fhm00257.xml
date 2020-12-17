@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00257</identifier>
+   <identifier>140BY13</identifier>
+   <titleInfo>
+      <title>140BY13 Ledford Island, Bradley Co., TN. Feature 5, with arbitrary pit outline. Roof wattle shows in center. Square 3R12, etc. Direction north</title>
+   </titleInfo>
+   <abstract>Rectangular postmold, pattern, depressed "floor" area, and two central fire basins. Basin 1 superimposed above and overlapping Basin 2. Entryway on SE side near south corner- 2 stump holes obscure entry and destroyed entry trenches. The roof wattle was rectaingular in outline and was oriented with the house 0.5' - 0.8' above the central portion of the house. The wattle was rough and broken, the top portions partially disturbed by plowing. It averaged 0.3' in thickness and showed grass and cane embedded impressions. An average of 0.3' rather loose, black fill lay between the wattle and the burned clay floor. The level at which the post molds appeared was considerably below (0.3 - 0.5) the level of the burned clay floor. Sherds from one or two vessels were embedded in the top of the wattle. As stated above the pit outline of the house was obscured, the fact that the floor of the house is somewhat longer than the surrounding excavation levels indicates that some sort of an attempt at scoping out the interior of the house was made. Several factors may be responsible for the absence of a pit outline. It seems that surface disturbances such as plowing and erosion may be ruled out. Since with the exception of the upper most projections of wattle wich were somewhat disturbed by plowing no concerted disturbing agencies is manifest. The principle cause for the obscurity of the pit outline seems to be a natural soil condition.... Feature 5 house is later than Feature 23. Refer to later form for details.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Stuart Neitzel</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Jul 6, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-07-06</dateCreated>
+   </originInfo>
+   <note>Additional narrative information is on file at the institution. Contact institution for specific field specimen numbers. Additional field specimen numbers: about 120 numbers ranging from 630 to 1946 and 2206, 2207 and 2216.</note>
+   <note>Feature identifier(s): 5</note>
+   <note>Field specimen identifier(s): 630, 1946, 2206, 2207, 2216</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <topic>General site and excavation</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1938</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1939</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81024913">
+      <geographic>Bradley County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

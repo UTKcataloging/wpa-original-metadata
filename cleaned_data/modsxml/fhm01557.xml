@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01557</identifier>
+   <identifier>56RE12</identifier>
+   <titleInfo>
+      <title>56RE12 DeArmond Site 2RE12, Roane Co., TN. Feature 21, Rectangular dwelling pattern delineated by large, widely spaced postmolds. Pattern lies in bottom of shallow rectangular pit. Central firebasin is circular with slightly modeled rim. Four interior molds seem to associate as roof support molds. (Note: south corner inadvertently cut away). Datum 7.0' (top of pit) 7.4' (floor). Sq. 39L7. Direction northwest</title>
+   </titleInfo>
+   <abstract>This structure was the "pit" type and consisted of a rectangular pattern delineated by fairly large pos molds with fairly wide interstices. The corners were slightly rounded and four interior molds seemed to associate as roof support molds. This house is of the same type as Feature 5 but lacks any entrance manifestations. The pit or depression is rectangular with rounded corners and the point of intrusion was found about 0.4' above the structure floor, which was primarily burned in appearance. The central fire basin was of prepared clay and had a slightly molded rim, but this was chiefly acccentuated by the fact that the basin was constructed over an earlier basin denoting an earlier occupancy of the area. Only a part of the side of the earlier basin was found, it being vertical. No bottom section was found. The arc described by the wall section indicated a basin about the size of the one associated with this house. Note: The ash content of the basin with this house had been raked out for a short depth inside the basin and was deposited around most of the rim. The ash was thus deposited when the baisn was uncovered. This is shown in the photograph of the house. The floor of this house was burned in the central section, particularly around the central fire basin and seemed to be a prepared clay floor over this area. However, generally speaking, the floor was accretive with a burned surface.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>W. C. Walker</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Mar 29, 1940</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1940-03-29</dateCreated>
+   </originInfo>
+   <note>19 Field Specimen numbers on file at the institution and range from 1296, 1297, 1299 then from 2222 to 2311. See also photograph 58RE12 [fhm01558].</note>
+   <note>Feature identifier(s): 21</note>
+   <note>Field specimen identifier(s): 1297, 1296, 1299, 2222, 2301, 2311</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Fire basins</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n82226528">
+      <geographic>Roane County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

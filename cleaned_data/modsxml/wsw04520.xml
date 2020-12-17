@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">wsw04520</identifier>
+   <identifier>20aBE3</identifier>
+   <titleInfo>
+      <title>20aBE3, 15BE3, Boone County, Kentucky. Robbins Large Mound Site. Segments of the 60 and 65' Profile</title>
+   </titleInfo>
+   <abstract>In 20aBE3, the subject matter is the same as in 20bBE3, only somewhat more restricted and in greater detail. Note the conspicuous dipping of the roof loaded earth as a result of its collapse into the tomb cavity Tomb #1. The east wall of the tomb is the bright yellow and grey horizontally loaded earth. The west wall of the tomb, which overlaps the dome of Tomb #4, has been added to considerably over what it was in the 55' Profile to give an almost vertical wall to the west side of tomb. Although it is not incised, the surface of Tomb #4 primary dome can be detected by following with the eye from the left hand corner of the Tomb #1 interior up a gradual incline. The double log molds on either side of the legs of Burial #3 were unfortunately cut away before detected, but very faint traces of them can be seen in cross-section in the corners of the tomb floor in this 60' Profile. They were not open and contained practically no log dust. Note the cavity in the top of the earth roof over Tomb #3 caused by its collapse into the tomb. Advantage was taken of this natural earth ring to construct Tomb #3. Examining the brightly loaded earth of the collapsed roof over Tomb #1 it is to be noted that the loads are pretty well shattered in a fault line running from the lower left hand corner up to a ground-hog hole. The other loaded material, beyond being severely bent and tipped, is largely intact. The 65' face seen in part shows a suggestion of doming of very indistinct loads just to the right of the block of earth bearing the charred poles of Feature #2. Later investigation indicated that this had a counterpart doming to the left of these charred poles, but it was evident that this was just the first suggestion of a tomb, as yet on into the mound and apparently build over Feature #2 ... it developed into Tomb #2.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <originInfo>
+      <dateCreated>Nov 15, 1939</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1939-11-15</dateCreated>
+   </originInfo>
+   <note>Four exposures were made with the identical number (20BE3) through a mistake in field procedure. Three of these exposures are identical in subject matter and in position ... closeups of Tomb #1 as it appears in the 60' profile. The other exposure also shows Tomb #1 in the 60' profile, but being more removed from the subject matter embraces much more of the 60 as well as 65' profiles. For sake of organization, the long range shot will be considered as 20bBE3 and the closeups as 20aBE3.</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85071958">
+      <topic>Kentucky--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>General site and excavation</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1939</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1941</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n78095733">
+      <name>
+         <namePart>University of Kentucky</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81055731">
+      <geographic>Boone County (Ky.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The William S. Webb Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n83061373">University of Kentucky. Museum of Anthropology</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01276</identifier>
+   <identifier>235MG31</identifier>
+   <titleInfo>
+      <title>235MG31 Hiwassee Island Site 95MG31, Meigs County, Tennessee. 95MG31 - Shell bed, Probable mound. Feature 2, Square postmold pattern found on the subsoil of this village deposit (probable historic postmold). Square 1. Direction east</title>
+   </titleInfo>
+   <abstract>Trowel shows relative size. (Note: This is probably of historic date, since it is known that an old cabin had been built directly above this area). This mold was very unusual in that it was virtually square, being 0.65' by 0.7'. It originated at the bottom of the plow line and therefore was only visible in subsoil. It was relatively deep and retained its square shape to the bottom. The mold was split vertically and carefully cleaned out for the purpose of checking the bottom, which proved to be neither sharp not blunt, but a shape as shown on the reverse side of this form [feature data form on file]. The clay matrix in the bottom was tightly compressed as if having been subjected to some sort of force such as driving or pounding. It would seem impossible for a post as large and as nearly blunt as this to have been driven in such hard clay subsoil. It doesn't seem logical that it was the work of a white man, since the post was not sharpened, nor a previous hole dug, but the chances are that it is of historic origin, since the observer had been informed that the village area was the site of the house of a family that cleared the land 50 or 60 years ago. It is suggested that a hole slightly smaller than the post was first dug and the post driven into this, the post forcing its way into the hard clay in such a manner as to leave a mold such as the one herewith described. There was no evidence to suggest a previous hole having been dug.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>W. C. Walker</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Dec 12, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-12-12</dateCreated>
+   </originInfo>
+   <note>See also photograph 237MG31 [fhm01277].</note>
+   <note>Feature identifier(s): 2</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Post molds</topic>
+   </subject>
+   <subject>
+      <temporal>Late Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1937</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83030217">
+      <geographic>Meigs County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

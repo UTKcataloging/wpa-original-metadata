@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01386</identifier>
+   <identifier>17PK1</identifier>
+   <titleInfo>
+      <title>17PK1 Ocoee Site 2PK1, Polk County, Tennessee. Feature 9, small house outline (a sweat-house?). Semi-subterranean structure excavated except for rock filled area in center. Dark square at left is filled-in burial pit. (See photograph No. 20PK1). Sq 28L6, etc. Direction west</title>
+   </titleInfo>
+   <abstract>A small house measuring 12 1/2' E-W by 14' N-S, appeared at the base of the plow. It is located in squares 26-27-28-29-65 and 26-27-28-29-L 6. At the south side is a small extension 2 1/2' in width and extending 6 1/2 feet from the edge of the house. A very definite outline of the house pit and extension was in evidence. The outline of this extension continues into the house and runs into the firepit. The fill of the extension was somewhat darker than the house fill and blackened rock of assorted sizes and numbering 604 were scattered on top and throughout the fill. Included in these rocks were four pitted hammerstones. The remainder showed no evidence of being worked. In the northeastern part of the house was located pit No. 60; apparently a storage or refuse pit. South of the house were found two other pits, apparently used for the same purpose. Our plans were to remove the house fill in two inch levels, but it was found that it was not over 3 inches in depth at any place, so it was entirely removed at one time. A large amount of sherds and a number of artifacts were found. The floor was uneven and sloped slightly downward to the south. The edges of the pit sloped slightly inward and were in very good condition; the fill breaking away nicely. The removal of the fill disclosed a very definite outline of a small trench running just inside of the wall and being from .2 to 5 inches width and .1 to .2 in depth. It extended all the way around with the exception of three places. Post molds were found at irregular intervals in the trench. The main supports of the house were apparently six large posts, four being located at each corner and one each at the center of the east and west walls. The corner postmolds had a very definite inward slope. The postmolds on the outside of the house also show a regular outline. There was no evidence of wattle or burned floor. The fire pit had sloping walls and only a portion of the rim remained. The bottom and walls of the pit were burned to a depth of .1. There was no rim on the southern part because the slope of the floor of the extension ran gradually down to the bottom of the pit. The sides of the pit were burned about half way to the top; the top half showing no signs of burning. This feature suggests a "sweat house" of sorts. The blackened rock perhaps having been heated and the blackened soil being black and carbon filled from the application of water to the hot material.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Jack Ray</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Dec 31, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-12-31</dateCreated>
+   </originInfo>
+   <note>See also photograph 20PK1 [fhm01388].</note>
+   <note>Feature identifier(s): 9</note>
+   <note>Field specimen identifier(s): 701, 649, 753, 782, 783, 987</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85018080">
+      <topic>Burial</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <topic>Pits</topic>
+   </subject>
+   <subject>
+      <temporal>Historic Native American</temporal>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81058538">
+      <geographic>Polk County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

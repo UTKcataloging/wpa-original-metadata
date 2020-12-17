@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01389</identifier>
+   <identifier>22PK1</identifier>
+   <titleInfo>
+      <title>22PK1 Ocoee Site 2PK1, Polk County, Tennessee. Firebasin and postmold pattern of Feature 10 with adjacent posts and pits. Direction North</title>
+   </titleInfo>
+   <abstract>Feature #10 appeared at the plowline as the rim of firebasin in square 28R3. This rim was intrusive to the plow zone and had been badly gouged by the plow, destroying the regular outline of the basin rim. Large chunks of this disturbed rim were found scattered in the plow zone adjacent to this firebasin. The bowl of this basin contaiend a black humic fill to a depth 0.4'. ...Bowl No. 2 was a large superimposed layer of red hard baked clay that protruded into the plow zone and had been partially removed on the rim surface by plowing. ... It was not until the adjacent squares had been cleared to a depth of 6' below plowline that a postmold pattern appeared which which seemed to be associated with fire basins. Excavation was carried further to a depth of 3 more inches clearly showing a postmold pattern that was roughly square with rounded corners. The outline seemed to appear as a double line of holes. This may indicate more than one period of construction and habitation. ... Two burials lay within the outline of Feature 10. ... Pit number 58 lay within the house outline. It contained midden material and black humic fill. A number of pits lay to the West of Feature 10, and in view of the lack of midden and refuse within the house outline, it is suggested that these pits were used in which to dump refuse by occupants of Feature 10. Pit numbers 33, 41, 52, 53, 54, 56, 57, 60 and 62.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Earl L. Loyster</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Jan 28, 1939</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1939-01-28</dateCreated>
+   </originInfo>
+   <note>Institution has more narrative information and a diagram on file.</note>
+   <note>Feature identifier(s): 10</note>
+   <note>Field specimen identifier(s): 710, 785, 800, 825, 834, 803, 817, 842, 843, 845, 858, 943, 944, 947, 963, 967, 971, 978, 982</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Fire basins</topic>
+   </subject>
+   <subject>
+      <topic>People lab and field scenes</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Historic Native American</temporal>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81058538">
+      <geographic>Polk County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

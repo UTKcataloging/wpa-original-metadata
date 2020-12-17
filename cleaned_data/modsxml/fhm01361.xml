@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01361</identifier>
+   <identifier>45MN3</identifier>
+   <titleInfo>
+      <title>45MN3 Mouse Creek Site 4MN3, McMinn County, Tennessee. Feature 8, a dwelling house floor pattern with two entrances at left, central hearth and a countersunk, burned floor. Sq. 13L8. Direction southeast</title>
+   </titleInfo>
+   <abstract>Large semi-subterranean structure similar to Feature 2. Walls of pit could not be traced entirely, but they can be hypothetically drawn to complete structure. Walls could not be traced in area adjacent to Feature 3 (palisade). This is apparently not because of intrusion of palisade to structure but because of shallowness of deposits. Palisade appears free of structure. Walls of pit nearly vertical where found. Some evidence of wattle (burned) found above floor but most of wattle plowed away. Floor flat or nearly so and little detritus on it. Floor near basin was quite uneven and seemed to be occupational detritus burned hard. In floor were numerous small cracked river pebbles -- these were imbedded in floor and seem to be precedent to house. House definitely burned as burnt basal ends of post were found. Some burned wattle also in fire basin. Floor northwest of basin was cut by pit or stump 1.2D. Walls of this pit were irregular and floor uneven and it may well be a stump. Firebasin at center was circular with vertical walls rounded to meet flat bottom. Basin partly filled with ash; burned very hard and clay below basin burned red to depth of 0.5 north of basin was small pit 1.7c filled with midden material. Top of this pit was covered with burned clay floor, somewhat like small shallow basin about 0.2c. This may be auxiliary basin. North of this is another small circular area of burned puddled clay, under which a post mold. West of floor was small pits of stones which seemed to lie at floor level. Isolated patches of floor occurred near center of southeast wall and in two places near west corner. At south corner were two complete sets of entrance passages. It was not possible to determine whether these were in use at the same time. The northeast set were deeper than the southwest pair. Near north corner a burial of infant was found in a very shallow pit. All the evidence seemed to indicate that this burial was inclusive. Just outside west corner was a pit of 27 small stones -- this may be associated with structure. The peculiar shape of the burned floor of this structure may be caused by burning of floor areas under wattle upon collapse of roof and walls. The floor pattern is suggestive of patterns of wattle previously found. Excavation began by Neitzel, completed by Fairbanks.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Fairbanks</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>May 2, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-05-02</dateCreated>
+   </originInfo>
+   <note>Feature identifier(s): 8</note>
+   <note>Field specimen identifier(s): 490, 533, 569, 570, 571, 592, 599, 620, 689, 690, 735</note>
+   <note>Burial identifier(s): 4MN55</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <topic>People lab and field scenes</topic>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81112582">
+      <geographic>McMinn County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

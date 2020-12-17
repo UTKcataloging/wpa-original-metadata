@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01564</identifier>
+   <identifier>64RE12</identifier>
+   <titleInfo>
+      <title>64RE12 DeArmond Site 3RE12, Roane County, Tennessee. Feature 7, Rectangular postmold house with rectangular basin. Phase B. Datum 2.5' (floor). Sq. 49CA. Direction south-southeast</title>
+   </titleInfo>
+   <abstract>Rectangular, post mold house, with rectangular basin. Feature 7 includes the rectangular fire basin and all of the post molds shown at datum depth 2.5'. Actually, on this stage of excavation can be seen fragments of wall patterns of eight or ten structures. These patterns undoubtedly associated with the extra fire basins (Features 3, 4, 5, 6, etc.) but they could not be matched up with any validity. From the fragmentary evidence of this group of houses very little can be said in summary. They were constructed with posts set in holes. The interstices seem to vary from about 1.0' to 2.5' although they are fairly regular in any given pattern. The walls are not particularly straight and there was probably no definite manner by which the corners were formed. In general the corners were oriented towards the cardinal points, but a variation of this can be demonstrated with the wall running from the vicinity of 51L1 to 4.0'N -4.0'W of 50R1. That the total mound summit was not used as a floor can easily be seen by reference to the southeastern prolongation of the summit area. Several houses used this area, and probably more than half of each structure lay on this prolongation. On the other hand, it does not seem likely that more than one structure was standing at once. The association of the pits with any one strucutre (or with all of them) is doubtful sine the only origin which could be given them was the level at which they were seen, and soil conditions were unfavorable for observation. Thus, the rectangular firebasin and a few patches of hard flooring were all that could be associated, together and called "Feature 7". The fire basin was incomplete, as can be seen by reference to the detailed drawing. In particular, it should be noticed that the external corners of the broad flat rims were broken down and otherwise incomplete. This bears strong resemblance to the "alters" shown in the Norris Basin report. Little can be said about the firebasin-like phenomena appearing in squares 48L1, 48R1, and 51L1. They were very fragmentary, but were slightly basin-shaped, contained a little ash, were burned red, and had slight traces of flooring at their edges. The evidence of form and function was so scanty that they have not been "featurized". Contemporanerty for all the pits can not be claimed, likewise for burials. Some were certainly intruded while the house was occupied.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>John Alden</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Apr 1, 1940</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1940-04-01</dateCreated>
+   </originInfo>
+   <note>See also photograph 51RE12 [fhm01555].</note>
+   <note>Feature identifier(s): 7</note>
+   <note>Field specimen identifier(s): 239, 241</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n82226528">
+      <geographic>Roane County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

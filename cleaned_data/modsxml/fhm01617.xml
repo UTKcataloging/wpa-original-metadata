@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01617</identifier>
+   <identifier>16RH41</identifier>
+   <titleInfo>
+      <title>16RH41 Hampton Farm Site 85RH41, Rhea Co., TN. Feature 8, East end of Feature 8 ditch or moat, showing sloping sides and end and flat bottom. Note patched side (at right) and patched end, these gaps occasioned by cross section trenching. St. I (lower). Sq. 15R2. Direction northwest</title>
+   </titleInfo>
+   <abstract>Long, wide segmental ditch, resembling a moat and forming two separate patterns. (Section of wall trench outside moat. Also considered a part of this feature) This feature was so extensive that it was excavated principally by a series of test pits and trenches. Certain sections, however, were excavated in the more general areas of both 85R41 and 85VT1R41. On 85VT1R41 this feature was designated Feature 1. For convenience in handling a detail discussion each segment has been given an aphabetical designation to facilitate reference. Segment A - This segment was the first encountered. Its area extended about 85' long and its width ranged from about 5 1/2' to about 7'. Interior depth ranged from about 1.7' to 2.5'. The trench outline in cross section showed sloping sides, rounding off to a flat bottom. The ends of the trench segment were rounded and sloping. This segment extended to the east toward the river and westward toward segment *B. It was completely uncovered. Segment B - The north end of this segment extended into the general excavation of 85R41 but most of it was traced by test pits and trenches sunk at intervals. It was similar to Segment A. Segment B formed a part of the north side of the smaller moat pattern and most of the west side. Segment C - This section was excavated by test trenches. Part of it formed the west side of the smaller patter, but most of it formed the south wall. Segment D - This is the moat segment that extended through Feature 4 mound of 85VT1R41 and was referred to as Feature 1 on that excavation. Segment E - This segment comprised a portion or section running east and west and south of the smaller pattern formed by segments A, B, C, and D. Segment F - This segment formed the southern end of the larger patter. It was continuing southward when excavation was abandoned. Segment C - This segment was characterized principally by a double dip body wich widened the moat considerably in certain areas. It is best explained by the ground plan and accompanying drawings and moat discussion in the field report. Segment H - This was the longest segment of the larger patterns. It was approximately 400' in length and showed in certain sections the double-dip body in cross section. A large, deep midden pit about 5' in depth had cut into the north-central section. Segment I - This segment was relatively short and was the fartherest north that the moat could be traced. No east west section could be found, although 85VT2R41 excavation involved the area where the segment should have been. Segment J - This segment is almost problematical. It seemed to represent a segment paralleling the end section of Segment H but extending southward and bending eastward. It was not traced sufficiently to draw positive conclusions. Stockade - About 50' outside the larger moat pattern was evidence of a stockade in the form of both wall trench and post molds. This section of the feature is dicussed and explained in the field report. For detail see ground plan. Excerpt from Excavator's Report attached. Approximately 1,800 lineal feet of a moat-like phenomenon, Feature 8 (Feature No. 1 on excavation 85VT1R41) was found enclosing the village area. The feature was a segmented affair, and possibly represented at least two stages of the village expansion, although this is not definitely known. Generally speaking, the moat was characterized as a ditch with sloping sides rounding to a flat bottom, or in some instances, with a rounded bottom when shown in cross section. It varied in width (the main body of the ditch) from about five feet to about seven feet and there was a variation in depth in different areas. ... Because this trench covered such a great expanse of ground, it was impossible to excavate the entire feature. It was located by digging over a hundred test trenches at intervals along its path. In addition, certain sections were more carefully excavated in the general excavations of the village, both in 85RH41 and 85VT1RH41.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Wendell C. Walker</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <note>Extensive detailed narrative information and illustrations on file at the institution.</note>
+   <note>Feature identifier(s): 8</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85038559">
+      <topic>Ditches</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81139865">
+      <geographic>Rhea County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00279</identifier>
+   <identifier>252BY13</identifier>
+   <titleInfo>
+      <title>252BY13 Ledford Island Site 16BY13, Bradley Co., TN. Feature 36, Showing compound fire basin in center. Exploratory trenches show as a "V" in foreground. Square 27L2, etc. Direction southwest</title>
+   </titleInfo>
+   <abstract>In an attempt to refine the observations of this house, 2'' levels were used cutting out the fill, rather than taking down the fill to the floor in one operation. The top of the first 2" level (Lev. A) was the top of Level 2. There were five such levels, the last one being Level E.... Feature 36 first appeared under the plowline (top of Lev. A or Lev. 2) as a great ring of disturbed earth, very black with humus and burned material. This band was irregular and the inside faded out, but it appearted to be from 1' to 1 1/2' in width. This was cross-sectioned, but no sign of an intrusive house pit, or depressed floor could be found. The dark ring appeared to merge with the underlying midden material. It is possible, but not probable that this really was the outer edge of a depressed floor house pit which was unrecognizeable becuase of the darkness of the soil. It is also suggested that this may have been the last traces of burning roof or wall material. In any case, this outline pretty well enclosed Feature 36 and was the only natural limit which could be found at this level. The final number of post-molds was so great that the outline could hardly be seen and the color scheme was of little help. Tracings were made of each level, and also of the first four levels. It took holes from all these levels to complete the outline. Apparently, many of these were not recognized until a lower level was reached. Since many of the holes in the apparent post outline were seen on Lev. B, it is thought that it was the probable level of origin for Feature 36.... The entrance was located in the south end-wall about 12' from the apex of the south corner.... The house is thus oriented to face SE with corners SSW, SExE, NNE and NWxW.... The fire basins are best explained by the detail photograph of them (252BY13). There were two main units. The most northern unit consisted of two basins, both rectangular with rounded corners. The larger (outer) basin was precedent to the inner, and smaller, basin. The larger basin had the SW corner cut out when the interior basin was built. It had nearly vertical sides with a flat bottom and was .7' deep. The smaller basin was built on the ash in the bottom of this larger basin and consisted of only a collar. The ash was about .4' thick and the collar stood about .3' above it. The collar on the two sides adjacent to the SW corner were solid right down to the bottom, and the bottom had been extended to meet these sides.... There are several patterns which suggest themselves as being overlapped by Feature 36. One in particular, on the NW corner seems to be halfway in Feature 36. This belongs to Level C and seems precedent. No line of demarcation other than the posts was found. Note also, the Level E entrance trench near the NW corner.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>John Alden</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Apr 20, 1939</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1939-04-20</dateCreated>
+   </originInfo>
+   <note>Extensive additional narrative information and illustrations are on file at the institution. Contact institution for specific field specimen numbers. Additional field specimen numbers: about 170 numbers ranging from 6488 to 7654, broken down by stratigraphic level.</note>
+   <note>Feature identifier(s): 36</note>
+   <note>Field specimen identifier(s): 6488, 6519, 6607, 7000, 7148, 7202, 7310, 7402, 7554, 7564</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Fire basins</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1938</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1939</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81024913">
+      <geographic>Bradley County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00247</identifier>
+   <identifier>100BY11</identifier>
+   <titleInfo>
+      <title>100BY11 Rymer Site 15BY11, Bradley County, Tennessee. Feature 32, a house floor pattern containing wattle and charred logs. Square 3R9. Direction northwest</title>
+   </titleInfo>
+   <abstract>[Feature 32] Semi-subterranean structure with central firebasin and entrance passage. Two structures are represented here. Feature 32 is definitely earlier being lower and continuous floor of Feature 32 extends under firebasin of Feature 45. Presence of Feature 45 could not be definitely stated until wattle was removed uncovering two levels - thus material is catalogued as Feature 32 throughout. Apparently both structures were burned - wattle covering basin of Feature 45 as well as floor of Feature 32. No wattle could be detected under basin of Feature 45 on floor of Feature 32 though some leveling of ruins of Feature 32 seems to have occured, charred beams in good preservation were found lying on floor, or slightly above floor of Feature 32 in westerly part. These may have been walls of Feature 45 fallen outward but seem to be below the level of that floor. These beams lay directly in firebasin of Feature 32. I believe the beam structure here is associated with Feature 32 and formed part of the roof. Wattle was hard and formed may bricguettes, many with hard, smooth upper surface. Wattle showed pole, cane and grass impressions. SW of basin of Feature 32 a "curb" lay on floor.... Entrance passage was at east corner of Feature 32 and just east of hearth of Feature 45. Under wattle were large quantities of cane - this definitely lay on floor of Feature 32. In two cases some burned cane lay on upper surface of burned beams. The cane lay at various angles, seemed to have been woven but no definite areas of weaving could be found. Cane mainly whole, not split. [Feature 45] Semi-subterranean structure with central firebasin. Probably semi-subterranean structure. No pit on outline could be traced. Structure probably burned as wattle lay over floor and firebasin. Remains of cane thatch under wattle on floor. WAttle was hard, in large pieces and showed grass impressions. Firebasin was circular with raised rim; rim showed grass impressions in it. Walls sloped towards center. Small area of burned floor surrounded basin. Apparently a fill over Feature 32 about 0.3' deep was made leveling Feature 32 before Feature 45 was constructed.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Fairbanks</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Feb 15, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-02-15</dateCreated>
+   </originInfo>
+   <note>Additional narrative information for Feature 32 on file at institution. See also photographs 84BY11 [fhm00237], and 101BY11 [fhm00248]. Contact institution for specific field specimen numbers. Additional field specimen numbers: 2062- 2149.</note>
+   <note>Feature identifier(s): 32, 45</note>
+   <note>Field specimen identifier(s): 1882, 1975, 2062, 2109</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <topic>General site and excavation</topic>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1937</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81024913">
+      <geographic>Bradley County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01842</identifier>
+   <identifier>MF8</identifier>
+   <titleInfo>
+      <title>MF8 John Ausmus Farm Site 3CE10, Claiborne County, Tennessee. Mound 2. Feature 16, The second definite floor from top. Postmolds indicating one or more structures. The second row of molds (lower level at left) belong to Feature 17. Direction northeast</title>
+   </titleInfo>
+   <abstract>[Feature 16] The post molds were so numerous at this level that it is almost impossible to distinguish a definite structure outline. It is quite possible that there are at least two outlines of structures at this level. The floor was a definite one, and covered with a thin layer of white sand. Many of the holes, shown in the chart, no doubt came down from the level above. The extension of pits (where burials were removed) downward also increased the difficulty of completing the outlines. Holes which probably belong to the upper level are shown in green. [Feature 17] This was the third lineup of postmolds encountered after the mound was topped. The east row was quite definite. At the time the photo was made, the holes varied from 12" to 15" in depth, but when originally found were considerably deeper. It was very difficult to locate the south row of holes, and it is not certain that these shown in the photo and on the chart are the ones actually belonging to this structure. It is possible that they were cut away. But no indications were exhibited on the vertical face, when the excavating took place. No floor could be found that actually belonged to this outline of molds. Three holes are shown on the chart (north end) which were found in the hardpan. They are questionable - and have been indicated thusly. At the SW corner, no holes were found, due, probably, to an extensive midden area (Feature 23).</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <note>Observer illustration on file at the institution. See also photographs 10-572 [fhm00369], CE10(I) (1216-TVA) [fhm00378], and CE10(J) (1217-TVA) [fhm00379].</note>
+   <note>Feature identifier(s): 16, 17</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <topic>General site and excavation</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1934</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81002931">
+      <geographic>Claiborne County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

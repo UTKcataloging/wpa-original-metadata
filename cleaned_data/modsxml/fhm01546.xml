@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01546</identifier>
+   <identifier>27RE12</identifier>
+   <titleInfo>
+      <title>27RE12 DeArmond Site 2RE12, Roane County, Tennessee. Feature 8, Circular fire basin of puddled clay with modeled rim associated with Feature 8 structure. The rim of this basin was modeled over a double row of cut and split wooden pegs which formed two concentric circles inside the rim. Datum 6.5' (Floor). Square 37R3. Direction east</title>
+   </titleInfo>
+   <abstract>House number 8. [Feature 8] This structure was circular in shape and delineated by vertical wall molds of fairly uniform size but varying considerably in depth. There was a definite prepared clay floor burned hard and evident over most of the area covered by the structure, and, on the south and west sides, this floor extended out to the edge of the post mold pattern where it ended abruptly along the inner side of the wall. This floor was burned red, and in large areas black, to a thickness of at least 0.1'. The floor was not level and seemed to slope inward from its outer edges towards the center, giving a somewhat depressed appearance. Overlying the floor was a heavily concentrated mass of daub about 0.5' thick, each piece fired hard and mostly brick red, but some showing varying degrees of red and also black surfaces. This daub was grass-tempered and many pieces showed outside surfaces smoothed and partially smoothed; in many cases, vertical striated lines occur. Leaf impressions are also seen in some pieces and in one instance finger prints are discernable on the outer surface. The inside surfaces of one piece of daub shows parallel cane impressions and on others the rounded cross section of wall posts with adjoining impressions of squared and v-shaped pieces of timber, these latter impressions showing the wood grain in such a manner as would be produced by split or hewn logs. It is unmistakably evident that timbers in this dwelling were split or hewn (probably split). No charred remains of the superstructure were found, with the exception of two small pieces of charred wood which were too small to be informative. The lack of such evidence, in view of the fact that the nature of the daub concentration suggests with scarcely a doubt that the structure was burned, in inexplicable. The construction of the large central fire basin is unique in that a number of small wooden pegs (from 3/10" x 4/10" -- 4/10" x 7/10" and about 0./5' in length) were incorporated in its construction. This basin was built over a lower fireplace which was somewhat larger. A double row of these pegs - which were split or cut into rectangular shape - were stuck upright forming two concentric rows of pegs. Since the basin was constructed over the soft ash contents of the lower fireplace it was logical to erect some kind of framework over which might be modeled the elevated rim of the new basin. This was done and the new basin modeled of puddled clay tempered with fibre. The floor or bottom of the basin was virtually on the same plane as the floor of the structure surrounding its rim. This basin was fired hard - a brick red - and the pegs inside its rim were carbonized from the heat and thus preserved. Unfortunately no photo was made showing that nature of this basin's construction due to the freezing weather which damaged it badly.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>W. C. Walker</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Feb 13, 1940</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1940-02-13</dateCreated>
+   </originInfo>
+   <note>28 Field Specimen numbers are on file at the institution and range from 833 - 1154, 1326 - 1340 and 1586 and 1656. See also photographs 19RE12 [fhm01540] and 29RE12 [fhm01547].</note>
+   <note>Feature identifier(s): 8</note>
+   <note>Field specimen identifier(s): 833, 966, 1040, 1106, 1326, 1586, 1656</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Fire basins</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n82226528">
+      <geographic>Roane County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

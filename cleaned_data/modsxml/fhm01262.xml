@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01262</identifier>
+   <identifier>198MG31; 202MG31</identifier>
+   <titleInfo>
+      <title>198MG31 / 202MG31 Hiwassee Island Site 37MG31, Meigs County, Tennessee. 37MG31 - Earth mound. Feature 60, Pyramidal mound (Level G Mound A), and Feature 62, Structure</title>
+   </titleInfo>
+   <abstract>[Feature 60] This mound is nearly square in shape and slightly over 3' high. The base measures 20.5' x 21.5' and the top level area is 16.5' x 18'. The sides slope sharply at a ca. 80 degree angle and the corners, while sharp have a rounded effect. On the top surface are two parallel rows of post molds placed on slightly raised ridges of hard packed sandy clay. The surface of the mound had been hard packed and in one or two places there is some slight evidence of burning . Apparently some sort of semi-closed shelter had been placed over this mound. Associated with the mound are three structures, Feature 62, a rather small, well made building, Feature 61, a large irregular structure which preceded Feature 62, and Feature 57, a large ceremonial structure to the west of the mound. This mound does not seem to have any connection with Feature 59 Mound on Level G and it is not known whether they were contemporary, but slight indications indicate that they were. Note: Feature 62 and 61 are associated together, Feature 61 being a stockade around Feature 62. [Feature 62] This structure is nearly square and is delineated by a post mold pattern set in wall trenches. However, the wall trenches were not seen horizontally due to the floor being hard packed up to the posts. The wall trenches are open at the corners, but wall posts fill-in this area and give the corner a rounded effect. The NW corner, however, is entirely open, having no corner post. The floor of this structure was of hard packed sandy clay and only around the fire basin is there any evidence of burning. There is no indication of the structure having been destroyed by fire. There are a number of misc. post molds on the floor along the west half and there is one row paralleling the west wall and inside of it .6'. This in effect divides the building into two rooms. The fire basin is located somewhat south of the center of the structure and is raised .3' above the floor. The curb is ca 1' wide while the actual basin is .7' in diameter and .5' deep. The association of Feature 61 is very unusual and is described on that form. The posts were set vertically in the wall trenches and showed no effects of stresses. The wall molds were filled with earth and showed no impressions of horizontal log molds.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Jul 28, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-07-28</dateCreated>
+   </originInfo>
+   <note>Observer illustrations on file at the institution. See also photograph 199MG31 / 202MG31 [fhm01263].</note>
+   <note>Feature identifier(s): 60, 62</note>
+   <note>Field specimen identifier(s): 432, 435, 439, 440</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1937</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83030217">
+      <geographic>Meigs County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

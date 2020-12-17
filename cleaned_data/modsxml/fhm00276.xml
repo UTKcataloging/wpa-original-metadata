@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00276</identifier>
+   <identifier>237BY13</identifier>
+   <titleInfo>
+      <title>237BY13 Ledford Island Site 16BY13, Bradley Co., TN. Feature 38, Semi-subterranean house pit, showing fire basins pits and postmolds excavated. Square 12L10, etc. Direction north-northeast</title>
+   </titleInfo>
+   <abstract>In left foreground is shown fire basin and postmolds of Feature 35, a problematical feature. The dark stips that show in front of Feature 38 are filled in exploratory trenches. [Feature 38] Feature was a semi-subterranean house on the west end of the site, which was partially intrusive to the midden deposist whch commences around the 14 line and runs north. Immediately to the northeast of Feature 38 was Feature 35 (see write-up for Feature 35). Feature 35 was assighned to the midden that was encountered around the 14L7-17L10 stakes and it was believed to be a structure, however it developed not as a house, but as a questionable feature that is believed to be associated with this feature. Feature 38 is fairly typical of houses on this site in size, general pattern, etc. It contained no evidence of collasped walls or roof anywhere either above the fill or in it. There were no peculiarities in the fill, it being a fairly homogeneous refuse filled soil throughout. There was no prepared floor. The floor excavated being undisturbed yellow subsoil beneath the fill basins with sloping sides, which replaced one another and all of them were filled with compact ash, although the most recent basin had less ash than the others. There was no floor around these basins.... Excavation to the west of the house to determine any associations in that direction had to be abandoned because of the corn crop, and the time element entered in after the corn was removed. [Feature 35] Associations with this feature are in doubt. Feature number 35 was given first to a concentration of midden material that appeared in conjunction with Feature 38 to the northeast. This midden deposit at Level 2 at this point is apparently contemporaneous with the great midden that extends from this point north. Because of the disturbance rife in this immediate area no new feature number was given the basin that showed up at the base of level 2, it being believed that this general disturbance and the phenomena appearing on subsoil could be lumped together. Feature 35 as shown on the ground plan consists of a vertical sided fire basin with a high curb and a shallow depression surrounding it on three sides at about 10 feet from its center. On the north side this showed clearly, but it was too indistinct to trace on the other sides. Generally nothing can be definitely determined about this feature, and it is suggested that associations with it are not considered too seriously.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>George A. Lidberg</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Nov 25, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-11-25</dateCreated>
+   </originInfo>
+   <note>Additional narrative information on file for Feature 38. Contact institution for specific field specimen numbers. Additional field specimen numbers: about 140 numbers non-consecutively ranging from 5180 to 6154.</note>
+   <note>Feature identifier(s): 38, 35</note>
+   <note>Field specimen identifier(s): 5180, 5200, 5318, 5417, 5504, 5601, 5720, 5820, 5911, 6000, 6153, 6154</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <topic>General site and excavation</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1938</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1939</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81024913">
+      <geographic>Bradley County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

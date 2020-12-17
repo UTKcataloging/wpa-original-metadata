@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01199</identifier>
+   <identifier>81MG31</identifier>
+   <titleInfo>
+      <title>81MG31 Hiwassee Island Site 37MG31, Meigs County, Tennessee. 37MG31 - Earth mound. Feature 29, Level D. Dimensions 32' x 47'. A section of Feature 32, a three walled "porch" structure appears at left. Direction east</title>
+   </titleInfo>
+   <abstract>[Feature 29] This structure lies directly underneath Feature 25 and shows many points of similarity, but is somewhat smaller. The structure was burnt and there is a scattering of thatch, cane and saplings on the floor and particularly along the walls. From this material it is evident that the walls were covered in much that same way as were those of Feature 25. The earthen embankment thrown up ca. 0.3' to 0.4' high around the base of the walls is much more clearly defined in this case and in many places it had been burnt brick red by the fire. Little can be said about the use of dirt on the walls or roof since the closeness of this structure to the one above has made interpretation of the soil between the two very difficult. However, it must be mentioned that the limestone rocks lying on, above or to the side of the structure seem to have fallen from the roof where they may have been used to weight the thatch down. Certain it is that these rocks were not used inside the structure. The structure is delineated by post molds set in wall molds. Here it must be mentioned that apparently the wall mold remained hollow (log laid lengthwise would have accounted for this and probably did) until after the above structure was built and then sunk in carrying down the hard clay from above and hence the walls in in cases the post molds don't show until cult down several inches below the floor. The post molds at the corners are vertical, those on the south and west wall slope outward at the bottom while those of the north wall slope inward a slight amount. The molds of the east wall are vertical. The fire basin is centrally located and is built of burnt clay level with the floor. It is rectangular in shape, 1.7' wide, 2' long and .7' deep. The east end has been cut away by an intrusive pit dug after the structure was abandoned and before Feature 25 was built. Several similar pits are in evidence on the floor and all are very narrow and ca 4 or 5' long. South of the fire basin and along the south wall there is evidence from the floor that a seat had been built but if so it was destroyed when Feature 25 was built. The floor surrounding this area is hard packed having an area of shape and size of a seat of mottled earth. This area is not a pit and the only answer is that it was the base of a seat. There are a number of post molds inside the structure but they are not arranged so as to suggest roof support but rather as misc. interior furniture. This is the first structure in which there had been evidence that horizontal logs were placed in the wall trenches. It is interesting to note that in spite of this added support the stresses set up in building the superstructure have nevertheless registered themselves on the posts of the walls. In two rows of molds the posts leaned inward, a result one would expect if the wall posts had been bent over to form the roof. On another side, however the posts leaned outward, a fact rather hard to account for if the walls and roof were built as mentioned above. The vertical posts on the 4th side were perhaps better supported. [Feature 32] This structure is just to the south of Feature 29 and on the same occupation level. It is delineated by a post mold pattern set in wall molds and is quite small, seemingly having served as an adjunct to the function of Feature 29. Only the east, west and south walls were found, there being no evidence of a north wall and it may be that the structure was open on this side and sheltered by the south wall of Feature 29. The floor is hard packed and covered over by a layer of pure sand which seems to have been laid down by rain action after the destruction of the structure. On the floor and near the southwest corner is a burnt area. This type of building has been encountered before on this level and may be called a "lean-to" since the open end is built close up against a wall of a large structure.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Nov 11, 1937</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1937-11-11</dateCreated>
+   </originInfo>
+   <note>See also photograph 82MG31 [fhm01200].</note>
+   <note>Feature identifier(s): 29, 32</note>
+   <note>Field specimen identifier(s): 288, 291, 292, 294, 295, 296, 297</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <topic>General site and excavation</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1937</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83030217">
+      <geographic>Meigs County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

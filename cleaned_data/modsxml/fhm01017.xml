@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01017</identifier>
+   <identifier>62HY5(B)</identifier>
+   <titleInfo>
+      <title>62HY5(B) Thompson Village Site 7HY5, Henry County, Tennessee. Trowelmen at work on Feature 9</title>
+   </titleInfo>
+   <abstract>Notes on the Reconstruction of a Middle-Mississippi Domestic Structure: Feature 9 on site 7HY5 was a structure measuring about 16 ft. square having wall trenches about 0.7' wide, including posts about 0.25' in diameter set therein. A square fire basin had been built into the floor slightly off the center. After clearing the floor and locating the trenches and postmolds, a lateral profile was cut through all four trenches, bisecting the postmolds. These postmolds were hollowed out and search was made for poles of a like diameter. We discovered that posts 30 ft. in length, which retained this small size at the base, could be found along the river bottoms. ...From this beginning, having learned that it was no difficult task to obtain such poles, we experimented to find the length needed to make the most easily constructed and most stable structure. There are two bases upon which our architectural theories were formulated; one: concrete evidence which was found associated with this structure or with others similar to it, and two: apparent necessary factors leading to the ease of construction and the stability and practicality of the finished building. ....</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>George A. Lidberg</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Dec 4, 1939</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1939-12-04</dateCreated>
+   </originInfo>
+   <note>Additional extensive narrative information and diagram sketch of reconstructed house on file at the institution. See also photographs 62HY5(A) [fhm01016], 63HY5 [fhm01018], 64HY5 [fhm01019], 68HY5 [fhm01020], 73HY5 [fhm01022], 74HY5 [fhm01023], 75HY5 [fhm01024], 77HY5 [fhm01026], 78HY5 [fhm01027], 79HY5 [fhm01028], and 80HY5 [fhm01029].</note>
+   <note>Feature identifier(s): 9</note>
+   <note>Field specimen identifier(s): 1455, 2118, 2123, 2208, 2313, 2317, 2318</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <topic>People lab and field scenes</topic>
+   </subject>
+   <subject>
+      <temporal>Late Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1939</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n82120714">
+      <geographic>Henry County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

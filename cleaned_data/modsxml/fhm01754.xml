@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01754</identifier>
+   <identifier>9UN4</identifier>
+   <titleInfo>
+      <title>9UN4 McCarty Farm Sites 4UN4, 5UN4, and 6UN4, Union County, Tennessee. View of three stone mounds, Lays Bend, 10 miles up Powell River</title>
+   </titleInfo>
+   <abstract>Mound number 1 is said to have had stone piled on it at one time but when excavated there were no stone slabs on surface, said to have been carried off during cultivation. Mound number 2 had several stone slabs on surface, pulled out by plow. In the interior and center of mound number 2 were found slabs laid out to form stone cists or burial places. Two of these places had no burials, in one was found few human bones, burnt. Mound number 3 is similar to mound number 1 but slightly smaller being 40'x40'. Mound number 1 is located about forty feet above the Powell River, which runs about 1000' north and 1000' west of the mound and is in a cultivated hay field. Mound number 2 is located a little to the north an 900' east of Mound number 1 and aoub the sma elevation avot the Powell river as Mound 1. Mound number 3 is located 1400' south of Mound number 1 and is elevated about fifty feet above the Powell River in a plowed field. This field is bordered on the south-east by a patch of woods, running along the bank of the Powell River to the east. Bordering the river in this woods is a series of rock shelters which are fairly large but contain very little earth on their floors and only one small shelter contained evidence of pre-historic occupation. This shelter was examined and found to contain some large fragments of pottery, one with a large handle, and some animal bones. The woods here along the Powell River have some fair sized river cane growing in them. the most abundant trees in the region are the Red Cedar and a great many Redbud trees. The rock shelters are of limestone. To the north and east of the mounds on the north side of the Powell River is another outcrop of limestone bluffs, which were examined for archaeological evidence, but none could be found. These cliffs are also covered with woods, mostly Red Cedar, and Redbud.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <note>Observer illustrations on file at the institution.</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85087721">
+      <topic>Mounds</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1934</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79028033">
+      <geographic>Union County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

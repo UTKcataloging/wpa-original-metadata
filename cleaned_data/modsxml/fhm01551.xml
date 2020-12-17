@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01551</identifier>
+   <identifier>33RE12</identifier>
+   <titleInfo>
+      <title>33RE12 DeArmond Site 3RE12, Roane County, Tennessee. Feature 2, Summit of Phase B at Datum 2.0'. View shows fire basins of Feature 1 (left) and Feature 2 (right). Suggestion of rectangular pattern by post molds shown. Sq. 50CA (center). Direction northwest</title>
+   </titleInfo>
+   <abstract>[Feature 1] Badly disturbed house. The fireplace lay just below plowline and apparently the mound had been cultivated enough so that occasionally deep plowing had almost completely destroyed the structure. The only remaining evidence was a few patches of floor and the firebasin. The floor was sandy clay, from 1/8" to 1/2" thick fired from yellow to red. There was plenty of black midden earth, occasionally burned, at the same level as the floor. The floor was covered with similar material full of daub. This latter material was called "Summit B". The Indians apparently covered the next house below almost completely with this gritty black earth, for most of the fire basin of Feature 1 remained hidden until Feature 1 was cut out and exploration for a lower house was begun. When first seen, only a section of curb was found for the fire basin of Feature 1. It has been slightly dislodged and black fill hid the rest of the basin. Due to the black, homogenous nature of the soil, no postmolds were found at this level. The profusion of post holes below Feature 1, all of which contributed to the tangled confusion observed a little later. Photograph 33RE12 shows the intrusion of the firebasin of Feature 1 into the fire basin of Feature 2 (Feature 1 basin is the larger of the two). Photo 51RE12 shows this in detail. The Feature 1 basin is Marked "1". Feature 2 basin is marked "2". There was no positive association of artifact material with Feature 1. "Over Feat. 1" means that there was a physical proximity which indicated a possible occupational association. "Summit B" was apparently fill earth covering the refuse of Feature 1, but may possibly have included material from unseen, plowed up, higher floors. The specimens should not be trusted as associations. The "Summit B" bags do not agree with the F.S. Sheets, as the association was changed on the sheets. Bags are marked "Summit A." This should be disregarded and the information on the F.S. Sheets should be considered correct. [Feature 2] Rectangular, postmold house. The evidence of floor on Feature 2 is very scanty. The firebasin was found at 2.0' datum depth, and a few patches of what possibly might have been flooring were seen at 2.1' - 2.2' datum depth. Midden material from most of the area had to be cleared away to 2.2' before post holes could be seen. These floors may have belonged to other houses (see following features). On the northwest side of the firebasin was found the bottom of a badly torn-up fire basin at 2.2' datum depth. If this was a shallow basin, it might have associated with the above mentioned floors. As can be seen, there are several structures represented at this level. The fire basin for Feature 2 is fairly well centered in the pattern, showing a wall along the northwest edge of the summit and another along the southwest side. It is assumed that this is the pattern belonging with the fire basin. The superfluous holes in the northwest wall probably came down from Feature 1 since this basin centers well in the pattern, also. While the dimensions are not exact, this house can probably be summarized as being about 22 feet wide, a few feet longer, approximately rectangular, probably with rounded corners, and with wall posts about 1 foot apart. The floor seems accretive, and any burning was probably incidental to the destruction of this or later houses, the burned debris probably being cleared away. The fireplace was prepared of clay, was circular in form with steeply sloped sides and a flat bottom. No curb was apparent. On the south east side of the summit can be seen segments of other patterns. These are so incomplete that feature numbers have not been assigned to them. In general these patterns closely follow the type described above. The area of the mound limits them to about the same size. The two fire basins just west of 50CA stake were very badly torn up. No ash was found in either. The circular was intrusive to the rectangular. In all likelihood they associated with fragmentary wall pattern on the southeastern corner of the plateau. Since there was no material definitely associated with the structures at this level, all the evidence was incorporated under the title "Feature 2". No artiface material was found with floor association, so that the only material listed is "Summit Phase B". Not all of the bags are marked in this manner. Bag markings should be disregarded. The F.S. Sheets give the correct associations. Obviously material from several houses is represented here.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>John Alden</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Mar 20, 1940</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1940-03-20</dateCreated>
+   </originInfo>
+   <note>See also photograph 51RE12 [fhm01555].</note>
+   <note>Feature identifier(s): 1, 2</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Fire basins</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n82226528">
+      <geographic>Roane County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

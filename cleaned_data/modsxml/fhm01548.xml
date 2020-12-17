@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01548</identifier>
+   <identifier>31RE12</identifier>
+   <titleInfo>
+      <title>31RE12 DeArmond Site 2RE12, Roane Co., TN. Feature 23, Deposit of mussel shell associated with clay old humus zone which is apparent in easst section of site. This shell bed lies at a point on the humus band where it dips downward, as if it might have been the surface of an old river bank. Shell extends downward to right in photo. Sq. 37R1. Direction north</title>
+   </titleInfo>
+   <abstract>Right section of shell covered with compact clay in which are flecks of charcoal and red burned clay. All shells examined were "halved" and the evidence points to a cultural origin for the deposit. Geologically, the old humus zone with which this feature associates, is the oldest of the humus bands encountered in the excavated area of the site. Datum 10.2' (highest); 12.9' (Lowest). [Feature 23] This feature comprises a large area of mussel shell lying in an inclined position as if it might have accumulated over the slope of a bank or river terrace. It was first thought to be a natural deposit, but the presence of fine particles of charcoal and reddish burned clay in the west and deeper section seemingly discounts that theory. In addition the shells were "halved", none apparently being joined in a natural manner. One species of gastropod was noticed in the deposit and a few small alluvial stones were intermixed with the shell. The shell seems to be associated with the clayey humic band that is shown on the 35 Line profile between the L2 and R1 stakes. This being the case this feature could well be cultural in origin, for this band apparently was an old land surface, geologically precedent to the sandy loam old humus bands in the central and west sections of the site. A few of the shell were greyish in color as if having been subjected to fire. The thickness of the compact clay containing charcoal and burned clay particles and overlying shell was about 0.2'. Because of the extreme depth to which this shell was extending it was not thought practical to continue excavation.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>W. C. Walker</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Feb 13, 1940</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1940-02-13</dateCreated>
+   </originInfo>
+   <note>Observer illustrations on file at the institution.</note>
+   <note>Feature identifier(s): 23</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Deposits</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85121304">
+      <topic>Shells</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n82226528">
+      <geographic>Roane County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

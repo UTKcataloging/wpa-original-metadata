@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">wsw04515</identifier>
+   <identifier>15BE3</identifier>
+   <titleInfo>
+      <title>15BE3, 15BE3, Boone County, Kentucky. Robbins Large Mound Site. 55' Profile and 60' Profile</title>
+   </titleInfo>
+   <abstract>Photograph taken from the south with structural divisions of the profiles unincised. The face of the foreground block is the lower central portion of the 55' Profile between stakes R-3 and L-4. Indicated is the mound fill upon the undisturbed yellow clay. No band of Old Humus intervenes except for a short strip to the extreme left of this block. On the extreme right of this block is a bisected dome of bright grey and yellow horizontally loaded earth tapering off to the left and rising again as a narrow strip up over the darkly loaded dome of the Tomb #4. This comprises the east wall of the earth ring about Tomb #1 and part of it which went up the side of Tomb #4 was probably insufficient to provide an adequate west wall for Tomb #1 and earth was applied to it to bring it more nearly to the vertical. Note the band of finely mixed brown earth lying under the wall of Tomb #1 and in contract with the yellow clay ... this proceeds to the left to form part of the skirt of the east wall of Tomb #4 and supports the precedence of this latter tomb to the former. Assuming the wall around Tomb #1 to have been a rough ring the bifurcation of it in this profile almost to the extent of forming two separate and unattached walls suggests that the entry into the interior of the ring is about to take place. That this was so was evidenced by encountering the burial and log mold of the interment in cutting down this foreground block. Note the dark brown and grey loaded earth dipping down into the interior of Tomb #1 ... this the collapsed earthen roof. The loads in this cut appear almost horizontal; however the loads of the collapsed roof in the 60' face show marked dipping and fracturing. The 60' Profile represents a structural continuation of the situation in the 55' Profile and embraces from L-8 to R-8. Note the concavity in the darkly laded central dome similar to that in the 55' Profile and caused by the collapse of the earth roof in Tomb #1. This cavity was adapted, as noted previously, to provide an earthen ring for Tomb #3. Note the brightly loaded but partly revealed dome which is the east wall of Tomb #1 where it appears in the 60' Profile at the right hand end of the foreground block. Above these more or less distinct structural divisions of the mound are the usual indistinct and homogeneous layers of yellow-grey soil .. see the profiles.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <originInfo>
+      <dateCreated>Nov 5, 1939</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1939-11-05</dateCreated>
+   </originInfo>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85071958">
+      <topic>Kentucky--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>General site and excavation</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1939</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1941</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n78095733">
+      <name>
+         <namePart>University of Kentucky</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81055731">
+      <geographic>Boone County (Ky.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The William S. Webb Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n83061373">University of Kentucky. Museum of Anthropology</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

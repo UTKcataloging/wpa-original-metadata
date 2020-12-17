@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01239</identifier>
+   <identifier>134MG31</identifier>
+   <titleInfo>
+      <title>134MG31 Hiwassee Island Site 37MG31, Meigs County, Tennessee. 37MG31 - Earth mound. Features 43, 43A, B, C, D, Level E. Feature 43 after removal of the earthen embankment in background, Feature 41, to the left background is Feature 39. Direction east</title>
+   </titleInfo>
+   <abstract>[Feature 43] This structure is rectangular in shape and is delineated by deep rather evenly spaced post molds. A fairly hard, well made floor of packed sandy clay burnt dull red in many areas runs directly to the post molds, leaving no sign of a wall trench. However, on the inside of the post molds and just below the floor is a log mold. On the floor are a number of misc. post molds most of which are a the western end back of the platform 43A. Roughly these divide this section into small compartments. The subfeatures on the floor are independently described. This location is shown on the plat for this structure. The platform, two pits and fire basin are all on an east-west central axis through the structure. Feature 40B encircled this structure lying heavily over certain sections of the post mold pattern, while over the entire floor, thin in the central sections and much thicker toward the wall was a mass of clay that in all likelihood fell from the roof. From this evidence it becomes evident that this structure was an earth lodge in all essential respect similar in form (see Feature 41 form) to Feature 41. There is practically no burnt material on the floor of this structure -- just a little piece of thatch at the southwest corner. The log mold on the inside of the post mold pattern in ca 6' deep but ranges from .3' to .9'. The effect is exactly what one would expect if the small ends of saplings were doubled over the end of another sapling where two were laid together, end to end. This, of course, was necessary because it would have been very difficult to have found single saplings long enough to have reached the length of the wall. These log molds were found only on the north and south walls and were not present for the east and west walls. Further no log mold was bound at the bottom of the post molds on the opposite side; however molds were set in a wall trench. [Feature 43A] This platform is made of hard packed sandy clay smoothed and burned deep red on the surface. It is similar to the other platforms described, being 6.5' long, 3.5' wide and 1.1' high. The sides slope outward slightly so that the circumferance at the base is somewhat greater than at the top. The platform rests on Feature 43 floor and is in a direct East-West center axis with the two cache pits and fire basin. It is located Ca. 5' East of the West wall of this structure and the area in back of it is roughly divided into small compartments by internal post molds. Feature 40 didn't lay on this feature but came up to the West edge. [Feature 43B] These two cache pits are located along an East-West central axis through Feat. 43 structure and are on either side of the fire basin. Pit number 1 is directly in front of (i.e. East of) the platform, just beyond is the fire basin and the pit number 2. The side walls of these pits are nearly vertical while the ends slope to the bottom. The Southern end of both pits, however, have the most pronounced slope. The walls of the pits are very definite but no smoothing or particular care in manufacture is noticed. A slight amount of earth that fell from the roof lay in these pits. [Feature 43C] This fire basin is on the E-W central axis through the structure [Feature 43], is square and raised above the floor 0.1'. The basin is of very interesting form. The curb or base is Ca. 0.9' wide on each side. Then there is a drop of 0.2' to a square inside basin in the center of which is a circular depressed basin. The basin is made of puddled clay burnt brick red. When found, the entire basin was covered with a layer of white ashes which also lay in the basin proper. [Feature 43D] This seat is semi-circular in form, the back side being placed against the post molds of the South wall slightly East of the center point (i.e. 14' from Southeast corner and 17' from the Southwest corner). It faces Northwest directly at the fire basin. The seat is 0.8' high and the top surface is 3' a the the back edge and 2' wide. This surface and half-way down the side is packed hard and well smoothed. The lower sections of the sides are rather indefinite and it is interesting to note that the floor continues under it. Thus it would seem that the seat is a later addition to the internal feature of this structure. Feat. 40 lay rather heavily over this feature and extended out toward the fire basin. A log mold on the inside of the post mold pattern runs under this seat.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Mar 26, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-03-26</dateCreated>
+   </originInfo>
+   <note>Observer illustrations on file at the institution. See also photographs 103MG31 [fhm01217], 106MG31 [fhm01220], 112MG31 [fhm01224], 113MG31 [fhm01225], 114MG31 [fhm01226], 118MG31(A) [fhm01230], 118MG31(B) [fhm01231], 120MG31 [fhm01233], 126MG31 [fhm01235], 139MG31 [fhm01242], BMG31(C) [fhm01288], BMG31(E) [fhm01290], BMG31(F) [fhm01291], BMG31(G) [fhm01292], and BMG31(H) [fhm01293].</note>
+   <note>Feature identifier(s): 43, 43A, 43B, 43C, 43D</note>
+   <note>Field specimen identifier(s): 366, 367, 332</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1937</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83030217">
+      <geographic>Meigs County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

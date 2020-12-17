@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01733</identifier>
+   <identifier>270SW20</identifier>
+   <titleInfo>
+      <title>270SW20 Indian Bluff Site 30SW20, Stewart County, Tennessee. Cover slabs after removal of burials. Top row, 30SW126, 30SW125, 30SW142, 30SW141. Middle row, 30SW118, 30SW151. Bottom row, 30SW145, 30SW113, 30SW114. Direction from foot of burials</title>
+   </titleInfo>
+   <abstract>[30SW126] complete cist. Skull lying on left side, over knees looking west. Ribs, arms, and vertebrae scattered. [30SW125] The head is badly disturbed. The skull, most of the pectoral girdle, vertebrae, ribs, etc., are disturbed or missing. Hands and lower right arm are disturbed. [30SW142] This cist was disturbed by removal of stump, but it was seen to be complete except where cut up by 30SW151. Bone was scattered and badly fragmented. See remarks of 30SW146. A small broken bowl was found over the pelvis. [30SW141] Included in the cist were some fragmentary adult long bones and foot bones. This was 30SW141A. The skull of 141A was at the west end of the cist lying against the side wall of 30SW151. [30SW141A] See 30SW141 for remarks. [30SW118] Nearly all gone. Top, end, and side slabs present. No bottom. [30SW151] This cist was complete except that half of the top was gone, which may be attributed to the stump which grew through the foot of the cist. The feet were disturbed by the stump. The legs and arms were in order, and a few of the vertebrae (likewise the pelvis) but the ribs were mostly gone. Northwest of the head about 0.2' was a small jar. This burial cut across and was intrusive to 30SW152, 30SW141, 30SW166, and 30SW142. [30SW145] Complete cist. No bone. [30SW113] This burial is intruded into 30SW113. Bowl is inverted about 0.1' from skull to SE. Top, bottom, end, and side slabs. One end slab was placed on the middle of 30SW114 and shared the foot stones with it. The bottom slabs were placed over the disturbed long bones of 30SW114. [30SW114] Head-end missing, thorax, pelvis and legs all disturbed. Top slabs covered 113 and 114. Complete top, bottom, and side slabs. See 30SW113.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>John Alden</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Oct 11, 1939</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1939-10-11</dateCreated>
+   </originInfo>
+   <note>Field specimen identifier(s): 289, 291, 295</note>
+   <note>Burial identifier(s): 30SW126, 30SW125, 30SW142, 30SW141, 30SW141A, 30SW118, 30SW151, 30SW145, 30SW113, 30SW114.</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85018080">
+      <topic>Burial</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85123280">
+      <topic>Slabs</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1939</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81092195">
+      <geographic>Stewart County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

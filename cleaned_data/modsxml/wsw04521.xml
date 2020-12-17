@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">wsw04521</identifier>
+   <identifier>21BE3</identifier>
+   <titleInfo>
+      <title>21BE3, 15BE3, Boone County, Kentucky. Robbins Large Mound Site.60 and 65' Profile</title>
+   </titleInfo>
+   <abstract>Photograph taken from the south and embracing from L-8 to R-7. The foreground block face is the 60' Profile and exhibits the same structural character already noted on Photo 20BE3. The background face is the 65' Profile. The top layer in this face is the soft, homogenous, much leached, frozen and root penetrated yellow-grey sandy clay loam over the entire mound. On the extreme right this is overlapped by a talus slope of digging of the pot-hole (Feature # 21). The second major layer of the mound down from the top is of hard mixed and mottled earth with scattered very indistinct loading here and there. This layer included the very indistinct suggestion of dipping loads just over the flue-like projection in the center of the 65' Profile... because of its poor definition it was not incised on the face, but can be seen noted on the profile drawing and described as the beginning of Tomb #2. Just under Tomb #2 and on top of the brightly loaded division of the mound there projects charred fragments of poles from the face (these just on top of the flue-like projections) which are Feature #2. The brightly loaded dome of the 65' profile could not be broken up into its component parts at this stage of excavation since so much of it was still obscured by the foreground block. The determination of structural divisions was difficult where just a small portion of a face was exposed. However, a continuation of the dipping loads over Tomb #1 is seen in the 65' face.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <originInfo>
+      <dateCreated>Nov 18, 1941</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1941-11-18</dateCreated>
+   </originInfo>
+   <note>Feature identifier(s): 21, 2</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85071958">
+      <topic>Kentucky--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>General site and excavation</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1939</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1941</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n78095733">
+      <name>
+         <namePart>University of Kentucky</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81055731">
+      <geographic>Boone County (Ky.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>The William S. Webb Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n83061373">University of Kentucky. Museum of Anthropology</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01369</identifier>
+   <identifier>57MN3</identifier>
+   <titleInfo>
+      <title>57MN3 Mouse Creek Site 4MN3, McMinn County, Tennessee. Feature 15, Shows fireplace, floor and postmolds. An entry way at southeast. Sq 21LE. Direction northwest</title>
+   </titleInfo>
+   <abstract>Semi-subterranean structure. All of pit outline could be traced but northern portion was eroded and very shallow. Deepest post near south corner was 0.9 d. Walls nearly vertical, sloping outward slightly. Floor, flat and fairly even, was covered with hard packed detritus to depth of 0.1'. Fill of pit very dark with considerable midden material. Small scraps of wattle were found on floor and in basin but no large areas of wattle were found. Wattle may have been plowed away especially on north side on floor were few scraps of charred material, probably cane. Near west corner and in center in center of northwest side were small areas (3) of burned clay floor with smooth upper surface. At north edge of floor near firebasin was large hole with sloping sides, probably large post hole, not a pit. In it was a large unmodified stone. Near east corner was a small limestone slab lying on floor. Burials 4MN79, 81, 83, 84 were near entrance in south corner. 79 may be in fill but 81 was definitely in small post mold in floor. Burials 4MN83, 4MN84 were in small rectangular pits in floor. They seemed to be inclusive in structure. Three peripheral post molds contained charred basal ends of posts, indicating probable destruction of structure by fire. Entrace passage at south corner consisted of two deep external trenches and a shallow interior trench. North east of entrance was an external trench. These firebasins were found each apparently associated with a separate floor stage. The first basin had vertical sides and flat bottom with was burned 0.3 d. The next basin also had vertical walls and flat bottom burned 0.25' d. To this second basin a third addition had been added with sloping walls and basin shaped floor. This consisted of hard puddled clay layer 0.3 thick. This was burned yellow on top, red below. See p. 121, 122 of notebook.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Fairbanks</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>May 9, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-05-09</dateCreated>
+   </originInfo>
+   <note>List of 41 Field Specimens is on file at the institution.</note>
+   <note>Feature identifier(s): 15</note>
+   <note>Field specimen identifier(s): 945, 1000, 852, 902,</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Fire basins</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1938</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81112582">
+      <geographic>McMinn County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

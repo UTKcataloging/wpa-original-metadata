@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01549</identifier>
+   <identifier>32RE12</identifier>
+   <titleInfo>
+      <title>32RE12 DeArmond Site 2RE12, Roane Co., TN. Feature 25, Rectangular structure pattern delineated by widely spaced post molds, and square cornered. Large central depression represents firebasin, which was almost completely destroyed when found. Basin was circular and apparently had no modeled rim. Sq. 37R3. Direction northeast</title>
+   </titleInfo>
+   <abstract>(It was over the ash content of this fireplace that the wooden pegs for Feature 8 firebasin were set as a support for modeling the elevated rim). The depression to the right of this fire basin is the extension of Pit No. 61 downward from its origin at the floor of Feature 8 which lay above. This structure pattern seems to be representative of the four rectangular patterns (Features 25, 26, 27, 28) found below Feature 8, the circular pattern. Feature 30, the circular "old humus" pattern (Woodland) was found below this series of (Mississippi) houses. Datum 6.7' (Floor-Feature 25). House number 25. [Feature 25] This structure is delineated by fairly large post molds widely spaced being a rectangular pattern with square corners. The placement of this structure was directly under Feature 8 (circular dwelling) and there could not have been more than 0.1' difference in elevation between the two floors. There appeared to be ample evidence of a floor over most of the area, it being characterized by reddish burned clay (blackened in areas) but the vertical interval of superposition has made it difficult to make any positive designations of cultural material apparently associated with the floor. The fire basin of this house was almost completely destroyed, but a heavy deposit of wood ash and fragmentary evidence of the originally prepared clay basin was found. Most of the bottom of the basin was found, this showing a flat bottom. On the south side a section of prepared clay floor burned hard overlay a lower fire basin (Feature 26) and this floor curved over the edge of Feature 25 basin forming the upper section of the basin wall, indicating a more or less vertical wall at the top. Whether the basin walls were completely vertical or not is not known, but from the evidence it is believed it may have been very similar to Feature 26 basin below it. It was into the ash of this basin that the pegs for the modeled rim of Feature 8 basin were stuck, forming the two concentric circles. This structure is the uppermost of the series of four rectangular houses in superposition. It was the only one photographed due to inclement weather, but its pattern seems to be representative of the other three.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>W. C. Walker</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Feb 22, 1940</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1940-02-22</dateCreated>
+   </originInfo>
+   <note>31 Field Specimen numbers are on file at the insitution and include1166 and 1168, 1318 - 1390 and 1628.</note>
+   <note>Feature identifier(s): 25</note>
+   <note>Field specimen identifier(s): 1166, 1318, 1628</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Fire basins</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n82226528">
+      <geographic>Roane County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

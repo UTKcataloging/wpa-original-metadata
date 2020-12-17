@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01583</identifier>
+   <identifier>190RE12</identifier>
+   <titleInfo>
+      <title>190RE12 DeArmond Site 3RE12, Roane County, Tennessee. Phase G. View shows main body of phase B with slightly lower platform attached to its NE side (platform is at right). On summit is a wall trench and several postmold houses. [Features 21, 22, and 24]. Direction east-southeast</title>
+   </titleInfo>
+   <abstract>In the center of the summit is the burned area serving as fireplace. Subject is somewhat patched. Note double row of postmolds in sideslope just below summit in foreground. Two exposures taken. Lower mound to right is phase G-1. [Feature 21] Rectangular wall-trench structure. The information obtained on Feature 21 is very limited, for instance, the NW-SE dimension of the structure is only a fair guess, as the northwest wall-trench was not found. Very little can be added to the dope on the face of this form, excepting a few remarks about the fire place. The large scale ground plan shows the irregular nature of the fireplace and the ground plan is by necessity, conservative. Essentially, the fire place was two low columns of burned sand standing about 1/2' high.... There was a hint of a small trench between these two blocks, and a small amount of ash was contained in it. The blocks apparently developed during the use of the structures, although the existence of postholes under the fireplace indicates that the summit probably had a structure on it without a fireplace. The profusion of postholes makes it probable that there were plenty of interior support and furniture posts, but these of course can not be segregated. The large-scale ground plan obviously indicates that this house was precedent to at least one of the houses represented buy Feature 22 (postmold structures) since there are numerous postmolds of Feature 22 intrusive to the edges of the wall trenches of Feature 21. [Feature 22] Several incomplete post-hole structures. From the great profusion of postmolds found on the summit of Phase G, I would say at least three and possibly four posthole houses were once there. It is quite possible that posthole houses existed on this level before the wall-trench structure Feature 21 was built. In general, though these structures were probably subsequent to the wall-trench house here (see cases of postholes intrusive to wall trenches on large scale ground plan). As usual, the northwest side was the worst, and is practically barren of postmolds. None of the rows could be successfully connected with other rows, although I have left pencilled lines on the ground plan showing the best connections possible with T-square. I could see no advantages to covering these fragments of rows with more than one structure number. See Feature 21 for comments on fireplaces, which must apply here, because it could not be determined whether the burned area served either or both Features 21 or 22. [Feature 24] Postmold palisade. Feature 24 was the double row of postmolds running NE-SW along the southeast side slopes of Phase G and G-1. These rows are shown in pencil on the small scale ground plan of phase G and G-1. These two rows converged in the gulley between the adjacent corners of G and G-1. This would seem to indicate a replacement of the palisade during its use. A very thorough search at each end of the rows shown on the ground plan failed to show any more holes, but of course, the possibility still remains that this was the only section of the palisade that was preserved. However, reference is made to the comment on the form of Feature 23 that the short NW-SE row on the SE slope of Phase G-1 may have been intended to close off the passage inside the palisade. This would lead to the assumption that the NE end of the palisade is just about complete, as shown.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>John Alden</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Feb 4, 1941</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1941-02-04</dateCreated>
+   </originInfo>
+   <note>Feature identifier(s): 21, 22, 24</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <topic>General site and excavation</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n82226528">
+      <geographic>Roane County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

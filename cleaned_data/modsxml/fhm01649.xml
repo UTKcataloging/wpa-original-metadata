@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01649</identifier>
+   <identifier>74RH41</identifier>
+   <titleInfo>
+      <title>74RH41 Hampton Farm Site 85VT1RH41, Rhea County, Tennessee. House number 1. Picture shows pit and post mold outline. Four support post molds in the center--fire basin intrusive into earlier one. Sq. 16L1. Direction west</title>
+   </titleInfo>
+   <abstract>Only house excavated at site. Cross sections of others in trenches and pits show essentially the same type. It was a shallow pit-house, square with rounded corners. The pit depression was a gradual dip from the edges to the center - giving a saucer shape in cross section. House #1 was intrusive or superimposed on another earlier house which had approximately the same size and placement. In places the earlier floor was visible but most of it was destroyed or dug away in the construction of House #1. Floor showed burnt areas, much burnt daub, several charred sticks. Three of the four center support posts were rich pine still intact and in good shape. Among the many artifacts associated with floor was a crushed glass trade bead, HI (38), suggesting a rather recent history for the site. Firebasin was superimposed on the edge of an earlier one. The earlier fireplace appeared to be little more than a hearth but it is likely that was a circular basin originally but destroyed later. A gap in the regular spacing of the postmolds is seen on the south and on the north sides of the house. One or both may possibly represent entranceways. Posts were placed perpendicularly in the ground. No wedges or wall trench apparent. Four rectangularly spaced post molds within house suggest the presence of stringers to support roof. Wall posts were not likely bent in but probably supported a resting weight. Charred sticks on the floor were not plentiful enough to show the probable roof construction. Small bits of the burnt daub indicate that roof had a thatch covered with a clay plaster. (Large scale drawing on ground-plan).</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81139865">
+      <geographic>Rhea County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

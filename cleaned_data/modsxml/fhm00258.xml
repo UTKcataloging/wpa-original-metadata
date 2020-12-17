@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00258</identifier>
+   <identifier>141BY13</identifier>
+   <titleInfo>
+      <title>141BY13 Ledford Island, Bradley Co., TN. Feature 9, Showing pit outline and yellow sandy clay (perhaps roof ?). Square 2R6, etc. Direction north</title>
+   </titleInfo>
+   <abstract>Feature 9 is a pit of a Semi-subterranean structure with fire basins. The top of the pit was filled with a dark humic soild filled with scattered charcoal and burnt clay. The pit fill was extremely rich, twelve twenty-five pound bags of potsherds being removed from it. The top of the pit sloped from the north to the south, due probably to post-habitation erosion because there is a slight slope to the south on the surface. The pit at the north side was 1.2' deep and at the south 0.6' deep. The sides of the pit were nearly vertical. Above the floor on an irregualr layer of yellow sandy clay were scattered several rocks, all but one large pebble varying from about 0.1' in diameter to about 0.6', and one slab of limestone about 0.2' thick and about 1.4 in diameter. The layer of yellow sandy clay covered roughly the north half of the structure's floor and extended over the firebasins and most of the postmolds; there were a few postmolds that were intrusive to this layer. This layer of clay was in spots laminated in thin layers While this layer covered the firebasins all the detritus lay above it and only a scant layer of dark charcoal filled soil lay beneath the layer and above the floor. The floor was rather indistinct and was not very hard packed....</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>George A. Lidberg</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Jul 12, 1938</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1938-07-12</dateCreated>
+   </originInfo>
+   <note>Additional narrative information is on file at the institution. See also photograph 153BY13 [fhm00260]. Contact institution for additonal specific field specimen numbers. Additional field specimen numbers: about 200 numbers ranging from 724 to 1807, then non-consecutively from 1815 to 1944.</note>
+   <note>Feature identifier(s): 9</note>
+   <note>Field specimen identifier(s): 724, 911, 1008, 1100, 1207, 1335, 1404, 1506, 1600, 1704, 1806, 1942</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <topic>General site and excavation</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Late Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="start">1938</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf" point="end">1939</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81024913">
+      <geographic>Bradley County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

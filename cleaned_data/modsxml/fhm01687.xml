@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01687</identifier>
+   <identifier>16SW1</identifier>
+   <titleInfo>
+      <title>16SW1 Gray Farm Site 1SW1, Stewart Co., TN. Feature 27, House pit sunk from top of subsoil. Structure delineated by wall trenches and vertical molds, and open corners with small corner molds placed off center. Photo shows the heaviest concentration of burned saplings of superstructure lying on floor. Level top subsoil. Sq. 5L11. Direction northeast</title>
+   </titleInfo>
+   <abstract>Also central burned area which was fireplace. Artifacts scattered on floor included broken trowel, broken pot, and worked deer antler. [Feature 27] The floor of this structure lay about 0.6' into subsoil, this area having been a rectangular area scooped out for its placement. The house pit, on the NE side where the original outline of the dug-out area was quite definite, and showed that the pit had sloping sides and somewhat rounded corners. The sides of the house pit sloped to the outside edges of the wall trenches. The structure pattern was delineated by wall trenches with open corners and corner molds placed off center. The corner molds were slightly smaller than the wall molds. There were also four inside roof support molds associated. The wall trenches were relatively narrow, being but about 0.1' wider at the top than the molds set into them. The molds were fairly regular in spacing and seemed to taper slightly toward the bottom of the trench, into which they were placed vertically. The wall trench also narrowed from top to bottom, so that the molds were snugly fit into them. Near the top of the trench, however, the molds appeared to lie along the outer edges of the wall trenches. There appeared to be no prepared floor to the structure, the hard clay subsoil acting in this capacity, but a few areas seemed compound or packed, probably by usage. The entire floor was covered with charred material of the superstructure, this consisting of charred saplings. No other material was identified. The structure had burned and the debris had dropped to the floor, burning a few sections brick red. No fire basin was associated but there was a central oval burned area, which had served as a fireplace. This was fired to a thickness of 0.5' to 0.1'. This structure cannot be assigned to any specific level of the village as the pit was discernible only to the top of the subsoil. Midden soil of the village lay over it and there seemed to have been considerable disturbance of the pit outline on the SE, SW, and NE sides. Since this feature is intrusive to Feature 35, it must have originated at a somewhat higher level--probably ca. the middle of Level 2.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Wendell C. Walker</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Jun 1, 1939</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1939-06-01</dateCreated>
+   </originInfo>
+   <note>Feature identifier(s): 27</note>
+   <note>Field specimen identifier(s): 423, 707, 708, 709, 710, 813, 834</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1939</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81092195">
+      <geographic>Stewart County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

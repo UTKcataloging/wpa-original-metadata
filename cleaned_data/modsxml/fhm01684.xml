@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01684</identifier>
+   <identifier>13SW1</identifier>
+   <titleInfo>
+      <title>13SW1 Gray Farm Site 1SW1, Stewart Co., TN. Feature 21, Structure delineated by wall trenches showing under burned clay floor that extended over entire structure pattern. A section of floor plan divided by two wall trenches intrusive from above. . Inclusive to Levels 2 and 3. Square 6L10. Direction West-Southwest</title>
+   </titleInfo>
+   <abstract>A fire basin with raised rim is located slightly away from the center. The following various artifacts are scattered over the floor: Pottery rattle, FS 488, Small pot FS 489, Flint spade FS 490, Polished celt FS 491, Flint spade FS 492, Flint chisel FS 493, Chalk FS 561, Worked stone FS 562, Calena FS 563, Hammer stone FS 564, and Pestle FS 565. [Feature 21] This nearly square dwelling was very well made and preserved, having a hard baked floor of puddled clay burnt to a dull red and very hard (Ca. 2). This floor had apparently been made after the wall posts were set in place since in many sections it was worked well around and between these posts. This apparently was done before the superstructure or roof and wall covering was put on, since the floor was burnt hard by fire and this operation would have been extremely dangerous with any other superstructure other than that of the wall posts. Since the floor was worked up against the wall post, the wall trench was not found until the floor was removed. The wall trench was continuous around the corners and set in it were small post molds set evenly ca. 6" apart and at the back section of the trench. There was no evidence of any log mold within the trench. Lying on the floor were a series of artifacts and such as pots, rattles, flintspades, celt, and very fragmentary charred section of small splings and cane matting. Slightly to the SE of center was a well made fire basin, the rim of which was .05' above the floor and .25' wide. The outside diameter of the basin was 1.8' and the inside 1.3' and .35' deep. In form the basin was circular with sides sloping to a rounded bottom looking much like an inverted bowl. This basin was made of puddled clay burned to a hard dull red brick and was filled with wood ash. Lying over the floor to a depth of between .3' and .5' was a mass of lightly burned sandy humic earth which covered the structure. The only superstructure evidence derived from this structure was of vertical side wall posts set in wall trenches, the use of small saplings and split cane (possibly on mats) an earth covering over at least the roof and possibly the side walls. The brick floor was burnt to a depth of 0.2' while below this the under soil is scorched but not burnt very hard. In the picture the wall trenches of another structure can be seen to the corner near the center of this dwelling. It was at first thought that these were a partition, however, subsequent excavation proved them to be walls of another structure (Feature 31) coming from a higher level.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>May 24, 1939</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1939-05-24</dateCreated>
+   </originInfo>
+   <note>See also photograph 14SW1 [fhm01685].</note>
+   <note>Feature identifier(s): 21</note>
+   <note>Field specimen identifier(s): 488, 489, 490, 491, 492, 493, 499, 500, 552, 553, 554, 669, 562, 563, 564, 565, 580, 610, 669, 501, 502, 503</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1939</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81092195">
+      <geographic>Stewart County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

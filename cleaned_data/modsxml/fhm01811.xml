@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01811</identifier>
+   <identifier>11-215</identifier>
+   <titleInfo>
+      <title>11-215 C.J. Walters Farm Site 11UN11, Union County, Tennessee. Feature 4, Burned structure and postmolds showing pottery vessels on floor</title>
+   </titleInfo>
+   <abstract>This small structure had a well defined, hard packed floor underlain by clay and sand mixed with chert fragments. The double row of post molds on the south side are of the same depth. The small depression (G) is smooth walled, 13" in diameter and gently slopes to a depth of 4" in the center. The post molds within the structure were somewhat larger in diameter and deeper than those of the side walls of the structure. The fireplace was of three large sandstone boulders and the area encompassed (H) was burned black and surrounded by clay. The two stones (I and J) were sandstone and limestone respectively. One stone (I) lay upon the burned structure, while the other (J) was upon the floor. A large brass ring, 1" in diameter and cut by a hacksaw lay at (A) but 8" above the floor. (K) is a drilled mussel shell (Unio sp.) found upon the floor. There is also a stone quoit (L). A fragment of deer antler (M) lay completely charred but in place beneath the burned structure. Of the pottery, a bowl (E) was found inverted. Another bowl (D) was also inverted as was a pot with a square rim (B2). Another small shallow bowl (C) was found inverted. Another bowl (B1) was found upright and 4" above the floor. Half of a larger paddle marked pot (F), was evidently broken by the plow. One area (N) was probably a storage pit outside the structre. It is 16" in diameter and 30" deep. It was filled with midden soil. There is also an implement of limestone (P).</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <note>Observer illustration on file at the institution. See also photographs 11-213(B) [fhm01808], 11-213(A) [fhm01809], 11-214 [fhm01810], 11-216 [fhm01812], 11-218 [fhm01814], and 823UN11 [fhm01828].</note>
+   <note>Feature identifier(s): 4</note>
+   <note>Field specimen identifier(s): 4, 5, 6, 37</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85048564">
+      <topic>Fireplaces</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1934</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79028033">
+      <geographic>Union County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

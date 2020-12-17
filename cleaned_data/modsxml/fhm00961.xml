@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm00961</identifier>
+   <identifier>44HS1</identifier>
+   <titleInfo>
+      <title>44HS1 Slayden Site 3HS1, Humphreys County, Tennessee. Mound 3. Feature 11, rectangular structure with square corners. Shows small storage pit at the left (Feature 39), a shallow pit near the center (Feature 38), a deep pit along the south wall (Feature 13), and a small midden pit near Feature 13 (Feature 8). Direction north</title>
+   </titleInfo>
+   <abstract>This structure is underneath Structure 23 by about 1.1' and its east wall is underneath Structure 19 about 6". From the datum readings it is evident that it lies on a lower level than Structure 14 and hence this structure is the earliest one found in Unit 3 of HS1. It is a narrow rectangular structure of irregular proportions since the North end is disproportionatly further east than the South end. It is also somewhat wider at the North end. At the North end and about half way between the two sides was a large fire bed built up 4" above the floor and dished out in the center. Originally, the fire bed was orientated North-South and about 6" deep. At a later time, however, it was filled in and another fire bed built East-West. This latter bed was only dished out about 2" (Feature 30). The North half of the structure floor was covered with a fire layer of sand mixed with clay (the only structure so treated at the site). Above this are many burned areas showing that at least part of the structure was burned. (See Feature 33, 35, 31). 11a is a short partition wall running into the structure from the west wall. 11b is a short row of post molds 3' South of 11a and parallel. Feature 13 adn 39 are two cache pits, while Feature 8 and 38 are refuse pits. Throughout the structure are numerous miscellaneous post molds (all marked with a small 11 on the plot). This structure is resting upon the hardpan.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>Charles H. Nash</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Dec 2, 1935</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1935-12-02</dateCreated>
+   </originInfo>
+   <note>Additional narrative information is available at the institution. See also photograph 45HS1 [fhm00962].</note>
+   <note>Feature identifier(s): 11, 8, 13, 38, 39</note>
+   <note>Field specimen identifier(s): 35, 36, 37, 38</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1935</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80067523">
+      <geographic>Humphreys County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

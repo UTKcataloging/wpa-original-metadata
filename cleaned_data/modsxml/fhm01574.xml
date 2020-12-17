@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">fhm01574</identifier>
+   <identifier>173RE12</identifier>
+   <titleInfo>
+      <title>173RE12 DeArmond Site 3RE12, Roane Co., TN. Feature 15, Section of wall trench with small postmolds on Phase D. Row of rocks on pillars to the left and parallel with wall trench marks bottom of postmold wall from summit of Phase D. Sq. 48CA. Direction west</title>
+   </titleInfo>
+   <abstract>[Feature 8] Rectangular postmold structure on mound. As in the case of the houses on the summit of Phase B, there has been close superposition on the summit of Phase D. Consequently, no water-tight information on the nature of Feature 8 can be given, beyond the firebasin. So, with the exception of the wall trench structure Feature 15 and the individual fire basins Features 9, 10, 11, 13, 14, and 11 the evidence will be summarized here as Feature 8. The exact depth of the summit debris, in all places on Phase D is not known. But since the origin of the firebasins varies not more than 0.1', the summit material, or accretive floors is known to be thin. Along the southwest side, the summit debris accumulated to a depth of about 0.3' and through this accumulation were intruded the postmolds lying outside the limits of the summit drawn on the ground plan. Therefore, these houses must have been the last on the phase. Also, along the southeast side of the phase, the sideslope is very steep. However, Phase D post holes were found which were only half-way in the edge of the mound, the outer sides of the posts being supported by Phase C, the heavy black clay sideslope addition. So, some of the Phase D occupation was contemporaneous with Phase C. Assuming the fireplace to be approximately in the center of the floor (and the fire basin of Feature 8 seemed last in its series) the last house, or several houses were quite large, taking up almost the whole summit of the mound, or about 30' square. Nothing is known about the superstructure, corners, interior supports, furniture, or even the distribution of the posts in the wall patterns of the last structure. Some notion of the nature of the walls of the earlier houses on Phase D can be obtained from the row of post molds, between the following to points: 48L1, 0.2;N, 2.0'W; 49CA, 0.5'N, 0.6'W. Each of these postholes had a limestone slab in its bottom which kept the butt of the post from sinking through the soft sand fill. These slabs show in the photograph of Feature 15 (wall trench). The occurance of slabs in the bottoms of post holes of this phase was quite common. The post holes intruded from Phase B to Phase D were likewise supported. The fire basin of Feature 8 deserves special mention. Its shape is shown in the detail drawing attached to the ground plan of Phase C and D. It was a square pit excavated to a depth of 1.4'. The lower half was filled with ash and mussel shells. The walls of the upper half were burned red. The mound fill, of course, was sand, so that the side walls of the fire place were of sand. The fill had occasional small lumps of clay mixed with the sand, and this was the only clay involved in the construction of the firebasin. Why only the upper half of the basin should be so baked out is not known. The southwestern side wall was partially cut down by an intrusion which disturbed the firebasin Feature 11. The nature of this intrusion has not been ascertained. The other and earlier houses seemed to be a little smaller, although in no case can size be presented too validly on this summit. The very clean nature of the summit would seem to indicate that the superstructure was cleared away for each house and for the construction of Phase B. There was no evidence that these structures had been destroyed by fire. [Feature 15] Feature 15 was found while cutting down the fill of Phase D, and was first seen at approximately 4.5' datum depth. There was no floor, firebasin, or other indication of occupation at this level. Therefore, it may be safely assumed that these wall trenches came from a higher level. The next occupational level above this was at 3.6' datum depth, at which level two firebasins were found, Features 13 and 14. (See forms Feat. 13 and 14 for descriptions). Probably one or the other of these basins were associated with Feature 15. The placement of Feature 14 would seem to indicate that it was the more likely of the two. About one-half of the NE wall and most of the SE wall of this structure was found. Therefore, the dimensions of the complete structure are only approximate. The depths given for the wall trenches are calculated from an assumed floor elevation of 3.6' datum depth, and are likewise approximate. Since the structure was not seen until cut away, no interior architecture was seen associated with it. However, none was found for the other structures (excepting firebasins) so it is doubtful if any existed at the time of excavation.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name>
+      <namePart>John Alden</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/wit">Witness</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Sep 15, 1940</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1940-09-15</dateCreated>
+   </originInfo>
+   <note>See also photographs 75RE12 [fhm01565], 77RE12 [fhm01566], and 78RE12 [fhm01567].</note>
+   <note>Feature identifier(s): 8, 15</note>
+   <note>Field specimen identifier(s): 320, 355</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006507">
+      <topic>Archaeology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006502">
+      <topic>Archaeological museums and collections</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85133869">
+      <topic>Tennessee--Antiquities</topic>
+   </subject>
+   <subject>
+      <topic>Structure patterns</topic>
+   </subject>
+   <subject>
+      <temporal>Woodland</temporal>
+   </subject>
+   <subject>
+      <temporal>Mississippian</temporal>
+   </subject>
+   <subject>
+      <temporal encoding="edtf">1940</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81081809">
+      <name>
+         <namePart>United States. Works Progress Administration</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80126249">
+      <name>
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2017033007">
+      <name>
+         <namePart>Frank H. McClung Museum of Natural History and Culture</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n82226528">
+      <geographic>Roane County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+      <geographic>Southern States</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>WPA/TVA Archeological Photographs</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Frank H. McClung Museum WPA/TVA Photograph Archive</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>
