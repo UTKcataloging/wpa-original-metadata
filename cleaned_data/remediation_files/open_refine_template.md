@@ -53,7 +53,7 @@
 {{if(isBlank(cells['subject_temporal2'].value), '', '<subject><temporal>' + cells['subject_temporal2'].value + '</temporal></subject>')}}
 {{if(isBlank(cells['subject_temporal3'].value), '', '<subject><temporal>' + cells['subject_temporal3'].value + '</temporal></subject>')}}
 {{if(isBlank(cells['date_subject_temporal'].value), '', '<subject><temporal encoding="edtf">' + cells['date_subject_temporal'].value + '</temporal></subject>')}}
-{{if(isBlank(cells['date_subject_temporal 1'].value), '', '<subject><temporal encoding="edtf" point="start">' + cells['date_subject_temporal 1'].value + '</temporal></subject><subject><temporal encoding="edtf" point="end">' + cells['date_subject_temporal 2'].value + '</temporal></subject>')}}
+{{if(isBlank(cells['date_subject_temporal 1'].value), '', '<subject><temporal encoding="edtf" point="start">' + cells['date_subject_temporal 1'].value + '</temporal><temporal encoding="edtf" point="end">' + cells['date_subject_temporal 2'].value + '</temporal></subject>')}}
 
 {{if(isBlank(cells['subject_name'].value), '', '<subject' + if(isBlank(cells['subject_name_URI'].value), '', ' authority="naf" valueURI="' + cells['subject_name_URI'].value + '"') + '><name><namePart>' + cells['subject_name'].value + '</namePart></name></subject>')}}
 {{if(isBlank(cells['subject_name2'].value), '', '<subject' + if(isBlank(cells['subject_name2_URI'].value), '', ' authority="naf" valueURI="' + cells['subject_name2_URI'].value + '"') + '><name><namePart>' + cells['subject_name2'].value + '</namePart></name></subject>')}}

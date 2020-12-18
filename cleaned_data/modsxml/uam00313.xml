@@ -61,8 +61,6 @@
    </subject>
    <subject>
       <temporal encoding="edtf" point="start">1937</temporal>
-   </subject>
-   <subject>
       <temporal encoding="edtf" point="end">1938</temporal>
    </subject>
    <subject authority="naf"
